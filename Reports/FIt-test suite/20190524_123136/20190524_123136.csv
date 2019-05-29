@@ -1,0 +1,29 @@
+Suite/Test/Step Name,Browser,Description,Tag,Start time,End time,Duration,Status
+FIt-test suite,,,,2019-05-24 12:31:49,2019-05-24 12:32:26,37.434s,FAILED
+,,,,,,,
+Test Cases/test,,,,2019-05-24 12:31:49,2019-05-24 12:31:55,6.026s,PASSED
+"if (methodforcall == ""PUT"")",,,,2019-05-24 12:31:50,2019-05-24 12:31:55,5.637s,PASSED
+,,,,,,,
+Test Cases/test,,,,2019-05-24 12:31:55,2019-05-24 12:31:58,3.123s,PASSED
+"if (methodforcall == ""PUT"")",,,,2019-05-24 12:31:55,2019-05-24 12:31:58,3.091s,PASSED
+,,,,,,,
+Test Cases/test,,,,2019-05-24 12:31:58,2019-05-24 12:32:03,4.342s,PASSED
+"if (methodforcall == ""PUT"")",,,,2019-05-24 12:31:58,2019-05-24 12:32:03,4.307s,PASSED
+,,,,,,,
+Test Cases/test,,,,2019-05-24 12:32:03,2019-05-24 12:32:11,8.354s,PASSED
+"if (methodforcall == ""PUT"")",,,,2019-05-24 12:32:03,2019-05-24 12:32:11,8.329s,PASSED
+,,,,,,,
+Test Cases/test,,,,2019-05-24 12:32:11,2019-05-24 12:32:14,3.150s,PASSED
+"if (methodforcall == ""PUT"")",,,,2019-05-24 12:32:11,2019-05-24 12:32:14,3.120s,PASSED
+,,,,,,,
+Test Cases/test,,,,2019-05-24 12:32:14,2019-05-24 12:32:17,2.940s,PASSED
+"if (methodforcall == ""PUT"")",,,,2019-05-24 12:32:14,2019-05-24 12:32:17,2.917s,PASSED
+,,,,,,,
+Test Cases/test,,,,2019-05-24 12:32:17,2019-05-24 12:32:18,1.110s,FAILED
+"if (methodforcall == ""PUT"")",,,,2019-05-24 12:32:17,2019-05-24 12:32:18,1.080s,FAILED
+,,,,,,,
+Test Cases/test,,,,2019-05-24 12:32:18,2019-05-24 12:32:22,3.858s,PASSED
+"if (methodforcall == ""PUT"")",,,,2019-05-24 12:32:18,2019-05-24 12:32:22,3.794s,PASSED
+,,,,,,,
+Test Cases/test,,,,2019-05-24 12:32:22,2019-05-24 12:32:26,4.202s,PASSED
+"if (methodforcall == ""PUT"")",,,,2019-05-24 12:32:22,2019-05-24 12:32:26,4.179s,PASSED

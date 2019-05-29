@@ -1,0 +1,496 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuites name="FIt-test suite" time="23" tests="0" failures="0" errors="6">
+   <testsuite name="FIt-test suite" tests="0" failures="0" errors="6" time="23" timestamp="2019-05-14 16:51:02" hostname="Lavanya_DF - DESKTOP-T5KOPIL" id="Test Suites/FIt-test suite">
+      <properties>
+         <property name="deviceName" value=""/>
+         <property name="devicePlatform" value=""/>
+         <property name="logFolder" value="C:\\Users\\Lavanya_DF\\Downloads\\GS1 FIT\\GS1 FIT\\Reports\\FIt-test suite\\20190514_165059"/>
+         <property name="logFiles" value="C:\\Users\\Lavanya_DF\\Downloads\\GS1 FIT\\GS1 FIT\\Reports\\FIt-test suite\\20190514_165059\\execution0.log"/>
+         <property name="attachments" value=""/>
+         <property name="hostName" value="Lavanya_DF - DESKTOP-T5KOPIL"/>
+         <property name="hostAddress" value="192.168.0.153"/>
+         <property name="os" value="Windows 10 64bit"/>
+         <property name="katalonVersion" value="6.1.2.2"/>
+      </properties>
+      <testcase name="Test Cases/test" classname="Test Cases/test" status="ERROR">
+         <error type="ERROR" message="Test Cases/test FAILED.
+Reason:
+groovy.lang.MissingMethodException: No signature of method: static com.kms.katalon.core.webservice.keyword.WSBuiltInKeywords.verifyElementPropertyValue() is applicable for argument types: (java.lang.String, java.lang.String, java.lang.String) values: [, status, 400]
+Possible solutions: verifyElementPropertyValue(com.kms.katalon.core.testobject.ResponseObject, java.lang.String, java.lang.Object), verifyElementPropertyValue(com.kms.katalon.core.testobject.ResponseObject, java.lang.String, java.lang.Object, com.kms.katalon.core.model.FailureHandling)
+	at test.run(test:19)
+	at com.kms.katalon.core.main.ScriptEngine.run(ScriptEngine.java:194)
+	at com.kms.katalon.core.main.ScriptEngine.runScriptAsRawText(ScriptEngine.java:119)
+	at com.kms.katalon.core.main.TestCaseExecutor.runScript(TestCaseExecutor.java:336)
+	at com.kms.katalon.core.main.TestCaseExecutor.doExecute(TestCaseExecutor.java:327)
+	at com.kms.katalon.core.main.TestCaseExecutor.processExecutionPhase(TestCaseExecutor.java:306)
+	at com.kms.katalon.core.main.TestCaseExecutor.accessMainPhase(TestCaseExecutor.java:298)
+	at com.kms.katalon.core.main.TestCaseExecutor.execute(TestCaseExecutor.java:232)
+	at com.kms.katalon.core.main.TestSuiteExecutor.accessTestCaseMainPhase(TestSuiteExecutor.java:129)
+	at com.kms.katalon.core.main.TestSuiteExecutor.accessTestSuiteMainPhase(TestSuiteExecutor.java:112)
+	at com.kms.katalon.core.main.TestSuiteExecutor.execute(TestSuiteExecutor.java:81)
+	at com.kms.katalon.core.main.TestCaseMain.startTestSuite(TestCaseMain.java:157)
+	at com.kms.katalon.core.main.TestCaseMain$startTestSuite$0.call(Unknown Source)
+	at TempTestSuite1557832859780.run(TempTestSuite1557832859780.groovy:35)
+"/>
+         <system-out><![CDATA[2019-05-14 16:51:02 - [TEST_CASE][ERROR] - Test Cases/test: Test Cases/test FAILED.
+Reason:
+groovy.lang.MissingMethodException: No signature of method: static com.kms.katalon.core.webservice.keyword.WSBuiltInKeywords.verifyElementPropertyValue() is applicable for argument types: (java.lang.String, java.lang.String, java.lang.String) values: [, status, 400]
+Possible solutions: verifyElementPropertyValue(com.kms.katalon.core.testobject.ResponseObject, java.lang.String, java.lang.Object), verifyElementPropertyValue(com.kms.katalon.core.testobject.ResponseObject, java.lang.String, java.lang.Object, com.kms.katalon.core.model.FailureHandling)
+	at test.run(test:19)
+	at com.kms.katalon.core.main.ScriptEngine.run(ScriptEngine.java:194)
+	at com.kms.katalon.core.main.ScriptEngine.runScriptAsRawText(ScriptEngine.java:119)
+	at com.kms.katalon.core.main.TestCaseExecutor.runScript(TestCaseExecutor.java:336)
+	at com.kms.katalon.core.main.TestCaseExecutor.doExecute(TestCaseExecutor.java:327)
+	at com.kms.katalon.core.main.TestCaseExecutor.processExecutionPhase(TestCaseExecutor.java:306)
+	at com.kms.katalon.core.main.TestCaseExecutor.accessMainPhase(TestCaseExecutor.java:298)
+	at com.kms.katalon.core.main.TestCaseExecutor.execute(TestCaseExecutor.java:232)
+	at com.kms.katalon.core.main.TestSuiteExecutor.accessTestCaseMainPhase(TestSuiteExecutor.java:129)
+	at com.kms.katalon.core.main.TestSuiteExecutor.accessTestSuiteMainPhase(TestSuiteExecutor.java:112)
+	at com.kms.katalon.core.main.TestSuiteExecutor.execute(TestSuiteExecutor.java:81)
+	at com.kms.katalon.core.main.TestCaseMain.startTestSuite(TestCaseMain.java:157)
+	at com.kms.katalon.core.main.TestCaseMain$startTestSuite$0.call(Unknown Source)
+	at TempTestSuite1557832859780.run(TempTestSuite1557832859780.groovy:35)
+
+
+2019-05-14 16:51:02 - [TEST_STEP][PASSED] - if (glnparameter == ""): null
+
+2019-05-14 16:51:02 - [TEST_STEP][PASSED] - Storerespone = sendRequestAndVerify(findTestObject("GLN Approve - EOID", ["url":url, "body":body, "methodforcall":methodforcall])): Send request and verify the response successfully
+
+2019-05-14 16:51:07 - [TEST_CASE][PASSED] - Start Test Case : Verification: Verification accomplished successfully
+
+2019-05-14 16:51:07 - [TEST_STEP][PASSED] - request = getInstance().getCurrentRequest(): null
+
+2019-05-14 16:51:07 - [TEST_STEP][PASSED] - response = getInstance().getCurrentResponse(): null
+
+2019-05-14 16:51:07 - [MESSAGE][PASSED] - Verify response successfully
+
+2019-05-14 16:51:07 - [MESSAGE][PASSED] - Send request and verify the response successfully
+
+2019-05-14 16:51:07 - [TEST_STEP][PASSED] - verifyElementPropertyValue(Storeresponse, status, statuscode): null]]></system-out>
+         <system-err><![CDATA[2019-05-14 16:51:02 - [TEST_CASE][ERROR] - Test Cases/test: Test Cases/test FAILED.
+Reason:
+groovy.lang.MissingMethodException: No signature of method: static com.kms.katalon.core.webservice.keyword.WSBuiltInKeywords.verifyElementPropertyValue() is applicable for argument types: (java.lang.String, java.lang.String, java.lang.String) values: [, status, 400]
+Possible solutions: verifyElementPropertyValue(com.kms.katalon.core.testobject.ResponseObject, java.lang.String, java.lang.Object), verifyElementPropertyValue(com.kms.katalon.core.testobject.ResponseObject, java.lang.String, java.lang.Object, com.kms.katalon.core.model.FailureHandling)
+	at test.run(test:19)
+	at com.kms.katalon.core.main.ScriptEngine.run(ScriptEngine.java:194)
+	at com.kms.katalon.core.main.ScriptEngine.runScriptAsRawText(ScriptEngine.java:119)
+	at com.kms.katalon.core.main.TestCaseExecutor.runScript(TestCaseExecutor.java:336)
+	at com.kms.katalon.core.main.TestCaseExecutor.doExecute(TestCaseExecutor.java:327)
+	at com.kms.katalon.core.main.TestCaseExecutor.processExecutionPhase(TestCaseExecutor.java:306)
+	at com.kms.katalon.core.main.TestCaseExecutor.accessMainPhase(TestCaseExecutor.java:298)
+	at com.kms.katalon.core.main.TestCaseExecutor.execute(TestCaseExecutor.java:232)
+	at com.kms.katalon.core.main.TestSuiteExecutor.accessTestCaseMainPhase(TestSuiteExecutor.java:129)
+	at com.kms.katalon.core.main.TestSuiteExecutor.accessTestSuiteMainPhase(TestSuiteExecutor.java:112)
+	at com.kms.katalon.core.main.TestSuiteExecutor.execute(TestSuiteExecutor.java:81)
+	at com.kms.katalon.core.main.TestCaseMain.startTestSuite(TestCaseMain.java:157)
+	at com.kms.katalon.core.main.TestCaseMain$startTestSuite$0.call(Unknown Source)
+	at TempTestSuite1557832859780.run(TempTestSuite1557832859780.groovy:35)]]></system-err>
+      </testcase>
+      <testcase name="Test Cases/test" classname="Test Cases/test" status="ERROR">
+         <error type="ERROR" message="Test Cases/test FAILED.
+Reason:
+groovy.lang.MissingMethodException: No signature of method: static com.kms.katalon.core.webservice.keyword.WSBuiltInKeywords.verifyElementPropertyValue() is applicable for argument types: (java.lang.String, java.lang.String, java.lang.String) values: [, status, 409]
+Possible solutions: verifyElementPropertyValue(com.kms.katalon.core.testobject.ResponseObject, java.lang.String, java.lang.Object), verifyElementPropertyValue(com.kms.katalon.core.testobject.ResponseObject, java.lang.String, java.lang.Object, com.kms.katalon.core.model.FailureHandling)
+	at test.run(test:19)
+	at com.kms.katalon.core.main.ScriptEngine.run(ScriptEngine.java:194)
+	at com.kms.katalon.core.main.ScriptEngine.runScriptAsRawText(ScriptEngine.java:119)
+	at com.kms.katalon.core.main.TestCaseExecutor.runScript(TestCaseExecutor.java:336)
+	at com.kms.katalon.core.main.TestCaseExecutor.doExecute(TestCaseExecutor.java:327)
+	at com.kms.katalon.core.main.TestCaseExecutor.processExecutionPhase(TestCaseExecutor.java:306)
+	at com.kms.katalon.core.main.TestCaseExecutor.accessMainPhase(TestCaseExecutor.java:298)
+	at com.kms.katalon.core.main.TestCaseExecutor.execute(TestCaseExecutor.java:232)
+	at com.kms.katalon.core.main.TestSuiteExecutor.accessTestCaseMainPhase(TestSuiteExecutor.java:129)
+	at com.kms.katalon.core.main.TestSuiteExecutor.accessTestSuiteMainPhase(TestSuiteExecutor.java:112)
+	at com.kms.katalon.core.main.TestSuiteExecutor.execute(TestSuiteExecutor.java:81)
+	at com.kms.katalon.core.main.TestCaseMain.startTestSuite(TestCaseMain.java:157)
+	at com.kms.katalon.core.main.TestCaseMain$startTestSuite$0.call(Unknown Source)
+	at TempTestSuite1557832859780.run(TempTestSuite1557832859780.groovy:35)
+"/>
+         <system-out><![CDATA[2019-05-14 16:51:07 - [TEST_CASE][ERROR] - Test Cases/test: Test Cases/test FAILED.
+Reason:
+groovy.lang.MissingMethodException: No signature of method: static com.kms.katalon.core.webservice.keyword.WSBuiltInKeywords.verifyElementPropertyValue() is applicable for argument types: (java.lang.String, java.lang.String, java.lang.String) values: [, status, 409]
+Possible solutions: verifyElementPropertyValue(com.kms.katalon.core.testobject.ResponseObject, java.lang.String, java.lang.Object), verifyElementPropertyValue(com.kms.katalon.core.testobject.ResponseObject, java.lang.String, java.lang.Object, com.kms.katalon.core.model.FailureHandling)
+	at test.run(test:19)
+	at com.kms.katalon.core.main.ScriptEngine.run(ScriptEngine.java:194)
+	at com.kms.katalon.core.main.ScriptEngine.runScriptAsRawText(ScriptEngine.java:119)
+	at com.kms.katalon.core.main.TestCaseExecutor.runScript(TestCaseExecutor.java:336)
+	at com.kms.katalon.core.main.TestCaseExecutor.doExecute(TestCaseExecutor.java:327)
+	at com.kms.katalon.core.main.TestCaseExecutor.processExecutionPhase(TestCaseExecutor.java:306)
+	at com.kms.katalon.core.main.TestCaseExecutor.accessMainPhase(TestCaseExecutor.java:298)
+	at com.kms.katalon.core.main.TestCaseExecutor.execute(TestCaseExecutor.java:232)
+	at com.kms.katalon.core.main.TestSuiteExecutor.accessTestCaseMainPhase(TestSuiteExecutor.java:129)
+	at com.kms.katalon.core.main.TestSuiteExecutor.accessTestSuiteMainPhase(TestSuiteExecutor.java:112)
+	at com.kms.katalon.core.main.TestSuiteExecutor.execute(TestSuiteExecutor.java:81)
+	at com.kms.katalon.core.main.TestCaseMain.startTestSuite(TestCaseMain.java:157)
+	at com.kms.katalon.core.main.TestCaseMain$startTestSuite$0.call(Unknown Source)
+	at TempTestSuite1557832859780.run(TempTestSuite1557832859780.groovy:35)
+
+
+2019-05-14 16:51:07 - [TEST_STEP][PASSED] - if (glnparameter == ""): null
+
+2019-05-14 16:51:07 - [TEST_STEP][PASSED] - Storerespone = sendRequestAndVerify(findTestObject("GLN Approve - EOID", ["url":url, "body":body, "methodforcall":methodforcall])): Send request and verify the response successfully
+
+2019-05-14 16:51:11 - [TEST_CASE][PASSED] - Start Test Case : Verification: Verification accomplished successfully
+
+2019-05-14 16:51:11 - [TEST_STEP][PASSED] - request = getInstance().getCurrentRequest(): null
+
+2019-05-14 16:51:11 - [TEST_STEP][PASSED] - response = getInstance().getCurrentResponse(): null
+
+2019-05-14 16:51:11 - [MESSAGE][PASSED] - Verify response successfully
+
+2019-05-14 16:51:11 - [MESSAGE][PASSED] - Send request and verify the response successfully
+
+2019-05-14 16:51:11 - [TEST_STEP][PASSED] - verifyElementPropertyValue(Storeresponse, status, statuscode): null]]></system-out>
+         <system-err><![CDATA[2019-05-14 16:51:07 - [TEST_CASE][ERROR] - Test Cases/test: Test Cases/test FAILED.
+Reason:
+groovy.lang.MissingMethodException: No signature of method: static com.kms.katalon.core.webservice.keyword.WSBuiltInKeywords.verifyElementPropertyValue() is applicable for argument types: (java.lang.String, java.lang.String, java.lang.String) values: [, status, 409]
+Possible solutions: verifyElementPropertyValue(com.kms.katalon.core.testobject.ResponseObject, java.lang.String, java.lang.Object), verifyElementPropertyValue(com.kms.katalon.core.testobject.ResponseObject, java.lang.String, java.lang.Object, com.kms.katalon.core.model.FailureHandling)
+	at test.run(test:19)
+	at com.kms.katalon.core.main.ScriptEngine.run(ScriptEngine.java:194)
+	at com.kms.katalon.core.main.ScriptEngine.runScriptAsRawText(ScriptEngine.java:119)
+	at com.kms.katalon.core.main.TestCaseExecutor.runScript(TestCaseExecutor.java:336)
+	at com.kms.katalon.core.main.TestCaseExecutor.doExecute(TestCaseExecutor.java:327)
+	at com.kms.katalon.core.main.TestCaseExecutor.processExecutionPhase(TestCaseExecutor.java:306)
+	at com.kms.katalon.core.main.TestCaseExecutor.accessMainPhase(TestCaseExecutor.java:298)
+	at com.kms.katalon.core.main.TestCaseExecutor.execute(TestCaseExecutor.java:232)
+	at com.kms.katalon.core.main.TestSuiteExecutor.accessTestCaseMainPhase(TestSuiteExecutor.java:129)
+	at com.kms.katalon.core.main.TestSuiteExecutor.accessTestSuiteMainPhase(TestSuiteExecutor.java:112)
+	at com.kms.katalon.core.main.TestSuiteExecutor.execute(TestSuiteExecutor.java:81)
+	at com.kms.katalon.core.main.TestCaseMain.startTestSuite(TestCaseMain.java:157)
+	at com.kms.katalon.core.main.TestCaseMain$startTestSuite$0.call(Unknown Source)
+	at TempTestSuite1557832859780.run(TempTestSuite1557832859780.groovy:35)]]></system-err>
+      </testcase>
+      <testcase name="Test Cases/test" classname="Test Cases/test" status="ERROR">
+         <error type="ERROR" message="Test Cases/test FAILED.
+Reason:
+groovy.lang.MissingMethodException: No signature of method: static com.kms.katalon.core.webservice.keyword.WSBuiltInKeywords.verifyElementPropertyValue() is applicable for argument types: (java.lang.String, java.lang.String, java.lang.String) values: [, status, 409]
+Possible solutions: verifyElementPropertyValue(com.kms.katalon.core.testobject.ResponseObject, java.lang.String, java.lang.Object), verifyElementPropertyValue(com.kms.katalon.core.testobject.ResponseObject, java.lang.String, java.lang.Object, com.kms.katalon.core.model.FailureHandling)
+	at test.run(test:19)
+	at com.kms.katalon.core.main.ScriptEngine.run(ScriptEngine.java:194)
+	at com.kms.katalon.core.main.ScriptEngine.runScriptAsRawText(ScriptEngine.java:119)
+	at com.kms.katalon.core.main.TestCaseExecutor.runScript(TestCaseExecutor.java:336)
+	at com.kms.katalon.core.main.TestCaseExecutor.doExecute(TestCaseExecutor.java:327)
+	at com.kms.katalon.core.main.TestCaseExecutor.processExecutionPhase(TestCaseExecutor.java:306)
+	at com.kms.katalon.core.main.TestCaseExecutor.accessMainPhase(TestCaseExecutor.java:298)
+	at com.kms.katalon.core.main.TestCaseExecutor.execute(TestCaseExecutor.java:232)
+	at com.kms.katalon.core.main.TestSuiteExecutor.accessTestCaseMainPhase(TestSuiteExecutor.java:129)
+	at com.kms.katalon.core.main.TestSuiteExecutor.accessTestSuiteMainPhase(TestSuiteExecutor.java:112)
+	at com.kms.katalon.core.main.TestSuiteExecutor.execute(TestSuiteExecutor.java:81)
+	at com.kms.katalon.core.main.TestCaseMain.startTestSuite(TestCaseMain.java:157)
+	at com.kms.katalon.core.main.TestCaseMain$startTestSuite$0.call(Unknown Source)
+	at TempTestSuite1557832859780.run(TempTestSuite1557832859780.groovy:35)
+"/>
+         <system-out><![CDATA[2019-05-14 16:51:11 - [TEST_CASE][ERROR] - Test Cases/test: Test Cases/test FAILED.
+Reason:
+groovy.lang.MissingMethodException: No signature of method: static com.kms.katalon.core.webservice.keyword.WSBuiltInKeywords.verifyElementPropertyValue() is applicable for argument types: (java.lang.String, java.lang.String, java.lang.String) values: [, status, 409]
+Possible solutions: verifyElementPropertyValue(com.kms.katalon.core.testobject.ResponseObject, java.lang.String, java.lang.Object), verifyElementPropertyValue(com.kms.katalon.core.testobject.ResponseObject, java.lang.String, java.lang.Object, com.kms.katalon.core.model.FailureHandling)
+	at test.run(test:19)
+	at com.kms.katalon.core.main.ScriptEngine.run(ScriptEngine.java:194)
+	at com.kms.katalon.core.main.ScriptEngine.runScriptAsRawText(ScriptEngine.java:119)
+	at com.kms.katalon.core.main.TestCaseExecutor.runScript(TestCaseExecutor.java:336)
+	at com.kms.katalon.core.main.TestCaseExecutor.doExecute(TestCaseExecutor.java:327)
+	at com.kms.katalon.core.main.TestCaseExecutor.processExecutionPhase(TestCaseExecutor.java:306)
+	at com.kms.katalon.core.main.TestCaseExecutor.accessMainPhase(TestCaseExecutor.java:298)
+	at com.kms.katalon.core.main.TestCaseExecutor.execute(TestCaseExecutor.java:232)
+	at com.kms.katalon.core.main.TestSuiteExecutor.accessTestCaseMainPhase(TestSuiteExecutor.java:129)
+	at com.kms.katalon.core.main.TestSuiteExecutor.accessTestSuiteMainPhase(TestSuiteExecutor.java:112)
+	at com.kms.katalon.core.main.TestSuiteExecutor.execute(TestSuiteExecutor.java:81)
+	at com.kms.katalon.core.main.TestCaseMain.startTestSuite(TestCaseMain.java:157)
+	at com.kms.katalon.core.main.TestCaseMain$startTestSuite$0.call(Unknown Source)
+	at TempTestSuite1557832859780.run(TempTestSuite1557832859780.groovy:35)
+
+
+2019-05-14 16:51:11 - [TEST_STEP][PASSED] - if (glnparameter == ""): null
+
+2019-05-14 16:51:11 - [TEST_STEP][PASSED] - Storerespone = sendRequestAndVerify(findTestObject("GLN Approve - EOID", ["url":url, "body":body, "methodforcall":methodforcall])): Send request and verify the response successfully
+
+2019-05-14 16:51:14 - [TEST_CASE][PASSED] - Start Test Case : Verification: Verification accomplished successfully
+
+2019-05-14 16:51:15 - [TEST_STEP][PASSED] - request = getInstance().getCurrentRequest(): null
+
+2019-05-14 16:51:15 - [TEST_STEP][PASSED] - response = getInstance().getCurrentResponse(): null
+
+2019-05-14 16:51:15 - [MESSAGE][PASSED] - Verify response successfully
+
+2019-05-14 16:51:15 - [MESSAGE][PASSED] - Send request and verify the response successfully
+
+2019-05-14 16:51:15 - [TEST_STEP][PASSED] - verifyElementPropertyValue(Storeresponse, status, statuscode): null]]></system-out>
+         <system-err><![CDATA[2019-05-14 16:51:11 - [TEST_CASE][ERROR] - Test Cases/test: Test Cases/test FAILED.
+Reason:
+groovy.lang.MissingMethodException: No signature of method: static com.kms.katalon.core.webservice.keyword.WSBuiltInKeywords.verifyElementPropertyValue() is applicable for argument types: (java.lang.String, java.lang.String, java.lang.String) values: [, status, 409]
+Possible solutions: verifyElementPropertyValue(com.kms.katalon.core.testobject.ResponseObject, java.lang.String, java.lang.Object), verifyElementPropertyValue(com.kms.katalon.core.testobject.ResponseObject, java.lang.String, java.lang.Object, com.kms.katalon.core.model.FailureHandling)
+	at test.run(test:19)
+	at com.kms.katalon.core.main.ScriptEngine.run(ScriptEngine.java:194)
+	at com.kms.katalon.core.main.ScriptEngine.runScriptAsRawText(ScriptEngine.java:119)
+	at com.kms.katalon.core.main.TestCaseExecutor.runScript(TestCaseExecutor.java:336)
+	at com.kms.katalon.core.main.TestCaseExecutor.doExecute(TestCaseExecutor.java:327)
+	at com.kms.katalon.core.main.TestCaseExecutor.processExecutionPhase(TestCaseExecutor.java:306)
+	at com.kms.katalon.core.main.TestCaseExecutor.accessMainPhase(TestCaseExecutor.java:298)
+	at com.kms.katalon.core.main.TestCaseExecutor.execute(TestCaseExecutor.java:232)
+	at com.kms.katalon.core.main.TestSuiteExecutor.accessTestCaseMainPhase(TestSuiteExecutor.java:129)
+	at com.kms.katalon.core.main.TestSuiteExecutor.accessTestSuiteMainPhase(TestSuiteExecutor.java:112)
+	at com.kms.katalon.core.main.TestSuiteExecutor.execute(TestSuiteExecutor.java:81)
+	at com.kms.katalon.core.main.TestCaseMain.startTestSuite(TestCaseMain.java:157)
+	at com.kms.katalon.core.main.TestCaseMain$startTestSuite$0.call(Unknown Source)
+	at TempTestSuite1557832859780.run(TempTestSuite1557832859780.groovy:35)]]></system-err>
+      </testcase>
+      <testcase name="Test Cases/test" classname="Test Cases/test" status="ERROR">
+         <error type="ERROR" message="Test Cases/test FAILED.
+Reason:
+groovy.lang.MissingMethodException: No signature of method: static com.kms.katalon.core.webservice.keyword.WSBuiltInKeywords.verifyElementPropertyValue() is applicable for argument types: (java.lang.String, java.lang.String, java.lang.String) values: [, status, 400]
+Possible solutions: verifyElementPropertyValue(com.kms.katalon.core.testobject.ResponseObject, java.lang.String, java.lang.Object), verifyElementPropertyValue(com.kms.katalon.core.testobject.ResponseObject, java.lang.String, java.lang.Object, com.kms.katalon.core.model.FailureHandling)
+	at test.run(test:19)
+	at com.kms.katalon.core.main.ScriptEngine.run(ScriptEngine.java:194)
+	at com.kms.katalon.core.main.ScriptEngine.runScriptAsRawText(ScriptEngine.java:119)
+	at com.kms.katalon.core.main.TestCaseExecutor.runScript(TestCaseExecutor.java:336)
+	at com.kms.katalon.core.main.TestCaseExecutor.doExecute(TestCaseExecutor.java:327)
+	at com.kms.katalon.core.main.TestCaseExecutor.processExecutionPhase(TestCaseExecutor.java:306)
+	at com.kms.katalon.core.main.TestCaseExecutor.accessMainPhase(TestCaseExecutor.java:298)
+	at com.kms.katalon.core.main.TestCaseExecutor.execute(TestCaseExecutor.java:232)
+	at com.kms.katalon.core.main.TestSuiteExecutor.accessTestCaseMainPhase(TestSuiteExecutor.java:129)
+	at com.kms.katalon.core.main.TestSuiteExecutor.accessTestSuiteMainPhase(TestSuiteExecutor.java:112)
+	at com.kms.katalon.core.main.TestSuiteExecutor.execute(TestSuiteExecutor.java:81)
+	at com.kms.katalon.core.main.TestCaseMain.startTestSuite(TestCaseMain.java:157)
+	at com.kms.katalon.core.main.TestCaseMain$startTestSuite$0.call(Unknown Source)
+	at TempTestSuite1557832859780.run(TempTestSuite1557832859780.groovy:35)
+"/>
+         <system-out><![CDATA[2019-05-14 16:51:15 - [TEST_CASE][ERROR] - Test Cases/test: Test Cases/test FAILED.
+Reason:
+groovy.lang.MissingMethodException: No signature of method: static com.kms.katalon.core.webservice.keyword.WSBuiltInKeywords.verifyElementPropertyValue() is applicable for argument types: (java.lang.String, java.lang.String, java.lang.String) values: [, status, 400]
+Possible solutions: verifyElementPropertyValue(com.kms.katalon.core.testobject.ResponseObject, java.lang.String, java.lang.Object), verifyElementPropertyValue(com.kms.katalon.core.testobject.ResponseObject, java.lang.String, java.lang.Object, com.kms.katalon.core.model.FailureHandling)
+	at test.run(test:19)
+	at com.kms.katalon.core.main.ScriptEngine.run(ScriptEngine.java:194)
+	at com.kms.katalon.core.main.ScriptEngine.runScriptAsRawText(ScriptEngine.java:119)
+	at com.kms.katalon.core.main.TestCaseExecutor.runScript(TestCaseExecutor.java:336)
+	at com.kms.katalon.core.main.TestCaseExecutor.doExecute(TestCaseExecutor.java:327)
+	at com.kms.katalon.core.main.TestCaseExecutor.processExecutionPhase(TestCaseExecutor.java:306)
+	at com.kms.katalon.core.main.TestCaseExecutor.accessMainPhase(TestCaseExecutor.java:298)
+	at com.kms.katalon.core.main.TestCaseExecutor.execute(TestCaseExecutor.java:232)
+	at com.kms.katalon.core.main.TestSuiteExecutor.accessTestCaseMainPhase(TestSuiteExecutor.java:129)
+	at com.kms.katalon.core.main.TestSuiteExecutor.accessTestSuiteMainPhase(TestSuiteExecutor.java:112)
+	at com.kms.katalon.core.main.TestSuiteExecutor.execute(TestSuiteExecutor.java:81)
+	at com.kms.katalon.core.main.TestCaseMain.startTestSuite(TestCaseMain.java:157)
+	at com.kms.katalon.core.main.TestCaseMain$startTestSuite$0.call(Unknown Source)
+	at TempTestSuite1557832859780.run(TempTestSuite1557832859780.groovy:35)
+
+
+2019-05-14 16:51:15 - [TEST_STEP][PASSED] - if (glnparameter == ""): null
+
+2019-05-14 16:51:15 - [TEST_STEP][PASSED] - Storerespone = sendRequestAndVerify(findTestObject("GLN Approve - EOID", ["url":url, "body":body, "methodforcall":methodforcall])): Send request and verify the response successfully
+
+2019-05-14 16:51:18 - [TEST_CASE][PASSED] - Start Test Case : Verification: Verification accomplished successfully
+
+2019-05-14 16:51:18 - [TEST_STEP][PASSED] - request = getInstance().getCurrentRequest(): null
+
+2019-05-14 16:51:18 - [TEST_STEP][PASSED] - response = getInstance().getCurrentResponse(): null
+
+2019-05-14 16:51:18 - [MESSAGE][PASSED] - Verify response successfully
+
+2019-05-14 16:51:18 - [MESSAGE][PASSED] - Send request and verify the response successfully
+
+2019-05-14 16:51:18 - [TEST_STEP][PASSED] - verifyElementPropertyValue(Storeresponse, status, statuscode): null]]></system-out>
+         <system-err><![CDATA[2019-05-14 16:51:15 - [TEST_CASE][ERROR] - Test Cases/test: Test Cases/test FAILED.
+Reason:
+groovy.lang.MissingMethodException: No signature of method: static com.kms.katalon.core.webservice.keyword.WSBuiltInKeywords.verifyElementPropertyValue() is applicable for argument types: (java.lang.String, java.lang.String, java.lang.String) values: [, status, 400]
+Possible solutions: verifyElementPropertyValue(com.kms.katalon.core.testobject.ResponseObject, java.lang.String, java.lang.Object), verifyElementPropertyValue(com.kms.katalon.core.testobject.ResponseObject, java.lang.String, java.lang.Object, com.kms.katalon.core.model.FailureHandling)
+	at test.run(test:19)
+	at com.kms.katalon.core.main.ScriptEngine.run(ScriptEngine.java:194)
+	at com.kms.katalon.core.main.ScriptEngine.runScriptAsRawText(ScriptEngine.java:119)
+	at com.kms.katalon.core.main.TestCaseExecutor.runScript(TestCaseExecutor.java:336)
+	at com.kms.katalon.core.main.TestCaseExecutor.doExecute(TestCaseExecutor.java:327)
+	at com.kms.katalon.core.main.TestCaseExecutor.processExecutionPhase(TestCaseExecutor.java:306)
+	at com.kms.katalon.core.main.TestCaseExecutor.accessMainPhase(TestCaseExecutor.java:298)
+	at com.kms.katalon.core.main.TestCaseExecutor.execute(TestCaseExecutor.java:232)
+	at com.kms.katalon.core.main.TestSuiteExecutor.accessTestCaseMainPhase(TestSuiteExecutor.java:129)
+	at com.kms.katalon.core.main.TestSuiteExecutor.accessTestSuiteMainPhase(TestSuiteExecutor.java:112)
+	at com.kms.katalon.core.main.TestSuiteExecutor.execute(TestSuiteExecutor.java:81)
+	at com.kms.katalon.core.main.TestCaseMain.startTestSuite(TestCaseMain.java:157)
+	at com.kms.katalon.core.main.TestCaseMain$startTestSuite$0.call(Unknown Source)
+	at TempTestSuite1557832859780.run(TempTestSuite1557832859780.groovy:35)]]></system-err>
+      </testcase>
+      <testcase name="Test Cases/test" classname="Test Cases/test" status="ERROR">
+         <error type="ERROR" message="Test Cases/test FAILED.
+Reason:
+groovy.lang.MissingMethodException: No signature of method: static com.kms.katalon.core.webservice.keyword.WSBuiltInKeywords.verifyElementPropertyValue() is applicable for argument types: (java.lang.String, java.lang.String, java.lang.String) values: [, status, 400]
+Possible solutions: verifyElementPropertyValue(com.kms.katalon.core.testobject.ResponseObject, java.lang.String, java.lang.Object), verifyElementPropertyValue(com.kms.katalon.core.testobject.ResponseObject, java.lang.String, java.lang.Object, com.kms.katalon.core.model.FailureHandling)
+	at test.run(test:19)
+	at com.kms.katalon.core.main.ScriptEngine.run(ScriptEngine.java:194)
+	at com.kms.katalon.core.main.ScriptEngine.runScriptAsRawText(ScriptEngine.java:119)
+	at com.kms.katalon.core.main.TestCaseExecutor.runScript(TestCaseExecutor.java:336)
+	at com.kms.katalon.core.main.TestCaseExecutor.doExecute(TestCaseExecutor.java:327)
+	at com.kms.katalon.core.main.TestCaseExecutor.processExecutionPhase(TestCaseExecutor.java:306)
+	at com.kms.katalon.core.main.TestCaseExecutor.accessMainPhase(TestCaseExecutor.java:298)
+	at com.kms.katalon.core.main.TestCaseExecutor.execute(TestCaseExecutor.java:232)
+	at com.kms.katalon.core.main.TestSuiteExecutor.accessTestCaseMainPhase(TestSuiteExecutor.java:129)
+	at com.kms.katalon.core.main.TestSuiteExecutor.accessTestSuiteMainPhase(TestSuiteExecutor.java:112)
+	at com.kms.katalon.core.main.TestSuiteExecutor.execute(TestSuiteExecutor.java:81)
+	at com.kms.katalon.core.main.TestCaseMain.startTestSuite(TestCaseMain.java:157)
+	at com.kms.katalon.core.main.TestCaseMain$startTestSuite$0.call(Unknown Source)
+	at TempTestSuite1557832859780.run(TempTestSuite1557832859780.groovy:35)
+"/>
+         <system-out><![CDATA[2019-05-14 16:51:18 - [TEST_CASE][ERROR] - Test Cases/test: Test Cases/test FAILED.
+Reason:
+groovy.lang.MissingMethodException: No signature of method: static com.kms.katalon.core.webservice.keyword.WSBuiltInKeywords.verifyElementPropertyValue() is applicable for argument types: (java.lang.String, java.lang.String, java.lang.String) values: [, status, 400]
+Possible solutions: verifyElementPropertyValue(com.kms.katalon.core.testobject.ResponseObject, java.lang.String, java.lang.Object), verifyElementPropertyValue(com.kms.katalon.core.testobject.ResponseObject, java.lang.String, java.lang.Object, com.kms.katalon.core.model.FailureHandling)
+	at test.run(test:19)
+	at com.kms.katalon.core.main.ScriptEngine.run(ScriptEngine.java:194)
+	at com.kms.katalon.core.main.ScriptEngine.runScriptAsRawText(ScriptEngine.java:119)
+	at com.kms.katalon.core.main.TestCaseExecutor.runScript(TestCaseExecutor.java:336)
+	at com.kms.katalon.core.main.TestCaseExecutor.doExecute(TestCaseExecutor.java:327)
+	at com.kms.katalon.core.main.TestCaseExecutor.processExecutionPhase(TestCaseExecutor.java:306)
+	at com.kms.katalon.core.main.TestCaseExecutor.accessMainPhase(TestCaseExecutor.java:298)
+	at com.kms.katalon.core.main.TestCaseExecutor.execute(TestCaseExecutor.java:232)
+	at com.kms.katalon.core.main.TestSuiteExecutor.accessTestCaseMainPhase(TestSuiteExecutor.java:129)
+	at com.kms.katalon.core.main.TestSuiteExecutor.accessTestSuiteMainPhase(TestSuiteExecutor.java:112)
+	at com.kms.katalon.core.main.TestSuiteExecutor.execute(TestSuiteExecutor.java:81)
+	at com.kms.katalon.core.main.TestCaseMain.startTestSuite(TestCaseMain.java:157)
+	at com.kms.katalon.core.main.TestCaseMain$startTestSuite$0.call(Unknown Source)
+	at TempTestSuite1557832859780.run(TempTestSuite1557832859780.groovy:35)
+
+
+2019-05-14 16:51:18 - [TEST_STEP][PASSED] - if (glnparameter == ""): null
+
+2019-05-14 16:51:18 - [TEST_STEP][PASSED] - Storerespone = sendRequestAndVerify(findTestObject("GLN Approve - EOID", ["url":url, "body":body, "methodforcall":methodforcall])): Send request and verify the response successfully
+
+2019-05-14 16:51:22 - [TEST_CASE][PASSED] - Start Test Case : Verification: Verification accomplished successfully
+
+2019-05-14 16:51:22 - [TEST_STEP][PASSED] - request = getInstance().getCurrentRequest(): null
+
+2019-05-14 16:51:22 - [TEST_STEP][PASSED] - response = getInstance().getCurrentResponse(): null
+
+2019-05-14 16:51:22 - [MESSAGE][PASSED] - Verify response successfully
+
+2019-05-14 16:51:22 - [MESSAGE][PASSED] - Send request and verify the response successfully
+
+2019-05-14 16:51:22 - [TEST_STEP][PASSED] - verifyElementPropertyValue(Storeresponse, status, statuscode): null]]></system-out>
+         <system-err><![CDATA[2019-05-14 16:51:18 - [TEST_CASE][ERROR] - Test Cases/test: Test Cases/test FAILED.
+Reason:
+groovy.lang.MissingMethodException: No signature of method: static com.kms.katalon.core.webservice.keyword.WSBuiltInKeywords.verifyElementPropertyValue() is applicable for argument types: (java.lang.String, java.lang.String, java.lang.String) values: [, status, 400]
+Possible solutions: verifyElementPropertyValue(com.kms.katalon.core.testobject.ResponseObject, java.lang.String, java.lang.Object), verifyElementPropertyValue(com.kms.katalon.core.testobject.ResponseObject, java.lang.String, java.lang.Object, com.kms.katalon.core.model.FailureHandling)
+	at test.run(test:19)
+	at com.kms.katalon.core.main.ScriptEngine.run(ScriptEngine.java:194)
+	at com.kms.katalon.core.main.ScriptEngine.runScriptAsRawText(ScriptEngine.java:119)
+	at com.kms.katalon.core.main.TestCaseExecutor.runScript(TestCaseExecutor.java:336)
+	at com.kms.katalon.core.main.TestCaseExecutor.doExecute(TestCaseExecutor.java:327)
+	at com.kms.katalon.core.main.TestCaseExecutor.processExecutionPhase(TestCaseExecutor.java:306)
+	at com.kms.katalon.core.main.TestCaseExecutor.accessMainPhase(TestCaseExecutor.java:298)
+	at com.kms.katalon.core.main.TestCaseExecutor.execute(TestCaseExecutor.java:232)
+	at com.kms.katalon.core.main.TestSuiteExecutor.accessTestCaseMainPhase(TestSuiteExecutor.java:129)
+	at com.kms.katalon.core.main.TestSuiteExecutor.accessTestSuiteMainPhase(TestSuiteExecutor.java:112)
+	at com.kms.katalon.core.main.TestSuiteExecutor.execute(TestSuiteExecutor.java:81)
+	at com.kms.katalon.core.main.TestCaseMain.startTestSuite(TestCaseMain.java:157)
+	at com.kms.katalon.core.main.TestCaseMain$startTestSuite$0.call(Unknown Source)
+	at TempTestSuite1557832859780.run(TempTestSuite1557832859780.groovy:35)]]></system-err>
+      </testcase>
+      <testcase name="Test Cases/test" classname="Test Cases/test" status="ERROR">
+         <error type="ERROR" message="Test Cases/test FAILED.
+Reason:
+groovy.lang.MissingMethodException: No signature of method: static com.kms.katalon.core.webservice.keyword.WSBuiltInKeywords.verifyElementPropertyValue() is applicable for argument types: (java.lang.String, java.lang.String, java.lang.String) values: [, status, 400]
+Possible solutions: verifyElementPropertyValue(com.kms.katalon.core.testobject.ResponseObject, java.lang.String, java.lang.Object), verifyElementPropertyValue(com.kms.katalon.core.testobject.ResponseObject, java.lang.String, java.lang.Object, com.kms.katalon.core.model.FailureHandling)
+	at test.run(test:19)
+	at com.kms.katalon.core.main.ScriptEngine.run(ScriptEngine.java:194)
+	at com.kms.katalon.core.main.ScriptEngine.runScriptAsRawText(ScriptEngine.java:119)
+	at com.kms.katalon.core.main.TestCaseExecutor.runScript(TestCaseExecutor.java:336)
+	at com.kms.katalon.core.main.TestCaseExecutor.doExecute(TestCaseExecutor.java:327)
+	at com.kms.katalon.core.main.TestCaseExecutor.processExecutionPhase(TestCaseExecutor.java:306)
+	at com.kms.katalon.core.main.TestCaseExecutor.accessMainPhase(TestCaseExecutor.java:298)
+	at com.kms.katalon.core.main.TestCaseExecutor.execute(TestCaseExecutor.java:232)
+	at com.kms.katalon.core.main.TestSuiteExecutor.accessTestCaseMainPhase(TestSuiteExecutor.java:129)
+	at com.kms.katalon.core.main.TestSuiteExecutor.accessTestSuiteMainPhase(TestSuiteExecutor.java:112)
+	at com.kms.katalon.core.main.TestSuiteExecutor.execute(TestSuiteExecutor.java:81)
+	at com.kms.katalon.core.main.TestCaseMain.startTestSuite(TestCaseMain.java:157)
+	at com.kms.katalon.core.main.TestCaseMain$startTestSuite$0.call(Unknown Source)
+	at TempTestSuite1557832859780.run(TempTestSuite1557832859780.groovy:35)
+"/>
+         <system-out><![CDATA[2019-05-14 16:51:22 - [TEST_CASE][ERROR] - Test Cases/test: Test Cases/test FAILED.
+Reason:
+groovy.lang.MissingMethodException: No signature of method: static com.kms.katalon.core.webservice.keyword.WSBuiltInKeywords.verifyElementPropertyValue() is applicable for argument types: (java.lang.String, java.lang.String, java.lang.String) values: [, status, 400]
+Possible solutions: verifyElementPropertyValue(com.kms.katalon.core.testobject.ResponseObject, java.lang.String, java.lang.Object), verifyElementPropertyValue(com.kms.katalon.core.testobject.ResponseObject, java.lang.String, java.lang.Object, com.kms.katalon.core.model.FailureHandling)
+	at test.run(test:19)
+	at com.kms.katalon.core.main.ScriptEngine.run(ScriptEngine.java:194)
+	at com.kms.katalon.core.main.ScriptEngine.runScriptAsRawText(ScriptEngine.java:119)
+	at com.kms.katalon.core.main.TestCaseExecutor.runScript(TestCaseExecutor.java:336)
+	at com.kms.katalon.core.main.TestCaseExecutor.doExecute(TestCaseExecutor.java:327)
+	at com.kms.katalon.core.main.TestCaseExecutor.processExecutionPhase(TestCaseExecutor.java:306)
+	at com.kms.katalon.core.main.TestCaseExecutor.accessMainPhase(TestCaseExecutor.java:298)
+	at com.kms.katalon.core.main.TestCaseExecutor.execute(TestCaseExecutor.java:232)
+	at com.kms.katalon.core.main.TestSuiteExecutor.accessTestCaseMainPhase(TestSuiteExecutor.java:129)
+	at com.kms.katalon.core.main.TestSuiteExecutor.accessTestSuiteMainPhase(TestSuiteExecutor.java:112)
+	at com.kms.katalon.core.main.TestSuiteExecutor.execute(TestSuiteExecutor.java:81)
+	at com.kms.katalon.core.main.TestCaseMain.startTestSuite(TestCaseMain.java:157)
+	at com.kms.katalon.core.main.TestCaseMain$startTestSuite$0.call(Unknown Source)
+	at TempTestSuite1557832859780.run(TempTestSuite1557832859780.groovy:35)
+
+
+2019-05-14 16:51:22 - [TEST_STEP][PASSED] - if (glnparameter == ""): null
+
+2019-05-14 16:51:22 - [TEST_STEP][PASSED] - Storerespone = sendRequestAndVerify(findTestObject("GLN Approve - EOID", ["url":url, "body":body, "methodforcall":methodforcall])): Send request and verify the response successfully
+
+2019-05-14 16:51:25 - [TEST_CASE][PASSED] - Start Test Case : Verification: Verification accomplished successfully
+
+2019-05-14 16:51:25 - [TEST_STEP][PASSED] - request = getInstance().getCurrentRequest(): null
+
+2019-05-14 16:51:25 - [TEST_STEP][PASSED] - response = getInstance().getCurrentResponse(): null
+
+2019-05-14 16:51:25 - [MESSAGE][PASSED] - Verify response successfully
+
+2019-05-14 16:51:25 - [MESSAGE][PASSED] - Send request and verify the response successfully
+
+2019-05-14 16:51:25 - [TEST_STEP][PASSED] - verifyElementPropertyValue(Storeresponse, status, statuscode): null]]></system-out>
+         <system-err><![CDATA[2019-05-14 16:51:22 - [TEST_CASE][ERROR] - Test Cases/test: Test Cases/test FAILED.
+Reason:
+groovy.lang.MissingMethodException: No signature of method: static com.kms.katalon.core.webservice.keyword.WSBuiltInKeywords.verifyElementPropertyValue() is applicable for argument types: (java.lang.String, java.lang.String, java.lang.String) values: [, status, 400]
+Possible solutions: verifyElementPropertyValue(com.kms.katalon.core.testobject.ResponseObject, java.lang.String, java.lang.Object), verifyElementPropertyValue(com.kms.katalon.core.testobject.ResponseObject, java.lang.String, java.lang.Object, com.kms.katalon.core.model.FailureHandling)
+	at test.run(test:19)
+	at com.kms.katalon.core.main.ScriptEngine.run(ScriptEngine.java:194)
+	at com.kms.katalon.core.main.ScriptEngine.runScriptAsRawText(ScriptEngine.java:119)
+	at com.kms.katalon.core.main.TestCaseExecutor.runScript(TestCaseExecutor.java:336)
+	at com.kms.katalon.core.main.TestCaseExecutor.doExecute(TestCaseExecutor.java:327)
+	at com.kms.katalon.core.main.TestCaseExecutor.processExecutionPhase(TestCaseExecutor.java:306)
+	at com.kms.katalon.core.main.TestCaseExecutor.accessMainPhase(TestCaseExecutor.java:298)
+	at com.kms.katalon.core.main.TestCaseExecutor.execute(TestCaseExecutor.java:232)
+	at com.kms.katalon.core.main.TestSuiteExecutor.accessTestCaseMainPhase(TestSuiteExecutor.java:129)
+	at com.kms.katalon.core.main.TestSuiteExecutor.accessTestSuiteMainPhase(TestSuiteExecutor.java:112)
+	at com.kms.katalon.core.main.TestSuiteExecutor.execute(TestSuiteExecutor.java:81)
+	at com.kms.katalon.core.main.TestCaseMain.startTestSuite(TestCaseMain.java:157)
+	at com.kms.katalon.core.main.TestCaseMain$startTestSuite$0.call(Unknown Source)
+	at TempTestSuite1557832859780.run(TempTestSuite1557832859780.groovy:35)]]></system-err>
+      </testcase>
+      <system-out><![CDATA[2019-05-14 16:51:02 - [TEST_SUITE][ERROR] - FIt-test suite: Test Cases/test FAILED.
+Reason:
+groovy.lang.MissingMethodException: No signature of method: static com.kms.katalon.core.webservice.keyword.WSBuiltInKeywords.verifyElementPropertyValue() is applicable for argument types: (java.lang.String, java.lang.String, java.lang.String) values: [, status, 400]
+Possible solutions: verifyElementPropertyValue(com.kms.katalon.core.testobject.ResponseObject, java.lang.String, java.lang.Object), verifyElementPropertyValue(com.kms.katalon.core.testobject.ResponseObject, java.lang.String, java.lang.Object, com.kms.katalon.core.model.FailureHandling)
+	at test.run(test:19)
+	at com.kms.katalon.core.main.ScriptEngine.run(ScriptEngine.java:194)
+	at com.kms.katalon.core.main.ScriptEngine.runScriptAsRawText(ScriptEngine.java:119)
+	at com.kms.katalon.core.main.TestCaseExecutor.runScript(TestCaseExecutor.java:336)
+	at com.kms.katalon.core.main.TestCaseExecutor.doExecute(TestCaseExecutor.java:327)
+	at com.kms.katalon.core.main.TestCaseExecutor.processExecutionPhase(TestCaseExecutor.java:306)
+	at com.kms.katalon.core.main.TestCaseExecutor.accessMainPhase(TestCaseExecutor.java:298)
+	at com.kms.katalon.core.main.TestCaseExecutor.execute(TestCaseExecutor.java:232)
+	at com.kms.katalon.core.main.TestSuiteExecutor.accessTestCaseMainPhase(TestSuiteExecutor.java:129)
+	at com.kms.katalon.core.main.TestSuiteExecutor.accessTestSuiteMainPhase(TestSuiteExecutor.java:112)
+	at com.kms.katalon.core.main.TestSuiteExecutor.execute(TestSuiteExecutor.java:81)
+	at com.kms.katalon.core.main.TestCaseMain.startTestSuite(TestCaseMain.java:157)
+	at com.kms.katalon.core.main.TestCaseMain$startTestSuite$0.call(Unknown Source)
+	at TempTestSuite1557832859780.run(TempTestSuite1557832859780.groovy:35)]]></system-out>
+      <system-err><![CDATA[2019-05-14 16:51:02 - [TEST_SUITE][ERROR] - FIt-test suite: Test Cases/test FAILED.
+Reason:
+groovy.lang.MissingMethodException: No signature of method: static com.kms.katalon.core.webservice.keyword.WSBuiltInKeywords.verifyElementPropertyValue() is applicable for argument types: (java.lang.String, java.lang.String, java.lang.String) values: [, status, 400]
+Possible solutions: verifyElementPropertyValue(com.kms.katalon.core.testobject.ResponseObject, java.lang.String, java.lang.Object), verifyElementPropertyValue(com.kms.katalon.core.testobject.ResponseObject, java.lang.String, java.lang.Object, com.kms.katalon.core.model.FailureHandling)
+	at test.run(test:19)
+	at com.kms.katalon.core.main.ScriptEngine.run(ScriptEngine.java:194)
+	at com.kms.katalon.core.main.ScriptEngine.runScriptAsRawText(ScriptEngine.java:119)
+	at com.kms.katalon.core.main.TestCaseExecutor.runScript(TestCaseExecutor.java:336)
+	at com.kms.katalon.core.main.TestCaseExecutor.doExecute(TestCaseExecutor.java:327)
+	at com.kms.katalon.core.main.TestCaseExecutor.processExecutionPhase(TestCaseExecutor.java:306)
+	at com.kms.katalon.core.main.TestCaseExecutor.accessMainPhase(TestCaseExecutor.java:298)
+	at com.kms.katalon.core.main.TestCaseExecutor.execute(TestCaseExecutor.java:232)
+	at com.kms.katalon.core.main.TestSuiteExecutor.accessTestCaseMainPhase(TestSuiteExecutor.java:129)
+	at com.kms.katalon.core.main.TestSuiteExecutor.accessTestSuiteMainPhase(TestSuiteExecutor.java:112)
+	at com.kms.katalon.core.main.TestSuiteExecutor.execute(TestSuiteExecutor.java:81)
+	at com.kms.katalon.core.main.TestCaseMain.startTestSuite(TestCaseMain.java:157)
+	at com.kms.katalon.core.main.TestCaseMain$startTestSuite$0.call(Unknown Source)
+	at TempTestSuite1557832859780.run(TempTestSuite1557832859780.groovy:35)]]></system-err>
+   </testsuite>
+</testsuites>

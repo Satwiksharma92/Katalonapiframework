@@ -1,0 +1,2561 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!DOCTYPE log SYSTEM "logger.dtd">
+<log>
+<record>
+  <date>2019-05-16T12:00:19</date>
+  <millis>1557988219288</millis>
+  <sequence>0</sequence>
+  <level>START</level>
+  <class>com.kms.katalon.core.logging.XmlKeywordLogger</class>
+  <method>startSuite</method>
+  <thread>1</thread>
+  <message>Start Test Suite : Test Suites/FIt-test suite</message>
+  <nestedLevel>0</nestedLevel>
+  <property name="name">FIt-test suite</property>
+  <property name="description"></property>
+  <property name="id">Test Suites/FIt-test suite</property>
+</record>
+<record>
+  <date>2019-05-16T12:00:19</date>
+  <millis>1557988219302</millis>
+  <sequence>1</sequence>
+  <level>RUN_DATA</level>
+  <class>com.kms.katalon.core.logging.XmlKeywordLogger</class>
+  <method>logMessage</method>
+  <thread>1</thread>
+  <message>hostName = Lavanya_DF - DESKTOP-T5KOPIL</message>
+  <nestedLevel>0</nestedLevel>
+  <property name="hostName">Lavanya_DF - DESKTOP-T5KOPIL</property>
+</record>
+<record>
+  <date>2019-05-16T12:00:19</date>
+  <millis>1557988219303</millis>
+  <sequence>2</sequence>
+  <level>RUN_DATA</level>
+  <class>com.kms.katalon.core.logging.XmlKeywordLogger</class>
+  <method>logMessage</method>
+  <thread>1</thread>
+  <message>os = Windows 10 64bit</message>
+  <nestedLevel>0</nestedLevel>
+  <property name="os">Windows 10 64bit</property>
+</record>
+<record>
+  <date>2019-05-16T12:00:19</date>
+  <millis>1557988219303</millis>
+  <sequence>3</sequence>
+  <level>RUN_DATA</level>
+  <class>com.kms.katalon.core.logging.XmlKeywordLogger</class>
+  <method>logMessage</method>
+  <thread>1</thread>
+  <message>hostAddress = 192.168.0.153</message>
+  <nestedLevel>0</nestedLevel>
+  <property name="hostAddress">192.168.0.153</property>
+</record>
+<record>
+  <date>2019-05-16T12:00:19</date>
+  <millis>1557988219304</millis>
+  <sequence>4</sequence>
+  <level>RUN_DATA</level>
+  <class>com.kms.katalon.core.logging.XmlKeywordLogger</class>
+  <method>logMessage</method>
+  <thread>1</thread>
+  <message>katalonVersion = 6.1.2.2</message>
+  <nestedLevel>0</nestedLevel>
+  <property name="katalonVersion">6.1.2.2</property>
+</record>
+<record>
+  <date>2019-05-16T12:00:19</date>
+  <millis>1557988219454</millis>
+  <sequence>5</sequence>
+  <level>START</level>
+  <class>com.kms.katalon.core.logging.XmlKeywordLogger</class>
+  <method>startTest</method>
+  <thread>1</thread>
+  <message>Start Test Case : Test Cases/test</message>
+  <nestedLevel>1</nestedLevel>
+  <property name="name">Test Cases/test</property>
+  <property name="description"></property>
+  <property name="id">Test Cases/test</property>
+  <property name="source">C:\\Users\\Lavanya_DF\\Downloads\\GS1 FIT\\GS1 FIT\\Test Cases\\test.tc</property>
+  <property name="tag"></property>
+  <property name="isOptional">false</property>
+</record>
+<record>
+  <date>2019-05-16T12:00:19</date>
+  <millis>1557988219512</millis>
+  <sequence>7</sequence>
+  <level>INFO</level>
+  <class>com.kms.katalon.core.logging.XmlKeywordLogger</class>
+  <method>logMessage</method>
+  <thread>1</thread>
+  <message>(Default) Storeresponse = </message>
+  <nestedLevel>1</nestedLevel>
+</record>
+<record>
+  <date>2019-05-16T12:00:19</date>
+  <millis>1557988219513</millis>
+  <sequence>8</sequence>
+  <level>INFO</level>
+  <class>com.kms.katalon.core.logging.XmlKeywordLogger</class>
+  <method>logMessage</method>
+  <thread>1</thread>
+  <message>methodforcall = POST</message>
+  <nestedLevel>1</nestedLevel>
+</record>
+<record>
+  <date>2019-05-16T12:00:19</date>
+  <millis>1557988219513</millis>
+  <sequence>9</sequence>
+  <level>INFO</level>
+  <class>com.kms.katalon.core.logging.XmlKeywordLogger</class>
+  <method>logMessage</method>
+  <thread>1</thread>
+  <message>url = gs-dv-fit.gs1.org/api/v1/economicOperator/1BCd4000122000007/approve</message>
+  <nestedLevel>1</nestedLevel>
+</record>
+<record>
+  <date>2019-05-16T12:00:19</date>
+  <millis>1557988219513</millis>
+  <sequence>10</sequence>
+  <level>INFO</level>
+  <class>com.kms.katalon.core.logging.XmlKeywordLogger</class>
+  <method>logMessage</method>
+  <thread>1</thread>
+  <message>glnparameter = </message>
+  <nestedLevel>1</nestedLevel>
+</record>
+<record>
+  <date>2019-05-16T12:00:19</date>
+  <millis>1557988219513</millis>
+  <sequence>11</sequence>
+  <level>INFO</level>
+  <class>com.kms.katalon.core.logging.XmlKeywordLogger</class>
+  <method>logMessage</method>
+  <thread>1</thread>
+  <message>status = status</message>
+  <nestedLevel>1</nestedLevel>
+</record>
+<record>
+  <date>2019-05-16T12:00:19</date>
+  <millis>1557988219514</millis>
+  <sequence>12</sequence>
+  <level>INFO</level>
+  <class>com.kms.katalon.core.logging.XmlKeywordLogger</class>
+  <method>logMessage</method>
+  <thread>1</thread>
+  <message>statuscode = 400</message>
+  <nestedLevel>1</nestedLevel>
+</record>
+<record>
+  <date>2019-05-16T12:00:19</date>
+  <millis>1557988219514</millis>
+  <sequence>13</sequence>
+  <level>INFO</level>
+  <class>com.kms.katalon.core.logging.XmlKeywordLogger</class>
+  <method>logMessage</method>
+  <thread>1</thread>
+  <message>messageid = </message>
+  <nestedLevel>1</nestedLevel>
+</record>
+<record>
+  <date>2019-05-16T12:00:19</date>
+  <millis>1557988219514</millis>
+  <sequence>14</sequence>
+  <level>INFO</level>
+  <class>com.kms.katalon.core.logging.XmlKeywordLogger</class>
+  <method>logMessage</method>
+  <thread>1</thread>
+  <message>messageidvalue = </message>
+  <nestedLevel>1</nestedLevel>
+</record>
+<record>
+  <date>2019-05-16T12:00:19</date>
+  <millis>1557988219514</millis>
+  <sequence>15</sequence>
+  <level>INFO</level>
+  <class>com.kms.katalon.core.logging.XmlKeywordLogger</class>
+  <method>logMessage</method>
+  <thread>1</thread>
+  <message>companyname = </message>
+  <nestedLevel>1</nestedLevel>
+</record>
+<record>
+  <date>2019-05-16T12:00:19</date>
+  <millis>1557988219515</millis>
+  <sequence>16</sequence>
+  <level>INFO</level>
+  <class>com.kms.katalon.core.logging.XmlKeywordLogger</class>
+  <method>logMessage</method>
+  <thread>1</thread>
+  <message>companynamevalue = </message>
+  <nestedLevel>1</nestedLevel>
+</record>
+<record>
+  <date>2019-05-16T12:00:19</date>
+  <millis>1557988219515</millis>
+  <sequence>17</sequence>
+  <level>INFO</level>
+  <class>com.kms.katalon.core.logging.XmlKeywordLogger</class>
+  <method>logMessage</method>
+  <thread>1</thread>
+  <message>body = \&amp;quot;economicOperatorCompanyName\&amp;quot;: \&amp;quot;\&amp;quot;,\n  \&amp;quot;economicOperatorAlternativeCompanyName\&amp;quot;: \&amp;quot;Inc\&amp;quot;,\n  \&amp;quot;economicOperatorAddress\&amp;quot;: \&amp;quot;\&amp;quot;,\n  \&amp;quot;economicOperatorCountryOfRegistration\&amp;quot;: \&amp;quot;AT\&amp;quot;,\n  \&amp;quot;economicOperatorVatOrTaxNumber\&amp;quot;: \&amp;quot;VAT696986\&amp;quot;,\n  \&amp;quot;economicOperatorVatOrTaxIdentifier\&amp;quot;: \&amp;quot;VAT\&amp;quot;,\n  \&amp;quot;economicOperatorVatOrTaxStatus\&amp;quot;: \&amp;quot;0\&amp;quot;,\n  \&amp;quot;economicOperatorCompanyType\&amp;quot;: 2,\n  \&amp;quot;glnProvider\&amp;quot; :\&amp;quot;1\&amp;quot;,\n  \&amp;quot;businessPhoneNumber\&amp;quot;: \&amp;quot;+491706328615\&amp;quot;,\n  \&amp;quot;requestDateTime\&amp;quot;: \&amp;quot;756568765768\&amp;quot;</message>
+  <nestedLevel>1</nestedLevel>
+</record>
+<record>
+  <date>2019-05-16T12:00:19</date>
+  <millis>1557988219516</millis>
+  <sequence>18</sequence>
+  <level>INFO</level>
+  <class>com.kms.katalon.core.logging.XmlKeywordLogger</class>
+  <method>logMessage</method>
+  <thread>1</thread>
+  <message>message = message</message>
+  <nestedLevel>1</nestedLevel>
+</record>
+<record>
+  <date>2019-05-16T12:00:19</date>
+  <millis>1557988219516</millis>
+  <sequence>19</sequence>
+  <level>INFO</level>
+  <class>com.kms.katalon.core.logging.XmlKeywordLogger</class>
+  <method>logMessage</method>
+  <thread>1</thread>
+  <message>messagevalue = Validation Failed</message>
+  <nestedLevel>1</nestedLevel>
+</record>
+<record>
+  <date>2019-05-16T12:00:19</date>
+  <millis>1557988219524</millis>
+  <sequence>20</sequence>
+  <level>INFO</level>
+  <class>com.kms.katalon.core.logging.XmlKeywordLogger</class>
+  <method>logMessage</method>
+  <thread>1</thread>
+  <message>(Default) storeresponse1 = </message>
+  <nestedLevel>1</nestedLevel>
+</record>
+<record>
+  <date>2019-05-16T12:00:19</date>
+  <millis>1557988219787</millis>
+  <sequence>21</sequence>
+  <level>START</level>
+  <class>com.kms.katalon.core.logging.XmlKeywordLogger</class>
+  <method>startKeyword</method>
+  <thread>1</thread>
+  <message>Start action : if (glnparameter == \&amp;quot;\&amp;quot;)</message>
+  <nestedLevel>1</nestedLevel>
+  <property name="startLine">16</property>
+  <property name="stepIndex">1</property>
+</record>
+<record>
+  <date>2019-05-16T12:00:19</date>
+  <millis>1557988219789</millis>
+  <sequence>22</sequence>
+  <level>START</level>
+  <class>com.kms.katalon.core.logging.XmlKeywordLogger</class>
+  <method>startKeyword</method>
+  <thread>1</thread>
+  <message>Start action : Storeresponse = sendRequestAndVerify(findTestObject(\&amp;quot;GLN Approve - EOID\&amp;quot;, [\&amp;quot;url\&amp;quot;:url, \&amp;quot;body\&amp;quot;:body, \&amp;quot;methodforcall\&amp;quot;:methodforcall]))</message>
+  <nestedLevel>2</nestedLevel>
+  <property name="startLine">17</property>
+  <property name="stepIndex">1</property>
+</record>
+<record>
+  <date>2019-05-16T12:00:25</date>
+  <millis>1557988225313</millis>
+  <sequence>27</sequence>
+  <level>START</level>
+  <class>com.kms.katalon.core.logging.XmlKeywordLogger</class>
+  <method>startTest</method>
+  <thread>1</thread>
+  <message>Start Test Case : Verification</message>
+  <nestedLevel>2</nestedLevel>
+</record>
+<record>
+  <date>2019-05-16T12:00:25</date>
+  <millis>1557988225503</millis>
+  <sequence>28</sequence>
+  <level>START</level>
+  <class>com.kms.katalon.core.logging.XmlKeywordLogger</class>
+  <method>startKeyword</method>
+  <thread>1</thread>
+  <message>Start action : request = getInstance().getCurrentRequest()</message>
+  <nestedLevel>1</nestedLevel>
+  <property name="startLine">11</property>
+  <property name="stepIndex">1</property>
+</record>
+<record>
+  <date>2019-05-16T12:00:25</date>
+  <millis>1557988225567</millis>
+  <sequence>29</sequence>
+  <level>END</level>
+  <class>com.kms.katalon.core.logging.XmlKeywordLogger</class>
+  <method>endKeyword</method>
+  <thread>1</thread>
+  <message>End action : request = getInstance().getCurrentRequest()</message>
+  <nestedLevel>1</nestedLevel>
+</record>
+<record>
+  <date>2019-05-16T12:00:25</date>
+  <millis>1557988225567</millis>
+  <sequence>30</sequence>
+  <level>START</level>
+  <class>com.kms.katalon.core.logging.XmlKeywordLogger</class>
+  <method>startKeyword</method>
+  <thread>1</thread>
+  <message>Start action : response = getInstance().getCurrentResponse()</message>
+  <nestedLevel>1</nestedLevel>
+  <property name="startLine">13</property>
+  <property name="stepIndex">2</property>
+</record>
+<record>
+  <date>2019-05-16T12:00:25</date>
+  <millis>1557988225568</millis>
+  <sequence>31</sequence>
+  <level>END</level>
+  <class>com.kms.katalon.core.logging.XmlKeywordLogger</class>
+  <method>endKeyword</method>
+  <thread>1</thread>
+  <message>End action : response = getInstance().getCurrentResponse()</message>
+  <nestedLevel>1</nestedLevel>
+</record>
+<record>
+  <date>2019-05-16T12:00:25</date>
+  <millis>1557988225568</millis>
+  <sequence>32</sequence>
+  <level>PASSED</level>
+  <class>com.kms.katalon.core.logging.XmlKeywordLogger</class>
+  <method>logMessage</method>
+  <thread>1</thread>
+  <message>Verification accomplished successfully</message>
+  <nestedLevel>2</nestedLevel>
+</record>
+<record>
+  <date>2019-05-16T12:00:25</date>
+  <millis>1557988225568</millis>
+  <sequence>33</sequence>
+  <level>END</level>
+  <class>com.kms.katalon.core.logging.XmlKeywordLogger</class>
+  <method>endTest</method>
+  <thread>1</thread>
+  <message>End Test Case : Verification</message>
+  <nestedLevel>1</nestedLevel>
+</record>
+<record>
+  <date>2019-05-16T12:00:25</date>
+  <millis>1557988225573</millis>
+  <sequence>34</sequence>
+  <level>PASSED</level>
+  <class>com.kms.katalon.core.logging.XmlKeywordLogger</class>
+  <method>logMessage</method>
+  <thread>1</thread>
+  <message>Verify response successfully</message>
+  <nestedLevel>1</nestedLevel>
+</record>
+<record>
+  <date>2019-05-16T12:00:25</date>
+  <millis>1557988225573</millis>
+  <sequence>35</sequence>
+  <level>PASSED</level>
+  <class>com.kms.katalon.core.logging.XmlKeywordLogger</class>
+  <method>logMessage</method>
+  <thread>1</thread>
+  <message>Send request and verify the response successfully</message>
+  <nestedLevel>1</nestedLevel>
+</record>
+<record>
+  <date>2019-05-16T12:00:25</date>
+  <millis>1557988225574</millis>
+  <sequence>36</sequence>
+  <level>END</level>
+  <class>com.kms.katalon.core.logging.XmlKeywordLogger</class>
+  <method>endKeyword</method>
+  <thread>1</thread>
+  <message>End action : Storeresponse = sendRequestAndVerify(findTestObject(\&amp;quot;GLN Approve - EOID\&amp;quot;, [\&amp;quot;url\&amp;quot;:url, \&amp;quot;body\&amp;quot;:body, \&amp;quot;methodforcall\&amp;quot;:methodforcall]))</message>
+  <nestedLevel>2</nestedLevel>
+</record>
+<record>
+  <date>2019-05-16T12:00:25</date>
+  <millis>1557988225574</millis>
+  <sequence>37</sequence>
+  <level>START</level>
+  <class>com.kms.katalon.core.logging.XmlKeywordLogger</class>
+  <method>startKeyword</method>
+  <thread>1</thread>
+  <message>Start action : verifyElementPropertyValue(Storeresponse, status, statuscode)</message>
+  <nestedLevel>2</nestedLevel>
+  <property name="startLine">19</property>
+  <property name="stepIndex">2</property>
+</record>
+<record>
+  <date>2019-05-16T12:00:25</date>
+  <millis>1557988225611</millis>
+  <sequence>39</sequence>
+  <level>PASSED</level>
+  <class>com.kms.katalon.core.logging.XmlKeywordLogger</class>
+  <method>logMessage</method>
+  <thread>1</thread>
+  <message>Verify element property value successfully</message>
+  <nestedLevel>1</nestedLevel>
+</record>
+<record>
+  <date>2019-05-16T12:00:25</date>
+  <millis>1557988225611</millis>
+  <sequence>40</sequence>
+  <level>END</level>
+  <class>com.kms.katalon.core.logging.XmlKeywordLogger</class>
+  <method>endKeyword</method>
+  <thread>1</thread>
+  <message>End action : verifyElementPropertyValue(Storeresponse, status, statuscode)</message>
+  <nestedLevel>2</nestedLevel>
+</record>
+<record>
+  <date>2019-05-16T12:00:25</date>
+  <millis>1557988225611</millis>
+  <sequence>41</sequence>
+  <level>START</level>
+  <class>com.kms.katalon.core.logging.XmlKeywordLogger</class>
+  <method>startKeyword</method>
+  <thread>1</thread>
+  <message>Start action : verifyElementPropertyValue(Storeresponse, message, messagevalue)</message>
+  <nestedLevel>2</nestedLevel>
+  <property name="startLine">21</property>
+  <property name="stepIndex">3</property>
+</record>
+<record>
+  <date>2019-05-16T12:00:25</date>
+  <millis>1557988225622</millis>
+  <sequence>43</sequence>
+  <level>PASSED</level>
+  <class>com.kms.katalon.core.logging.XmlKeywordLogger</class>
+  <method>logMessage</method>
+  <thread>1</thread>
+  <message>Verify element property value successfully</message>
+  <nestedLevel>1</nestedLevel>
+</record>
+<record>
+  <date>2019-05-16T12:00:25</date>
+  <millis>1557988225622</millis>
+  <sequence>44</sequence>
+  <level>END</level>
+  <class>com.kms.katalon.core.logging.XmlKeywordLogger</class>
+  <method>endKeyword</method>
+  <thread>1</thread>
+  <message>End action : verifyElementPropertyValue(Storeresponse, message, messagevalue)</message>
+  <nestedLevel>2</nestedLevel>
+</record>
+<record>
+  <date>2019-05-16T12:00:25</date>
+  <millis>1557988225623</millis>
+  <sequence>45</sequence>
+  <level>END</level>
+  <class>com.kms.katalon.core.logging.XmlKeywordLogger</class>
+  <method>endKeyword</method>
+  <thread>1</thread>
+  <message>End action : if (glnparameter == \&amp;quot;\&amp;quot;)</message>
+  <nestedLevel>1</nestedLevel>
+</record>
+<record>
+  <date>2019-05-16T12:00:25</date>
+  <millis>1557988225624</millis>
+  <sequence>46</sequence>
+  <level>PASSED</level>
+  <class>com.kms.katalon.core.logging.XmlKeywordLogger</class>
+  <method>logMessage</method>
+  <thread>1</thread>
+  <message>Test Cases/test</message>
+  <nestedLevel>1</nestedLevel>
+</record>
+<record>
+  <date>2019-05-16T12:00:25</date>
+  <millis>1557988225624</millis>
+  <sequence>47</sequence>
+  <level>END</level>
+  <class>com.kms.katalon.core.logging.XmlKeywordLogger</class>
+  <method>endTest</method>
+  <thread>1</thread>
+  <message>End Test Case : Test Cases/test</message>
+  <nestedLevel>0</nestedLevel>
+</record>
+<record>
+  <date>2019-05-16T12:00:25</date>
+  <millis>1557988225628</millis>
+  <sequence>48</sequence>
+  <level>START</level>
+  <class>com.kms.katalon.core.logging.XmlKeywordLogger</class>
+  <method>startTest</method>
+  <thread>1</thread>
+  <message>Start Test Case : Test Cases/test</message>
+  <nestedLevel>1</nestedLevel>
+  <property name="name">Test Cases/test</property>
+  <property name="description"></property>
+  <property name="id">Test Cases/test</property>
+  <property name="source">C:\\Users\\Lavanya_DF\\Downloads\\GS1 FIT\\GS1 FIT\\Test Cases\\test.tc</property>
+  <property name="tag"></property>
+  <property name="isOptional">false</property>
+</record>
+<record>
+  <date>2019-05-16T12:00:25</date>
+  <millis>1557988225639</millis>
+  <sequence>50</sequence>
+  <level>INFO</level>
+  <class>com.kms.katalon.core.logging.XmlKeywordLogger</class>
+  <method>logMessage</method>
+  <thread>1</thread>
+  <message>(Default) Storeresponse = </message>
+  <nestedLevel>1</nestedLevel>
+</record>
+<record>
+  <date>2019-05-16T12:00:25</date>
+  <millis>1557988225639</millis>
+  <sequence>51</sequence>
+  <level>INFO</level>
+  <class>com.kms.katalon.core.logging.XmlKeywordLogger</class>
+  <method>logMessage</method>
+  <thread>1</thread>
+  <message>methodforcall = POST</message>
+  <nestedLevel>1</nestedLevel>
+</record>
+<record>
+  <date>2019-05-16T12:00:25</date>
+  <millis>1557988225639</millis>
+  <sequence>52</sequence>
+  <level>INFO</level>
+  <class>com.kms.katalon.core.logging.XmlKeywordLogger</class>
+  <method>logMessage</method>
+  <thread>1</thread>
+  <message>url = gs-dv-fit.gs1.org/api/v1/economicOperator/1BCd4000122000007/approve</message>
+  <nestedLevel>1</nestedLevel>
+</record>
+<record>
+  <date>2019-05-16T12:00:25</date>
+  <millis>1557988225639</millis>
+  <sequence>53</sequence>
+  <level>INFO</level>
+  <class>com.kms.katalon.core.logging.XmlKeywordLogger</class>
+  <method>logMessage</method>
+  <thread>1</thread>
+  <message>glnparameter = </message>
+  <nestedLevel>1</nestedLevel>
+</record>
+<record>
+  <date>2019-05-16T12:00:25</date>
+  <millis>1557988225639</millis>
+  <sequence>54</sequence>
+  <level>INFO</level>
+  <class>com.kms.katalon.core.logging.XmlKeywordLogger</class>
+  <method>logMessage</method>
+  <thread>1</thread>
+  <message>status = status</message>
+  <nestedLevel>1</nestedLevel>
+</record>
+<record>
+  <date>2019-05-16T12:00:25</date>
+  <millis>1557988225639</millis>
+  <sequence>55</sequence>
+  <level>INFO</level>
+  <class>com.kms.katalon.core.logging.XmlKeywordLogger</class>
+  <method>logMessage</method>
+  <thread>1</thread>
+  <message>statuscode = 409</message>
+  <nestedLevel>1</nestedLevel>
+</record>
+<record>
+  <date>2019-05-16T12:00:25</date>
+  <millis>1557988225639</millis>
+  <sequence>56</sequence>
+  <level>INFO</level>
+  <class>com.kms.katalon.core.logging.XmlKeywordLogger</class>
+  <method>logMessage</method>
+  <thread>1</thread>
+  <message>messageid = </message>
+  <nestedLevel>1</nestedLevel>
+</record>
+<record>
+  <date>2019-05-16T12:00:25</date>
+  <millis>1557988225639</millis>
+  <sequence>57</sequence>
+  <level>INFO</level>
+  <class>com.kms.katalon.core.logging.XmlKeywordLogger</class>
+  <method>logMessage</method>
+  <thread>1</thread>
+  <message>messageidvalue = </message>
+  <nestedLevel>1</nestedLevel>
+</record>
+<record>
+  <date>2019-05-16T12:00:25</date>
+  <millis>1557988225639</millis>
+  <sequence>58</sequence>
+  <level>INFO</level>
+  <class>com.kms.katalon.core.logging.XmlKeywordLogger</class>
+  <method>logMessage</method>
+  <thread>1</thread>
+  <message>companyname = </message>
+  <nestedLevel>1</nestedLevel>
+</record>
+<record>
+  <date>2019-05-16T12:00:25</date>
+  <millis>1557988225643</millis>
+  <sequence>59</sequence>
+  <level>INFO</level>
+  <class>com.kms.katalon.core.logging.XmlKeywordLogger</class>
+  <method>logMessage</method>
+  <thread>1</thread>
+  <message>companynamevalue = </message>
+  <nestedLevel>1</nestedLevel>
+</record>
+<record>
+  <date>2019-05-16T12:00:25</date>
+  <millis>1557988225643</millis>
+  <sequence>60</sequence>
+  <level>INFO</level>
+  <class>com.kms.katalon.core.logging.XmlKeywordLogger</class>
+  <method>logMessage</method>
+  <thread>1</thread>
+  <message>body = \&amp;quot;economicOperatorCompanyName\&amp;quot;: \&amp;quot;Jaitra\&amp;quot;,\n  \&amp;quot;economicOperatorAlternativeCompanyName\&amp;quot;: \&amp;quot;Inc\&amp;quot;,\n  \&amp;quot;economicOperatorAddress\&amp;quot;: \&amp;quot;4th Aveneue, New Jersey\&amp;quot;,\n  \&amp;quot;economicOperatorCountryOfRegistration\&amp;quot;: \&amp;quot;AT\&amp;quot;,\n  \&amp;quot;economicOperatorVatOrTaxNumber\&amp;quot;: \&amp;quot;VAT696986\&amp;quot;,\n  \&amp;quot;economicOperatorVatOrTaxIdentifier\&amp;quot;: \&amp;quot;VAT\&amp;quot;,\n  \&amp;quot;economicOperatorVatOrTaxStatus\&amp;quot;: \&amp;quot;0\&amp;quot;,\n  \&amp;quot;economicOperatorCompanyType\&amp;quot;: 2,\n  \&amp;quot;glnProvider\&amp;quot; :\&amp;quot;1\&amp;quot;,\n  \&amp;quot;businessPhoneNumber\&amp;quot;: \&amp;quot;+491706328615\&amp;quot;,\n  \&amp;quot;requestDateTime\&amp;quot;: \&amp;quot;756568765768\&amp;quot;</message>
+  <nestedLevel>1</nestedLevel>
+</record>
+<record>
+  <date>2019-05-16T12:00:25</date>
+  <millis>1557988225643</millis>
+  <sequence>61</sequence>
+  <level>INFO</level>
+  <class>com.kms.katalon.core.logging.XmlKeywordLogger</class>
+  <method>logMessage</method>
+  <thread>1</thread>
+  <message>message = message</message>
+  <nestedLevel>1</nestedLevel>
+</record>
+<record>
+  <date>2019-05-16T12:00:25</date>
+  <millis>1557988225643</millis>
+  <sequence>62</sequence>
+  <level>INFO</level>
+  <class>com.kms.katalon.core.logging.XmlKeywordLogger</class>
+  <method>logMessage</method>
+  <thread>1</thread>
+  <message>messagevalue = Economic Operator id (EOID) 1BCd4000122000007 has been already approved.</message>
+  <nestedLevel>1</nestedLevel>
+</record>
+<record>
+  <date>2019-05-16T12:00:25</date>
+  <millis>1557988225651</millis>
+  <sequence>63</sequence>
+  <level>INFO</level>
+  <class>com.kms.katalon.core.logging.XmlKeywordLogger</class>
+  <method>logMessage</method>
+  <thread>1</thread>
+  <message>(Default) storeresponse1 = </message>
+  <nestedLevel>1</nestedLevel>
+</record>
+<record>
+  <date>2019-05-16T12:00:25</date>
+  <millis>1557988225651</millis>
+  <sequence>64</sequence>
+  <level>START</level>
+  <class>com.kms.katalon.core.logging.XmlKeywordLogger</class>
+  <method>startKeyword</method>
+  <thread>1</thread>
+  <message>Start action : if (glnparameter == \&amp;quot;\&amp;quot;)</message>
+  <nestedLevel>1</nestedLevel>
+  <property name="startLine">16</property>
+  <property name="stepIndex">1</property>
+</record>
+<record>
+  <date>2019-05-16T12:00:25</date>
+  <millis>1557988225651</millis>
+  <sequence>65</sequence>
+  <level>START</level>
+  <class>com.kms.katalon.core.logging.XmlKeywordLogger</class>
+  <method>startKeyword</method>
+  <thread>1</thread>
+  <message>Start action : Storeresponse = sendRequestAndVerify(findTestObject(\&amp;quot;GLN Approve - EOID\&amp;quot;, [\&amp;quot;url\&amp;quot;:url, \&amp;quot;body\&amp;quot;:body, \&amp;quot;methodforcall\&amp;quot;:methodforcall]))</message>
+  <nestedLevel>2</nestedLevel>
+  <property name="startLine">17</property>
+  <property name="stepIndex">1</property>
+</record>
+<record>
+  <date>2019-05-16T12:00:29</date>
+  <millis>1557988229187</millis>
+  <sequence>70</sequence>
+  <level>START</level>
+  <class>com.kms.katalon.core.logging.XmlKeywordLogger</class>
+  <method>startTest</method>
+  <thread>1</thread>
+  <message>Start Test Case : Verification</message>
+  <nestedLevel>2</nestedLevel>
+</record>
+<record>
+  <date>2019-05-16T12:00:29</date>
+  <millis>1557988229287</millis>
+  <sequence>71</sequence>
+  <level>START</level>
+  <class>com.kms.katalon.core.logging.XmlKeywordLogger</class>
+  <method>startKeyword</method>
+  <thread>1</thread>
+  <message>Start action : request = getInstance().getCurrentRequest()</message>
+  <nestedLevel>1</nestedLevel>
+  <property name="startLine">11</property>
+  <property name="stepIndex">1</property>
+</record>
+<record>
+  <date>2019-05-16T12:00:29</date>
+  <millis>1557988229342</millis>
+  <sequence>72</sequence>
+  <level>END</level>
+  <class>com.kms.katalon.core.logging.XmlKeywordLogger</class>
+  <method>endKeyword</method>
+  <thread>1</thread>
+  <message>End action : request = getInstance().getCurrentRequest()</message>
+  <nestedLevel>1</nestedLevel>
+</record>
+<record>
+  <date>2019-05-16T12:00:29</date>
+  <millis>1557988229342</millis>
+  <sequence>73</sequence>
+  <level>START</level>
+  <class>com.kms.katalon.core.logging.XmlKeywordLogger</class>
+  <method>startKeyword</method>
+  <thread>1</thread>
+  <message>Start action : response = getInstance().getCurrentResponse()</message>
+  <nestedLevel>1</nestedLevel>
+  <property name="startLine">13</property>
+  <property name="stepIndex">2</property>
+</record>
+<record>
+  <date>2019-05-16T12:00:29</date>
+  <millis>1557988229342</millis>
+  <sequence>74</sequence>
+  <level>END</level>
+  <class>com.kms.katalon.core.logging.XmlKeywordLogger</class>
+  <method>endKeyword</method>
+  <thread>1</thread>
+  <message>End action : response = getInstance().getCurrentResponse()</message>
+  <nestedLevel>1</nestedLevel>
+</record>
+<record>
+  <date>2019-05-16T12:00:29</date>
+  <millis>1557988229342</millis>
+  <sequence>75</sequence>
+  <level>PASSED</level>
+  <class>com.kms.katalon.core.logging.XmlKeywordLogger</class>
+  <method>logMessage</method>
+  <thread>1</thread>
+  <message>Verification accomplished successfully</message>
+  <nestedLevel>2</nestedLevel>
+</record>
+<record>
+  <date>2019-05-16T12:00:29</date>
+  <millis>1557988229342</millis>
+  <sequence>76</sequence>
+  <level>END</level>
+  <class>com.kms.katalon.core.logging.XmlKeywordLogger</class>
+  <method>endTest</method>
+  <thread>1</thread>
+  <message>End Test Case : Verification</message>
+  <nestedLevel>1</nestedLevel>
+</record>
+<record>
+  <date>2019-05-16T12:00:29</date>
+  <millis>1557988229343</millis>
+  <sequence>77</sequence>
+  <level>PASSED</level>
+  <class>com.kms.katalon.core.logging.XmlKeywordLogger</class>
+  <method>logMessage</method>
+  <thread>1</thread>
+  <message>Verify response successfully</message>
+  <nestedLevel>1</nestedLevel>
+</record>
+<record>
+  <date>2019-05-16T12:00:29</date>
+  <millis>1557988229343</millis>
+  <sequence>78</sequence>
+  <level>PASSED</level>
+  <class>com.kms.katalon.core.logging.XmlKeywordLogger</class>
+  <method>logMessage</method>
+  <thread>1</thread>
+  <message>Send request and verify the response successfully</message>
+  <nestedLevel>1</nestedLevel>
+</record>
+<record>
+  <date>2019-05-16T12:00:29</date>
+  <millis>1557988229343</millis>
+  <sequence>79</sequence>
+  <level>END</level>
+  <class>com.kms.katalon.core.logging.XmlKeywordLogger</class>
+  <method>endKeyword</method>
+  <thread>1</thread>
+  <message>End action : Storeresponse = sendRequestAndVerify(findTestObject(\&amp;quot;GLN Approve - EOID\&amp;quot;, [\&amp;quot;url\&amp;quot;:url, \&amp;quot;body\&amp;quot;:body, \&amp;quot;methodforcall\&amp;quot;:methodforcall]))</message>
+  <nestedLevel>2</nestedLevel>
+</record>
+<record>
+  <date>2019-05-16T12:00:29</date>
+  <millis>1557988229343</millis>
+  <sequence>80</sequence>
+  <level>START</level>
+  <class>com.kms.katalon.core.logging.XmlKeywordLogger</class>
+  <method>startKeyword</method>
+  <thread>1</thread>
+  <message>Start action : verifyElementPropertyValue(Storeresponse, status, statuscode)</message>
+  <nestedLevel>2</nestedLevel>
+  <property name="startLine">19</property>
+  <property name="stepIndex">2</property>
+</record>
+<record>
+  <date>2019-05-16T12:00:29</date>
+  <millis>1557988229352</millis>
+  <sequence>82</sequence>
+  <level>PASSED</level>
+  <class>com.kms.katalon.core.logging.XmlKeywordLogger</class>
+  <method>logMessage</method>
+  <thread>1</thread>
+  <message>Verify element property value successfully</message>
+  <nestedLevel>1</nestedLevel>
+</record>
+<record>
+  <date>2019-05-16T12:00:29</date>
+  <millis>1557988229353</millis>
+  <sequence>83</sequence>
+  <level>END</level>
+  <class>com.kms.katalon.core.logging.XmlKeywordLogger</class>
+  <method>endKeyword</method>
+  <thread>1</thread>
+  <message>End action : verifyElementPropertyValue(Storeresponse, status, statuscode)</message>
+  <nestedLevel>2</nestedLevel>
+</record>
+<record>
+  <date>2019-05-16T12:00:29</date>
+  <millis>1557988229354</millis>
+  <sequence>84</sequence>
+  <level>START</level>
+  <class>com.kms.katalon.core.logging.XmlKeywordLogger</class>
+  <method>startKeyword</method>
+  <thread>1</thread>
+  <message>Start action : verifyElementPropertyValue(Storeresponse, message, messagevalue)</message>
+  <nestedLevel>2</nestedLevel>
+  <property name="startLine">21</property>
+  <property name="stepIndex">3</property>
+</record>
+<record>
+  <date>2019-05-16T12:00:29</date>
+  <millis>1557988229362</millis>
+  <sequence>86</sequence>
+  <level>PASSED</level>
+  <class>com.kms.katalon.core.logging.XmlKeywordLogger</class>
+  <method>logMessage</method>
+  <thread>1</thread>
+  <message>Verify element property value successfully</message>
+  <nestedLevel>1</nestedLevel>
+</record>
+<record>
+  <date>2019-05-16T12:00:29</date>
+  <millis>1557988229362</millis>
+  <sequence>87</sequence>
+  <level>END</level>
+  <class>com.kms.katalon.core.logging.XmlKeywordLogger</class>
+  <method>endKeyword</method>
+  <thread>1</thread>
+  <message>End action : verifyElementPropertyValue(Storeresponse, message, messagevalue)</message>
+  <nestedLevel>2</nestedLevel>
+</record>
+<record>
+  <date>2019-05-16T12:00:29</date>
+  <millis>1557988229362</millis>
+  <sequence>88</sequence>
+  <level>END</level>
+  <class>com.kms.katalon.core.logging.XmlKeywordLogger</class>
+  <method>endKeyword</method>
+  <thread>1</thread>
+  <message>End action : if (glnparameter == \&amp;quot;\&amp;quot;)</message>
+  <nestedLevel>1</nestedLevel>
+</record>
+<record>
+  <date>2019-05-16T12:00:29</date>
+  <millis>1557988229362</millis>
+  <sequence>89</sequence>
+  <level>PASSED</level>
+  <class>com.kms.katalon.core.logging.XmlKeywordLogger</class>
+  <method>logMessage</method>
+  <thread>1</thread>
+  <message>Test Cases/test</message>
+  <nestedLevel>1</nestedLevel>
+</record>
+<record>
+  <date>2019-05-16T12:00:29</date>
+  <millis>1557988229363</millis>
+  <sequence>90</sequence>
+  <level>END</level>
+  <class>com.kms.katalon.core.logging.XmlKeywordLogger</class>
+  <method>endTest</method>
+  <thread>1</thread>
+  <message>End Test Case : Test Cases/test</message>
+  <nestedLevel>0</nestedLevel>
+</record>
+<record>
+  <date>2019-05-16T12:00:29</date>
+  <millis>1557988229365</millis>
+  <sequence>91</sequence>
+  <level>START</level>
+  <class>com.kms.katalon.core.logging.XmlKeywordLogger</class>
+  <method>startTest</method>
+  <thread>1</thread>
+  <message>Start Test Case : Test Cases/test</message>
+  <nestedLevel>1</nestedLevel>
+  <property name="name">Test Cases/test</property>
+  <property name="description"></property>
+  <property name="id">Test Cases/test</property>
+  <property name="source">C:\\Users\\Lavanya_DF\\Downloads\\GS1 FIT\\GS1 FIT\\Test Cases\\test.tc</property>
+  <property name="tag"></property>
+  <property name="isOptional">false</property>
+</record>
+<record>
+  <date>2019-05-16T12:00:29</date>
+  <millis>1557988229378</millis>
+  <sequence>93</sequence>
+  <level>INFO</level>
+  <class>com.kms.katalon.core.logging.XmlKeywordLogger</class>
+  <method>logMessage</method>
+  <thread>1</thread>
+  <message>(Default) Storeresponse = </message>
+  <nestedLevel>1</nestedLevel>
+</record>
+<record>
+  <date>2019-05-16T12:00:29</date>
+  <millis>1557988229378</millis>
+  <sequence>94</sequence>
+  <level>INFO</level>
+  <class>com.kms.katalon.core.logging.XmlKeywordLogger</class>
+  <method>logMessage</method>
+  <thread>1</thread>
+  <message>methodforcall = POST</message>
+  <nestedLevel>1</nestedLevel>
+</record>
+<record>
+  <date>2019-05-16T12:00:29</date>
+  <millis>1557988229378</millis>
+  <sequence>95</sequence>
+  <level>INFO</level>
+  <class>com.kms.katalon.core.logging.XmlKeywordLogger</class>
+  <method>logMessage</method>
+  <thread>1</thread>
+  <message>url = gs-dv-fit.gs1.org/api/v1/economicOperator/1BCd4000122000007/approve</message>
+  <nestedLevel>1</nestedLevel>
+</record>
+<record>
+  <date>2019-05-16T12:00:29</date>
+  <millis>1557988229379</millis>
+  <sequence>96</sequence>
+  <level>INFO</level>
+  <class>com.kms.katalon.core.logging.XmlKeywordLogger</class>
+  <method>logMessage</method>
+  <thread>1</thread>
+  <message>glnparameter = </message>
+  <nestedLevel>1</nestedLevel>
+</record>
+<record>
+  <date>2019-05-16T12:00:29</date>
+  <millis>1557988229379</millis>
+  <sequence>97</sequence>
+  <level>INFO</level>
+  <class>com.kms.katalon.core.logging.XmlKeywordLogger</class>
+  <method>logMessage</method>
+  <thread>1</thread>
+  <message>status = status</message>
+  <nestedLevel>1</nestedLevel>
+</record>
+<record>
+  <date>2019-05-16T12:00:29</date>
+  <millis>1557988229379</millis>
+  <sequence>98</sequence>
+  <level>INFO</level>
+  <class>com.kms.katalon.core.logging.XmlKeywordLogger</class>
+  <method>logMessage</method>
+  <thread>1</thread>
+  <message>statuscode = 409</message>
+  <nestedLevel>1</nestedLevel>
+</record>
+<record>
+  <date>2019-05-16T12:00:29</date>
+  <millis>1557988229379</millis>
+  <sequence>99</sequence>
+  <level>INFO</level>
+  <class>com.kms.katalon.core.logging.XmlKeywordLogger</class>
+  <method>logMessage</method>
+  <thread>1</thread>
+  <message>messageid = </message>
+  <nestedLevel>1</nestedLevel>
+</record>
+<record>
+  <date>2019-05-16T12:00:29</date>
+  <millis>1557988229380</millis>
+  <sequence>100</sequence>
+  <level>INFO</level>
+  <class>com.kms.katalon.core.logging.XmlKeywordLogger</class>
+  <method>logMessage</method>
+  <thread>1</thread>
+  <message>messageidvalue = </message>
+  <nestedLevel>1</nestedLevel>
+</record>
+<record>
+  <date>2019-05-16T12:00:29</date>
+  <millis>1557988229380</millis>
+  <sequence>101</sequence>
+  <level>INFO</level>
+  <class>com.kms.katalon.core.logging.XmlKeywordLogger</class>
+  <method>logMessage</method>
+  <thread>1</thread>
+  <message>companyname = </message>
+  <nestedLevel>1</nestedLevel>
+</record>
+<record>
+  <date>2019-05-16T12:00:29</date>
+  <millis>1557988229380</millis>
+  <sequence>102</sequence>
+  <level>INFO</level>
+  <class>com.kms.katalon.core.logging.XmlKeywordLogger</class>
+  <method>logMessage</method>
+  <thread>1</thread>
+  <message>companynamevalue = </message>
+  <nestedLevel>1</nestedLevel>
+</record>
+<record>
+  <date>2019-05-16T12:00:29</date>
+  <millis>1557988229380</millis>
+  <sequence>103</sequence>
+  <level>INFO</level>
+  <class>com.kms.katalon.core.logging.XmlKeywordLogger</class>
+  <method>logMessage</method>
+  <thread>1</thread>
+  <message>body = \&amp;quot;economicOperatorCompanyName\&amp;quot;: \&amp;quot;Jaitra to DF\&amp;quot;,\n  \&amp;quot;economicOperatorAlternativeCompanyName\&amp;quot;: \&amp;quot;Inc\&amp;quot;,\n  \&amp;quot;economicOperatorAddress\&amp;quot;: \&amp;quot;4th Aveneue\&amp;quot;,\n  \&amp;quot;economicOperatorCountryOfRegistration\&amp;quot;: \&amp;quot;AT\&amp;quot;,\n  \&amp;quot;economicOperatorVatOrTaxNumber\&amp;quot;: \&amp;quot;VAT696986\&amp;quot;,\n  \&amp;quot;economicOperatorVatOrTaxIdentifier\&amp;quot;: \&amp;quot;VAT\&amp;quot;,\n  \&amp;quot;economicOperatorVatOrTaxStatus\&amp;quot;: \&amp;quot;0\&amp;quot;,\n  \&amp;quot;economicOperatorCompanyType\&amp;quot;: 2,\n  \&amp;quot;glnProvider\&amp;quot; :\&amp;quot;1\&amp;quot;,\n  \&amp;quot;businessPhoneNumber\&amp;quot;: \&amp;quot;+491706328615\&amp;quot;,\n  \&amp;quot;requestDateTime\&amp;quot;: \&amp;quot;756568765768\&amp;quot;</message>
+  <nestedLevel>1</nestedLevel>
+</record>
+<record>
+  <date>2019-05-16T12:00:29</date>
+  <millis>1557988229381</millis>
+  <sequence>104</sequence>
+  <level>INFO</level>
+  <class>com.kms.katalon.core.logging.XmlKeywordLogger</class>
+  <method>logMessage</method>
+  <thread>1</thread>
+  <message>message = message</message>
+  <nestedLevel>1</nestedLevel>
+</record>
+<record>
+  <date>2019-05-16T12:00:29</date>
+  <millis>1557988229381</millis>
+  <sequence>105</sequence>
+  <level>INFO</level>
+  <class>com.kms.katalon.core.logging.XmlKeywordLogger</class>
+  <method>logMessage</method>
+  <thread>1</thread>
+  <message>messagevalue = Economic Operator id (EOID) 1BCd4000122000007 has been already approved.</message>
+  <nestedLevel>1</nestedLevel>
+</record>
+<record>
+  <date>2019-05-16T12:00:29</date>
+  <millis>1557988229388</millis>
+  <sequence>106</sequence>
+  <level>INFO</level>
+  <class>com.kms.katalon.core.logging.XmlKeywordLogger</class>
+  <method>logMessage</method>
+  <thread>1</thread>
+  <message>(Default) storeresponse1 = </message>
+  <nestedLevel>1</nestedLevel>
+</record>
+<record>
+  <date>2019-05-16T12:00:29</date>
+  <millis>1557988229388</millis>
+  <sequence>107</sequence>
+  <level>START</level>
+  <class>com.kms.katalon.core.logging.XmlKeywordLogger</class>
+  <method>startKeyword</method>
+  <thread>1</thread>
+  <message>Start action : if (glnparameter == \&amp;quot;\&amp;quot;)</message>
+  <nestedLevel>1</nestedLevel>
+  <property name="startLine">16</property>
+  <property name="stepIndex">1</property>
+</record>
+<record>
+  <date>2019-05-16T12:00:29</date>
+  <millis>1557988229388</millis>
+  <sequence>108</sequence>
+  <level>START</level>
+  <class>com.kms.katalon.core.logging.XmlKeywordLogger</class>
+  <method>startKeyword</method>
+  <thread>1</thread>
+  <message>Start action : Storeresponse = sendRequestAndVerify(findTestObject(\&amp;quot;GLN Approve - EOID\&amp;quot;, [\&amp;quot;url\&amp;quot;:url, \&amp;quot;body\&amp;quot;:body, \&amp;quot;methodforcall\&amp;quot;:methodforcall]))</message>
+  <nestedLevel>2</nestedLevel>
+  <property name="startLine">17</property>
+  <property name="stepIndex">1</property>
+</record>
+<record>
+  <date>2019-05-16T12:00:33</date>
+  <millis>1557988233081</millis>
+  <sequence>113</sequence>
+  <level>START</level>
+  <class>com.kms.katalon.core.logging.XmlKeywordLogger</class>
+  <method>startTest</method>
+  <thread>1</thread>
+  <message>Start Test Case : Verification</message>
+  <nestedLevel>2</nestedLevel>
+</record>
+<record>
+  <date>2019-05-16T12:00:33</date>
+  <millis>1557988233190</millis>
+  <sequence>114</sequence>
+  <level>START</level>
+  <class>com.kms.katalon.core.logging.XmlKeywordLogger</class>
+  <method>startKeyword</method>
+  <thread>1</thread>
+  <message>Start action : request = getInstance().getCurrentRequest()</message>
+  <nestedLevel>1</nestedLevel>
+  <property name="startLine">11</property>
+  <property name="stepIndex">1</property>
+</record>
+<record>
+  <date>2019-05-16T12:00:33</date>
+  <millis>1557988233237</millis>
+  <sequence>115</sequence>
+  <level>END</level>
+  <class>com.kms.katalon.core.logging.XmlKeywordLogger</class>
+  <method>endKeyword</method>
+  <thread>1</thread>
+  <message>End action : request = getInstance().getCurrentRequest()</message>
+  <nestedLevel>1</nestedLevel>
+</record>
+<record>
+  <date>2019-05-16T12:00:33</date>
+  <millis>1557988233238</millis>
+  <sequence>116</sequence>
+  <level>START</level>
+  <class>com.kms.katalon.core.logging.XmlKeywordLogger</class>
+  <method>startKeyword</method>
+  <thread>1</thread>
+  <message>Start action : response = getInstance().getCurrentResponse()</message>
+  <nestedLevel>1</nestedLevel>
+  <property name="startLine">13</property>
+  <property name="stepIndex">2</property>
+</record>
+<record>
+  <date>2019-05-16T12:00:33</date>
+  <millis>1557988233238</millis>
+  <sequence>117</sequence>
+  <level>END</level>
+  <class>com.kms.katalon.core.logging.XmlKeywordLogger</class>
+  <method>endKeyword</method>
+  <thread>1</thread>
+  <message>End action : response = getInstance().getCurrentResponse()</message>
+  <nestedLevel>1</nestedLevel>
+</record>
+<record>
+  <date>2019-05-16T12:00:33</date>
+  <millis>1557988233238</millis>
+  <sequence>118</sequence>
+  <level>PASSED</level>
+  <class>com.kms.katalon.core.logging.XmlKeywordLogger</class>
+  <method>logMessage</method>
+  <thread>1</thread>
+  <message>Verification accomplished successfully</message>
+  <nestedLevel>2</nestedLevel>
+</record>
+<record>
+  <date>2019-05-16T12:00:33</date>
+  <millis>1557988233238</millis>
+  <sequence>119</sequence>
+  <level>END</level>
+  <class>com.kms.katalon.core.logging.XmlKeywordLogger</class>
+  <method>endTest</method>
+  <thread>1</thread>
+  <message>End Test Case : Verification</message>
+  <nestedLevel>1</nestedLevel>
+</record>
+<record>
+  <date>2019-05-16T12:00:33</date>
+  <millis>1557988233238</millis>
+  <sequence>120</sequence>
+  <level>PASSED</level>
+  <class>com.kms.katalon.core.logging.XmlKeywordLogger</class>
+  <method>logMessage</method>
+  <thread>1</thread>
+  <message>Verify response successfully</message>
+  <nestedLevel>1</nestedLevel>
+</record>
+<record>
+  <date>2019-05-16T12:00:33</date>
+  <millis>1557988233239</millis>
+  <sequence>121</sequence>
+  <level>PASSED</level>
+  <class>com.kms.katalon.core.logging.XmlKeywordLogger</class>
+  <method>logMessage</method>
+  <thread>1</thread>
+  <message>Send request and verify the response successfully</message>
+  <nestedLevel>1</nestedLevel>
+</record>
+<record>
+  <date>2019-05-16T12:00:33</date>
+  <millis>1557988233239</millis>
+  <sequence>122</sequence>
+  <level>END</level>
+  <class>com.kms.katalon.core.logging.XmlKeywordLogger</class>
+  <method>endKeyword</method>
+  <thread>1</thread>
+  <message>End action : Storeresponse = sendRequestAndVerify(findTestObject(\&amp;quot;GLN Approve - EOID\&amp;quot;, [\&amp;quot;url\&amp;quot;:url, \&amp;quot;body\&amp;quot;:body, \&amp;quot;methodforcall\&amp;quot;:methodforcall]))</message>
+  <nestedLevel>2</nestedLevel>
+</record>
+<record>
+  <date>2019-05-16T12:00:33</date>
+  <millis>1557988233239</millis>
+  <sequence>123</sequence>
+  <level>START</level>
+  <class>com.kms.katalon.core.logging.XmlKeywordLogger</class>
+  <method>startKeyword</method>
+  <thread>1</thread>
+  <message>Start action : verifyElementPropertyValue(Storeresponse, status, statuscode)</message>
+  <nestedLevel>2</nestedLevel>
+  <property name="startLine">19</property>
+  <property name="stepIndex">2</property>
+</record>
+<record>
+  <date>2019-05-16T12:00:33</date>
+  <millis>1557988233248</millis>
+  <sequence>125</sequence>
+  <level>PASSED</level>
+  <class>com.kms.katalon.core.logging.XmlKeywordLogger</class>
+  <method>logMessage</method>
+  <thread>1</thread>
+  <message>Verify element property value successfully</message>
+  <nestedLevel>1</nestedLevel>
+</record>
+<record>
+  <date>2019-05-16T12:00:33</date>
+  <millis>1557988233248</millis>
+  <sequence>126</sequence>
+  <level>END</level>
+  <class>com.kms.katalon.core.logging.XmlKeywordLogger</class>
+  <method>endKeyword</method>
+  <thread>1</thread>
+  <message>End action : verifyElementPropertyValue(Storeresponse, status, statuscode)</message>
+  <nestedLevel>2</nestedLevel>
+</record>
+<record>
+  <date>2019-05-16T12:00:33</date>
+  <millis>1557988233249</millis>
+  <sequence>127</sequence>
+  <level>START</level>
+  <class>com.kms.katalon.core.logging.XmlKeywordLogger</class>
+  <method>startKeyword</method>
+  <thread>1</thread>
+  <message>Start action : verifyElementPropertyValue(Storeresponse, message, messagevalue)</message>
+  <nestedLevel>2</nestedLevel>
+  <property name="startLine">21</property>
+  <property name="stepIndex">3</property>
+</record>
+<record>
+  <date>2019-05-16T12:00:33</date>
+  <millis>1557988233259</millis>
+  <sequence>129</sequence>
+  <level>PASSED</level>
+  <class>com.kms.katalon.core.logging.XmlKeywordLogger</class>
+  <method>logMessage</method>
+  <thread>1</thread>
+  <message>Verify element property value successfully</message>
+  <nestedLevel>1</nestedLevel>
+</record>
+<record>
+  <date>2019-05-16T12:00:33</date>
+  <millis>1557988233259</millis>
+  <sequence>130</sequence>
+  <level>END</level>
+  <class>com.kms.katalon.core.logging.XmlKeywordLogger</class>
+  <method>endKeyword</method>
+  <thread>1</thread>
+  <message>End action : verifyElementPropertyValue(Storeresponse, message, messagevalue)</message>
+  <nestedLevel>2</nestedLevel>
+</record>
+<record>
+  <date>2019-05-16T12:00:33</date>
+  <millis>1557988233259</millis>
+  <sequence>131</sequence>
+  <level>END</level>
+  <class>com.kms.katalon.core.logging.XmlKeywordLogger</class>
+  <method>endKeyword</method>
+  <thread>1</thread>
+  <message>End action : if (glnparameter == \&amp;quot;\&amp;quot;)</message>
+  <nestedLevel>1</nestedLevel>
+</record>
+<record>
+  <date>2019-05-16T12:00:33</date>
+  <millis>1557988233259</millis>
+  <sequence>132</sequence>
+  <level>PASSED</level>
+  <class>com.kms.katalon.core.logging.XmlKeywordLogger</class>
+  <method>logMessage</method>
+  <thread>1</thread>
+  <message>Test Cases/test</message>
+  <nestedLevel>1</nestedLevel>
+</record>
+<record>
+  <date>2019-05-16T12:00:33</date>
+  <millis>1557988233260</millis>
+  <sequence>133</sequence>
+  <level>END</level>
+  <class>com.kms.katalon.core.logging.XmlKeywordLogger</class>
+  <method>endTest</method>
+  <thread>1</thread>
+  <message>End Test Case : Test Cases/test</message>
+  <nestedLevel>0</nestedLevel>
+</record>
+<record>
+  <date>2019-05-16T12:00:33</date>
+  <millis>1557988233263</millis>
+  <sequence>134</sequence>
+  <level>START</level>
+  <class>com.kms.katalon.core.logging.XmlKeywordLogger</class>
+  <method>startTest</method>
+  <thread>1</thread>
+  <message>Start Test Case : Test Cases/test</message>
+  <nestedLevel>1</nestedLevel>
+  <property name="name">Test Cases/test</property>
+  <property name="description"></property>
+  <property name="id">Test Cases/test</property>
+  <property name="source">C:\\Users\\Lavanya_DF\\Downloads\\GS1 FIT\\GS1 FIT\\Test Cases\\test.tc</property>
+  <property name="tag"></property>
+  <property name="isOptional">false</property>
+</record>
+<record>
+  <date>2019-05-16T12:00:33</date>
+  <millis>1557988233272</millis>
+  <sequence>136</sequence>
+  <level>INFO</level>
+  <class>com.kms.katalon.core.logging.XmlKeywordLogger</class>
+  <method>logMessage</method>
+  <thread>1</thread>
+  <message>(Default) Storeresponse = </message>
+  <nestedLevel>1</nestedLevel>
+</record>
+<record>
+  <date>2019-05-16T12:00:33</date>
+  <millis>1557988233272</millis>
+  <sequence>137</sequence>
+  <level>INFO</level>
+  <class>com.kms.katalon.core.logging.XmlKeywordLogger</class>
+  <method>logMessage</method>
+  <thread>1</thread>
+  <message>methodforcall = POST</message>
+  <nestedLevel>1</nestedLevel>
+</record>
+<record>
+  <date>2019-05-16T12:00:33</date>
+  <millis>1557988233272</millis>
+  <sequence>138</sequence>
+  <level>INFO</level>
+  <class>com.kms.katalon.core.logging.XmlKeywordLogger</class>
+  <method>logMessage</method>
+  <thread>1</thread>
+  <message>url = gs-dv-fit.gs1.org/api/v1/economicOperator/1BCd400012200000/approve</message>
+  <nestedLevel>1</nestedLevel>
+</record>
+<record>
+  <date>2019-05-16T12:00:33</date>
+  <millis>1557988233272</millis>
+  <sequence>139</sequence>
+  <level>INFO</level>
+  <class>com.kms.katalon.core.logging.XmlKeywordLogger</class>
+  <method>logMessage</method>
+  <thread>1</thread>
+  <message>glnparameter = </message>
+  <nestedLevel>1</nestedLevel>
+</record>
+<record>
+  <date>2019-05-16T12:00:33</date>
+  <millis>1557988233272</millis>
+  <sequence>140</sequence>
+  <level>INFO</level>
+  <class>com.kms.katalon.core.logging.XmlKeywordLogger</class>
+  <method>logMessage</method>
+  <thread>1</thread>
+  <message>status = status</message>
+  <nestedLevel>1</nestedLevel>
+</record>
+<record>
+  <date>2019-05-16T12:00:33</date>
+  <millis>1557988233272</millis>
+  <sequence>141</sequence>
+  <level>INFO</level>
+  <class>com.kms.katalon.core.logging.XmlKeywordLogger</class>
+  <method>logMessage</method>
+  <thread>1</thread>
+  <message>statuscode = 400</message>
+  <nestedLevel>1</nestedLevel>
+</record>
+<record>
+  <date>2019-05-16T12:00:33</date>
+  <millis>1557988233272</millis>
+  <sequence>142</sequence>
+  <level>INFO</level>
+  <class>com.kms.katalon.core.logging.XmlKeywordLogger</class>
+  <method>logMessage</method>
+  <thread>1</thread>
+  <message>messageid = </message>
+  <nestedLevel>1</nestedLevel>
+</record>
+<record>
+  <date>2019-05-16T12:00:33</date>
+  <millis>1557988233272</millis>
+  <sequence>143</sequence>
+  <level>INFO</level>
+  <class>com.kms.katalon.core.logging.XmlKeywordLogger</class>
+  <method>logMessage</method>
+  <thread>1</thread>
+  <message>messageidvalue = </message>
+  <nestedLevel>1</nestedLevel>
+</record>
+<record>
+  <date>2019-05-16T12:00:33</date>
+  <millis>1557988233272</millis>
+  <sequence>144</sequence>
+  <level>INFO</level>
+  <class>com.kms.katalon.core.logging.XmlKeywordLogger</class>
+  <method>logMessage</method>
+  <thread>1</thread>
+  <message>companyname = </message>
+  <nestedLevel>1</nestedLevel>
+</record>
+<record>
+  <date>2019-05-16T12:00:33</date>
+  <millis>1557988233272</millis>
+  <sequence>145</sequence>
+  <level>INFO</level>
+  <class>com.kms.katalon.core.logging.XmlKeywordLogger</class>
+  <method>logMessage</method>
+  <thread>1</thread>
+  <message>companynamevalue = </message>
+  <nestedLevel>1</nestedLevel>
+</record>
+<record>
+  <date>2019-05-16T12:00:33</date>
+  <millis>1557988233276</millis>
+  <sequence>146</sequence>
+  <level>INFO</level>
+  <class>com.kms.katalon.core.logging.XmlKeywordLogger</class>
+  <method>logMessage</method>
+  <thread>1</thread>
+  <message>body = \&amp;quot;economicOperatorCompanyName\&amp;quot;: \&amp;quot;Jaitra\&amp;quot;,\n  \&amp;quot;economicOperatorAlternativeCompanyName\&amp;quot;: \&amp;quot;Inc\&amp;quot;,\n  \&amp;quot;economicOperatorAddress\&amp;quot;: \&amp;quot;4th Aveneue\&amp;quot;,\n  \&amp;quot;economicOperatorCountryOfRegistration\&amp;quot;: \&amp;quot;AT\&amp;quot;,\n  \&amp;quot;economicOperatorVatOrTaxNumber\&amp;quot;: \&amp;quot;VAT696986\&amp;quot;,\n  \&amp;quot;economicOperatorVatOrTaxIdentifier\&amp;quot;: \&amp;quot;VAT\&amp;quot;,\n  \&amp;quot;economicOperatorVatOrTaxStatus\&amp;quot;: \&amp;quot;0\&amp;quot;,\n  \&amp;quot;economicOperatorCompanyType\&amp;quot;: 2,\n  \&amp;quot;glnProvider\&amp;quot; :\&amp;quot;1\&amp;quot;,\n  \&amp;quot;businessPhoneNumber\&amp;quot;: \&amp;quot;+491706328615\&amp;quot;,\n  \&amp;quot;requestDateTime\&amp;quot;: \&amp;quot;756568765768\&amp;quot;</message>
+  <nestedLevel>1</nestedLevel>
+</record>
+<record>
+  <date>2019-05-16T12:00:33</date>
+  <millis>1557988233276</millis>
+  <sequence>147</sequence>
+  <level>INFO</level>
+  <class>com.kms.katalon.core.logging.XmlKeywordLogger</class>
+  <method>logMessage</method>
+  <thread>1</thread>
+  <message>message = message</message>
+  <nestedLevel>1</nestedLevel>
+</record>
+<record>
+  <date>2019-05-16T12:00:33</date>
+  <millis>1557988233276</millis>
+  <sequence>148</sequence>
+  <level>INFO</level>
+  <class>com.kms.katalon.core.logging.XmlKeywordLogger</class>
+  <method>logMessage</method>
+  <thread>1</thread>
+  <message>messagevalue = eoid should be 17 characters.</message>
+  <nestedLevel>1</nestedLevel>
+</record>
+<record>
+  <date>2019-05-16T12:00:33</date>
+  <millis>1557988233280</millis>
+  <sequence>149</sequence>
+  <level>INFO</level>
+  <class>com.kms.katalon.core.logging.XmlKeywordLogger</class>
+  <method>logMessage</method>
+  <thread>1</thread>
+  <message>(Default) storeresponse1 = </message>
+  <nestedLevel>1</nestedLevel>
+</record>
+<record>
+  <date>2019-05-16T12:00:33</date>
+  <millis>1557988233284</millis>
+  <sequence>150</sequence>
+  <level>START</level>
+  <class>com.kms.katalon.core.logging.XmlKeywordLogger</class>
+  <method>startKeyword</method>
+  <thread>1</thread>
+  <message>Start action : if (glnparameter == \&amp;quot;\&amp;quot;)</message>
+  <nestedLevel>1</nestedLevel>
+  <property name="startLine">16</property>
+  <property name="stepIndex">1</property>
+</record>
+<record>
+  <date>2019-05-16T12:00:33</date>
+  <millis>1557988233284</millis>
+  <sequence>151</sequence>
+  <level>START</level>
+  <class>com.kms.katalon.core.logging.XmlKeywordLogger</class>
+  <method>startKeyword</method>
+  <thread>1</thread>
+  <message>Start action : Storeresponse = sendRequestAndVerify(findTestObject(\&amp;quot;GLN Approve - EOID\&amp;quot;, [\&amp;quot;url\&amp;quot;:url, \&amp;quot;body\&amp;quot;:body, \&amp;quot;methodforcall\&amp;quot;:methodforcall]))</message>
+  <nestedLevel>2</nestedLevel>
+  <property name="startLine">17</property>
+  <property name="stepIndex">1</property>
+</record>
+<record>
+  <date>2019-05-16T12:00:36</date>
+  <millis>1557988236563</millis>
+  <sequence>156</sequence>
+  <level>START</level>
+  <class>com.kms.katalon.core.logging.XmlKeywordLogger</class>
+  <method>startTest</method>
+  <thread>1</thread>
+  <message>Start Test Case : Verification</message>
+  <nestedLevel>2</nestedLevel>
+</record>
+<record>
+  <date>2019-05-16T12:00:36</date>
+  <millis>1557988236674</millis>
+  <sequence>157</sequence>
+  <level>START</level>
+  <class>com.kms.katalon.core.logging.XmlKeywordLogger</class>
+  <method>startKeyword</method>
+  <thread>1</thread>
+  <message>Start action : request = getInstance().getCurrentRequest()</message>
+  <nestedLevel>1</nestedLevel>
+  <property name="startLine">11</property>
+  <property name="stepIndex">1</property>
+</record>
+<record>
+  <date>2019-05-16T12:00:36</date>
+  <millis>1557988236724</millis>
+  <sequence>158</sequence>
+  <level>END</level>
+  <class>com.kms.katalon.core.logging.XmlKeywordLogger</class>
+  <method>endKeyword</method>
+  <thread>1</thread>
+  <message>End action : request = getInstance().getCurrentRequest()</message>
+  <nestedLevel>1</nestedLevel>
+</record>
+<record>
+  <date>2019-05-16T12:00:36</date>
+  <millis>1557988236724</millis>
+  <sequence>159</sequence>
+  <level>START</level>
+  <class>com.kms.katalon.core.logging.XmlKeywordLogger</class>
+  <method>startKeyword</method>
+  <thread>1</thread>
+  <message>Start action : response = getInstance().getCurrentResponse()</message>
+  <nestedLevel>1</nestedLevel>
+  <property name="startLine">13</property>
+  <property name="stepIndex">2</property>
+</record>
+<record>
+  <date>2019-05-16T12:00:36</date>
+  <millis>1557988236724</millis>
+  <sequence>160</sequence>
+  <level>END</level>
+  <class>com.kms.katalon.core.logging.XmlKeywordLogger</class>
+  <method>endKeyword</method>
+  <thread>1</thread>
+  <message>End action : response = getInstance().getCurrentResponse()</message>
+  <nestedLevel>1</nestedLevel>
+</record>
+<record>
+  <date>2019-05-16T12:00:36</date>
+  <millis>1557988236724</millis>
+  <sequence>161</sequence>
+  <level>PASSED</level>
+  <class>com.kms.katalon.core.logging.XmlKeywordLogger</class>
+  <method>logMessage</method>
+  <thread>1</thread>
+  <message>Verification accomplished successfully</message>
+  <nestedLevel>2</nestedLevel>
+</record>
+<record>
+  <date>2019-05-16T12:00:36</date>
+  <millis>1557988236725</millis>
+  <sequence>162</sequence>
+  <level>END</level>
+  <class>com.kms.katalon.core.logging.XmlKeywordLogger</class>
+  <method>endTest</method>
+  <thread>1</thread>
+  <message>End Test Case : Verification</message>
+  <nestedLevel>1</nestedLevel>
+</record>
+<record>
+  <date>2019-05-16T12:00:36</date>
+  <millis>1557988236725</millis>
+  <sequence>163</sequence>
+  <level>PASSED</level>
+  <class>com.kms.katalon.core.logging.XmlKeywordLogger</class>
+  <method>logMessage</method>
+  <thread>1</thread>
+  <message>Verify response successfully</message>
+  <nestedLevel>1</nestedLevel>
+</record>
+<record>
+  <date>2019-05-16T12:00:36</date>
+  <millis>1557988236725</millis>
+  <sequence>164</sequence>
+  <level>PASSED</level>
+  <class>com.kms.katalon.core.logging.XmlKeywordLogger</class>
+  <method>logMessage</method>
+  <thread>1</thread>
+  <message>Send request and verify the response successfully</message>
+  <nestedLevel>1</nestedLevel>
+</record>
+<record>
+  <date>2019-05-16T12:00:36</date>
+  <millis>1557988236725</millis>
+  <sequence>165</sequence>
+  <level>END</level>
+  <class>com.kms.katalon.core.logging.XmlKeywordLogger</class>
+  <method>endKeyword</method>
+  <thread>1</thread>
+  <message>End action : Storeresponse = sendRequestAndVerify(findTestObject(\&amp;quot;GLN Approve - EOID\&amp;quot;, [\&amp;quot;url\&amp;quot;:url, \&amp;quot;body\&amp;quot;:body, \&amp;quot;methodforcall\&amp;quot;:methodforcall]))</message>
+  <nestedLevel>2</nestedLevel>
+</record>
+<record>
+  <date>2019-05-16T12:00:36</date>
+  <millis>1557988236726</millis>
+  <sequence>166</sequence>
+  <level>START</level>
+  <class>com.kms.katalon.core.logging.XmlKeywordLogger</class>
+  <method>startKeyword</method>
+  <thread>1</thread>
+  <message>Start action : verifyElementPropertyValue(Storeresponse, status, statuscode)</message>
+  <nestedLevel>2</nestedLevel>
+  <property name="startLine">19</property>
+  <property name="stepIndex">2</property>
+</record>
+<record>
+  <date>2019-05-16T12:00:36</date>
+  <millis>1557988236737</millis>
+  <sequence>168</sequence>
+  <level>PASSED</level>
+  <class>com.kms.katalon.core.logging.XmlKeywordLogger</class>
+  <method>logMessage</method>
+  <thread>1</thread>
+  <message>Verify element property value successfully</message>
+  <nestedLevel>1</nestedLevel>
+</record>
+<record>
+  <date>2019-05-16T12:00:36</date>
+  <millis>1557988236737</millis>
+  <sequence>169</sequence>
+  <level>END</level>
+  <class>com.kms.katalon.core.logging.XmlKeywordLogger</class>
+  <method>endKeyword</method>
+  <thread>1</thread>
+  <message>End action : verifyElementPropertyValue(Storeresponse, status, statuscode)</message>
+  <nestedLevel>2</nestedLevel>
+</record>
+<record>
+  <date>2019-05-16T12:00:36</date>
+  <millis>1557988236737</millis>
+  <sequence>170</sequence>
+  <level>START</level>
+  <class>com.kms.katalon.core.logging.XmlKeywordLogger</class>
+  <method>startKeyword</method>
+  <thread>1</thread>
+  <message>Start action : verifyElementPropertyValue(Storeresponse, message, messagevalue)</message>
+  <nestedLevel>2</nestedLevel>
+  <property name="startLine">21</property>
+  <property name="stepIndex">3</property>
+</record>
+<record>
+  <date>2019-05-16T12:00:36</date>
+  <millis>1557988236747</millis>
+  <sequence>172</sequence>
+  <level>PASSED</level>
+  <class>com.kms.katalon.core.logging.XmlKeywordLogger</class>
+  <method>logMessage</method>
+  <thread>1</thread>
+  <message>Verify element property value successfully</message>
+  <nestedLevel>1</nestedLevel>
+</record>
+<record>
+  <date>2019-05-16T12:00:36</date>
+  <millis>1557988236748</millis>
+  <sequence>173</sequence>
+  <level>END</level>
+  <class>com.kms.katalon.core.logging.XmlKeywordLogger</class>
+  <method>endKeyword</method>
+  <thread>1</thread>
+  <message>End action : verifyElementPropertyValue(Storeresponse, message, messagevalue)</message>
+  <nestedLevel>2</nestedLevel>
+</record>
+<record>
+  <date>2019-05-16T12:00:36</date>
+  <millis>1557988236748</millis>
+  <sequence>174</sequence>
+  <level>END</level>
+  <class>com.kms.katalon.core.logging.XmlKeywordLogger</class>
+  <method>endKeyword</method>
+  <thread>1</thread>
+  <message>End action : if (glnparameter == \&amp;quot;\&amp;quot;)</message>
+  <nestedLevel>1</nestedLevel>
+</record>
+<record>
+  <date>2019-05-16T12:00:36</date>
+  <millis>1557988236748</millis>
+  <sequence>175</sequence>
+  <level>PASSED</level>
+  <class>com.kms.katalon.core.logging.XmlKeywordLogger</class>
+  <method>logMessage</method>
+  <thread>1</thread>
+  <message>Test Cases/test</message>
+  <nestedLevel>1</nestedLevel>
+</record>
+<record>
+  <date>2019-05-16T12:00:36</date>
+  <millis>1557988236748</millis>
+  <sequence>176</sequence>
+  <level>END</level>
+  <class>com.kms.katalon.core.logging.XmlKeywordLogger</class>
+  <method>endTest</method>
+  <thread>1</thread>
+  <message>End Test Case : Test Cases/test</message>
+  <nestedLevel>0</nestedLevel>
+</record>
+<record>
+  <date>2019-05-16T12:00:36</date>
+  <millis>1557988236751</millis>
+  <sequence>177</sequence>
+  <level>START</level>
+  <class>com.kms.katalon.core.logging.XmlKeywordLogger</class>
+  <method>startTest</method>
+  <thread>1</thread>
+  <message>Start Test Case : Test Cases/test</message>
+  <nestedLevel>1</nestedLevel>
+  <property name="name">Test Cases/test</property>
+  <property name="description"></property>
+  <property name="id">Test Cases/test</property>
+  <property name="source">C:\\Users\\Lavanya_DF\\Downloads\\GS1 FIT\\GS1 FIT\\Test Cases\\test.tc</property>
+  <property name="tag"></property>
+  <property name="isOptional">false</property>
+</record>
+<record>
+  <date>2019-05-16T12:00:36</date>
+  <millis>1557988236763</millis>
+  <sequence>179</sequence>
+  <level>INFO</level>
+  <class>com.kms.katalon.core.logging.XmlKeywordLogger</class>
+  <method>logMessage</method>
+  <thread>1</thread>
+  <message>(Default) Storeresponse = </message>
+  <nestedLevel>1</nestedLevel>
+</record>
+<record>
+  <date>2019-05-16T12:00:36</date>
+  <millis>1557988236763</millis>
+  <sequence>180</sequence>
+  <level>INFO</level>
+  <class>com.kms.katalon.core.logging.XmlKeywordLogger</class>
+  <method>logMessage</method>
+  <thread>1</thread>
+  <message>methodforcall = POST</message>
+  <nestedLevel>1</nestedLevel>
+</record>
+<record>
+  <date>2019-05-16T12:00:36</date>
+  <millis>1557988236763</millis>
+  <sequence>181</sequence>
+  <level>INFO</level>
+  <class>com.kms.katalon.core.logging.XmlKeywordLogger</class>
+  <method>logMessage</method>
+  <thread>1</thread>
+  <message>url = gs-dv-fit.gs1.org/api/v1/economicOperator/1BCJ4000122000007/approve</message>
+  <nestedLevel>1</nestedLevel>
+</record>
+<record>
+  <date>2019-05-16T12:00:36</date>
+  <millis>1557988236763</millis>
+  <sequence>182</sequence>
+  <level>INFO</level>
+  <class>com.kms.katalon.core.logging.XmlKeywordLogger</class>
+  <method>logMessage</method>
+  <thread>1</thread>
+  <message>glnparameter = </message>
+  <nestedLevel>1</nestedLevel>
+</record>
+<record>
+  <date>2019-05-16T12:00:36</date>
+  <millis>1557988236763</millis>
+  <sequence>183</sequence>
+  <level>INFO</level>
+  <class>com.kms.katalon.core.logging.XmlKeywordLogger</class>
+  <method>logMessage</method>
+  <thread>1</thread>
+  <message>status = status</message>
+  <nestedLevel>1</nestedLevel>
+</record>
+<record>
+  <date>2019-05-16T12:00:36</date>
+  <millis>1557988236763</millis>
+  <sequence>184</sequence>
+  <level>INFO</level>
+  <class>com.kms.katalon.core.logging.XmlKeywordLogger</class>
+  <method>logMessage</method>
+  <thread>1</thread>
+  <message>statuscode = 409</message>
+  <nestedLevel>1</nestedLevel>
+</record>
+<record>
+  <date>2019-05-16T12:00:36</date>
+  <millis>1557988236763</millis>
+  <sequence>185</sequence>
+  <level>INFO</level>
+  <class>com.kms.katalon.core.logging.XmlKeywordLogger</class>
+  <method>logMessage</method>
+  <thread>1</thread>
+  <message>messageid = </message>
+  <nestedLevel>1</nestedLevel>
+</record>
+<record>
+  <date>2019-05-16T12:00:36</date>
+  <millis>1557988236763</millis>
+  <sequence>186</sequence>
+  <level>INFO</level>
+  <class>com.kms.katalon.core.logging.XmlKeywordLogger</class>
+  <method>logMessage</method>
+  <thread>1</thread>
+  <message>messageidvalue = </message>
+  <nestedLevel>1</nestedLevel>
+</record>
+<record>
+  <date>2019-05-16T12:00:36</date>
+  <millis>1557988236763</millis>
+  <sequence>187</sequence>
+  <level>INFO</level>
+  <class>com.kms.katalon.core.logging.XmlKeywordLogger</class>
+  <method>logMessage</method>
+  <thread>1</thread>
+  <message>companyname = </message>
+  <nestedLevel>1</nestedLevel>
+</record>
+<record>
+  <date>2019-05-16T12:00:36</date>
+  <millis>1557988236763</millis>
+  <sequence>188</sequence>
+  <level>INFO</level>
+  <class>com.kms.katalon.core.logging.XmlKeywordLogger</class>
+  <method>logMessage</method>
+  <thread>1</thread>
+  <message>companynamevalue = </message>
+  <nestedLevel>1</nestedLevel>
+</record>
+<record>
+  <date>2019-05-16T12:00:36</date>
+  <millis>1557988236763</millis>
+  <sequence>189</sequence>
+  <level>INFO</level>
+  <class>com.kms.katalon.core.logging.XmlKeywordLogger</class>
+  <method>logMessage</method>
+  <thread>1</thread>
+  <message>body = \&amp;quot;economicOperatorCompanyName\&amp;quot;: \&amp;quot;Jaitra\&amp;quot;,\n  \&amp;quot;economicOperatorAlternativeCompanyName\&amp;quot;: \&amp;quot;Inc\&amp;quot;,\n  \&amp;quot;economicOperatorAddress\&amp;quot;: \&amp;quot;4th Aveneue\&amp;quot;,\n  \&amp;quot;economicOperatorCountryOfRegistration\&amp;quot;: \&amp;quot;AT\&amp;quot;,\n  \&amp;quot;economicOperatorVatOrTaxNumber\&amp;quot;: \&amp;quot;VAT696986\&amp;quot;,\n  \&amp;quot;economicOperatorVatOrTaxIdentifier\&amp;quot;: \&amp;quot;VAT\&amp;quot;,\n  \&amp;quot;economicOperatorVatOrTaxStatus\&amp;quot;: \&amp;quot;0\&amp;quot;,\n  \&amp;quot;economicOperatorCompanyType\&amp;quot;: 2,\n  \&amp;quot;glnProvider\&amp;quot; :\&amp;quot;1\&amp;quot;,\n  \&amp;quot;businessPhoneNumber\&amp;quot;: \&amp;quot;+491706328615\&amp;quot;,\n  \&amp;quot;requestDateTime\&amp;quot;: \&amp;quot;756568765768\&amp;quot;</message>
+  <nestedLevel>1</nestedLevel>
+</record>
+<record>
+  <date>2019-05-16T12:00:36</date>
+  <millis>1557988236763</millis>
+  <sequence>190</sequence>
+  <level>INFO</level>
+  <class>com.kms.katalon.core.logging.XmlKeywordLogger</class>
+  <method>logMessage</method>
+  <thread>1</thread>
+  <message>message = message</message>
+  <nestedLevel>1</nestedLevel>
+</record>
+<record>
+  <date>2019-05-16T12:00:36</date>
+  <millis>1557988236763</millis>
+  <sequence>191</sequence>
+  <level>INFO</level>
+  <class>com.kms.katalon.core.logging.XmlKeywordLogger</class>
+  <method>logMessage</method>
+  <thread>1</thread>
+  <message>messagevalue = Incorrect importer index</message>
+  <nestedLevel>1</nestedLevel>
+</record>
+<record>
+  <date>2019-05-16T12:00:36</date>
+  <millis>1557988236771</millis>
+  <sequence>192</sequence>
+  <level>INFO</level>
+  <class>com.kms.katalon.core.logging.XmlKeywordLogger</class>
+  <method>logMessage</method>
+  <thread>1</thread>
+  <message>(Default) storeresponse1 = </message>
+  <nestedLevel>1</nestedLevel>
+</record>
+<record>
+  <date>2019-05-16T12:00:36</date>
+  <millis>1557988236772</millis>
+  <sequence>193</sequence>
+  <level>START</level>
+  <class>com.kms.katalon.core.logging.XmlKeywordLogger</class>
+  <method>startKeyword</method>
+  <thread>1</thread>
+  <message>Start action : if (glnparameter == \&amp;quot;\&amp;quot;)</message>
+  <nestedLevel>1</nestedLevel>
+  <property name="startLine">16</property>
+  <property name="stepIndex">1</property>
+</record>
+<record>
+  <date>2019-05-16T12:00:36</date>
+  <millis>1557988236773</millis>
+  <sequence>194</sequence>
+  <level>START</level>
+  <class>com.kms.katalon.core.logging.XmlKeywordLogger</class>
+  <method>startKeyword</method>
+  <thread>1</thread>
+  <message>Start action : Storeresponse = sendRequestAndVerify(findTestObject(\&amp;quot;GLN Approve - EOID\&amp;quot;, [\&amp;quot;url\&amp;quot;:url, \&amp;quot;body\&amp;quot;:body, \&amp;quot;methodforcall\&amp;quot;:methodforcall]))</message>
+  <nestedLevel>2</nestedLevel>
+  <property name="startLine">17</property>
+  <property name="stepIndex">1</property>
+</record>
+<record>
+  <date>2019-05-16T12:00:40</date>
+  <millis>1557988240051</millis>
+  <sequence>199</sequence>
+  <level>START</level>
+  <class>com.kms.katalon.core.logging.XmlKeywordLogger</class>
+  <method>startTest</method>
+  <thread>1</thread>
+  <message>Start Test Case : Verification</message>
+  <nestedLevel>2</nestedLevel>
+</record>
+<record>
+  <date>2019-05-16T12:00:40</date>
+  <millis>1557988240146</millis>
+  <sequence>200</sequence>
+  <level>START</level>
+  <class>com.kms.katalon.core.logging.XmlKeywordLogger</class>
+  <method>startKeyword</method>
+  <thread>1</thread>
+  <message>Start action : request = getInstance().getCurrentRequest()</message>
+  <nestedLevel>1</nestedLevel>
+  <property name="startLine">11</property>
+  <property name="stepIndex">1</property>
+</record>
+<record>
+  <date>2019-05-16T12:00:40</date>
+  <millis>1557988240193</millis>
+  <sequence>201</sequence>
+  <level>END</level>
+  <class>com.kms.katalon.core.logging.XmlKeywordLogger</class>
+  <method>endKeyword</method>
+  <thread>1</thread>
+  <message>End action : request = getInstance().getCurrentRequest()</message>
+  <nestedLevel>1</nestedLevel>
+</record>
+<record>
+  <date>2019-05-16T12:00:40</date>
+  <millis>1557988240193</millis>
+  <sequence>202</sequence>
+  <level>START</level>
+  <class>com.kms.katalon.core.logging.XmlKeywordLogger</class>
+  <method>startKeyword</method>
+  <thread>1</thread>
+  <message>Start action : response = getInstance().getCurrentResponse()</message>
+  <nestedLevel>1</nestedLevel>
+  <property name="startLine">13</property>
+  <property name="stepIndex">2</property>
+</record>
+<record>
+  <date>2019-05-16T12:00:40</date>
+  <millis>1557988240193</millis>
+  <sequence>203</sequence>
+  <level>END</level>
+  <class>com.kms.katalon.core.logging.XmlKeywordLogger</class>
+  <method>endKeyword</method>
+  <thread>1</thread>
+  <message>End action : response = getInstance().getCurrentResponse()</message>
+  <nestedLevel>1</nestedLevel>
+</record>
+<record>
+  <date>2019-05-16T12:00:40</date>
+  <millis>1557988240193</millis>
+  <sequence>204</sequence>
+  <level>PASSED</level>
+  <class>com.kms.katalon.core.logging.XmlKeywordLogger</class>
+  <method>logMessage</method>
+  <thread>1</thread>
+  <message>Verification accomplished successfully</message>
+  <nestedLevel>2</nestedLevel>
+</record>
+<record>
+  <date>2019-05-16T12:00:40</date>
+  <millis>1557988240193</millis>
+  <sequence>205</sequence>
+  <level>END</level>
+  <class>com.kms.katalon.core.logging.XmlKeywordLogger</class>
+  <method>endTest</method>
+  <thread>1</thread>
+  <message>End Test Case : Verification</message>
+  <nestedLevel>1</nestedLevel>
+</record>
+<record>
+  <date>2019-05-16T12:00:40</date>
+  <millis>1557988240194</millis>
+  <sequence>206</sequence>
+  <level>PASSED</level>
+  <class>com.kms.katalon.core.logging.XmlKeywordLogger</class>
+  <method>logMessage</method>
+  <thread>1</thread>
+  <message>Verify response successfully</message>
+  <nestedLevel>1</nestedLevel>
+</record>
+<record>
+  <date>2019-05-16T12:00:40</date>
+  <millis>1557988240194</millis>
+  <sequence>207</sequence>
+  <level>PASSED</level>
+  <class>com.kms.katalon.core.logging.XmlKeywordLogger</class>
+  <method>logMessage</method>
+  <thread>1</thread>
+  <message>Send request and verify the response successfully</message>
+  <nestedLevel>1</nestedLevel>
+</record>
+<record>
+  <date>2019-05-16T12:00:40</date>
+  <millis>1557988240194</millis>
+  <sequence>208</sequence>
+  <level>END</level>
+  <class>com.kms.katalon.core.logging.XmlKeywordLogger</class>
+  <method>endKeyword</method>
+  <thread>1</thread>
+  <message>End action : Storeresponse = sendRequestAndVerify(findTestObject(\&amp;quot;GLN Approve - EOID\&amp;quot;, [\&amp;quot;url\&amp;quot;:url, \&amp;quot;body\&amp;quot;:body, \&amp;quot;methodforcall\&amp;quot;:methodforcall]))</message>
+  <nestedLevel>2</nestedLevel>
+</record>
+<record>
+  <date>2019-05-16T12:00:40</date>
+  <millis>1557988240194</millis>
+  <sequence>209</sequence>
+  <level>START</level>
+  <class>com.kms.katalon.core.logging.XmlKeywordLogger</class>
+  <method>startKeyword</method>
+  <thread>1</thread>
+  <message>Start action : verifyElementPropertyValue(Storeresponse, status, statuscode)</message>
+  <nestedLevel>2</nestedLevel>
+  <property name="startLine">19</property>
+  <property name="stepIndex">2</property>
+</record>
+<record>
+  <date>2019-05-16T12:00:40</date>
+  <millis>1557988240204</millis>
+  <sequence>211</sequence>
+  <level>PASSED</level>
+  <class>com.kms.katalon.core.logging.XmlKeywordLogger</class>
+  <method>logMessage</method>
+  <thread>1</thread>
+  <message>Verify element property value successfully</message>
+  <nestedLevel>1</nestedLevel>
+</record>
+<record>
+  <date>2019-05-16T12:00:40</date>
+  <millis>1557988240205</millis>
+  <sequence>212</sequence>
+  <level>END</level>
+  <class>com.kms.katalon.core.logging.XmlKeywordLogger</class>
+  <method>endKeyword</method>
+  <thread>1</thread>
+  <message>End action : verifyElementPropertyValue(Storeresponse, status, statuscode)</message>
+  <nestedLevel>2</nestedLevel>
+</record>
+<record>
+  <date>2019-05-16T12:00:40</date>
+  <millis>1557988240205</millis>
+  <sequence>213</sequence>
+  <level>START</level>
+  <class>com.kms.katalon.core.logging.XmlKeywordLogger</class>
+  <method>startKeyword</method>
+  <thread>1</thread>
+  <message>Start action : verifyElementPropertyValue(Storeresponse, message, messagevalue)</message>
+  <nestedLevel>2</nestedLevel>
+  <property name="startLine">21</property>
+  <property name="stepIndex">3</property>
+</record>
+<record>
+  <date>2019-05-16T12:00:40</date>
+  <millis>1557988240216</millis>
+  <sequence>215</sequence>
+  <level>PASSED</level>
+  <class>com.kms.katalon.core.logging.XmlKeywordLogger</class>
+  <method>logMessage</method>
+  <thread>1</thread>
+  <message>Verify element property value successfully</message>
+  <nestedLevel>1</nestedLevel>
+</record>
+<record>
+  <date>2019-05-16T12:00:40</date>
+  <millis>1557988240216</millis>
+  <sequence>216</sequence>
+  <level>END</level>
+  <class>com.kms.katalon.core.logging.XmlKeywordLogger</class>
+  <method>endKeyword</method>
+  <thread>1</thread>
+  <message>End action : verifyElementPropertyValue(Storeresponse, message, messagevalue)</message>
+  <nestedLevel>2</nestedLevel>
+</record>
+<record>
+  <date>2019-05-16T12:00:40</date>
+  <millis>1557988240216</millis>
+  <sequence>217</sequence>
+  <level>END</level>
+  <class>com.kms.katalon.core.logging.XmlKeywordLogger</class>
+  <method>endKeyword</method>
+  <thread>1</thread>
+  <message>End action : if (glnparameter == \&amp;quot;\&amp;quot;)</message>
+  <nestedLevel>1</nestedLevel>
+</record>
+<record>
+  <date>2019-05-16T12:00:40</date>
+  <millis>1557988240216</millis>
+  <sequence>218</sequence>
+  <level>PASSED</level>
+  <class>com.kms.katalon.core.logging.XmlKeywordLogger</class>
+  <method>logMessage</method>
+  <thread>1</thread>
+  <message>Test Cases/test</message>
+  <nestedLevel>1</nestedLevel>
+</record>
+<record>
+  <date>2019-05-16T12:00:40</date>
+  <millis>1557988240217</millis>
+  <sequence>219</sequence>
+  <level>END</level>
+  <class>com.kms.katalon.core.logging.XmlKeywordLogger</class>
+  <method>endTest</method>
+  <thread>1</thread>
+  <message>End Test Case : Test Cases/test</message>
+  <nestedLevel>0</nestedLevel>
+</record>
+<record>
+  <date>2019-05-16T12:00:40</date>
+  <millis>1557988240219</millis>
+  <sequence>220</sequence>
+  <level>START</level>
+  <class>com.kms.katalon.core.logging.XmlKeywordLogger</class>
+  <method>startTest</method>
+  <thread>1</thread>
+  <message>Start Test Case : Test Cases/test</message>
+  <nestedLevel>1</nestedLevel>
+  <property name="name">Test Cases/test</property>
+  <property name="description"></property>
+  <property name="id">Test Cases/test</property>
+  <property name="source">C:\\Users\\Lavanya_DF\\Downloads\\GS1 FIT\\GS1 FIT\\Test Cases\\test.tc</property>
+  <property name="tag"></property>
+  <property name="isOptional">false</property>
+</record>
+<record>
+  <date>2019-05-16T12:00:40</date>
+  <millis>1557988240232</millis>
+  <sequence>222</sequence>
+  <level>INFO</level>
+  <class>com.kms.katalon.core.logging.XmlKeywordLogger</class>
+  <method>logMessage</method>
+  <thread>1</thread>
+  <message>(Default) Storeresponse = </message>
+  <nestedLevel>1</nestedLevel>
+</record>
+<record>
+  <date>2019-05-16T12:00:40</date>
+  <millis>1557988240232</millis>
+  <sequence>223</sequence>
+  <level>INFO</level>
+  <class>com.kms.katalon.core.logging.XmlKeywordLogger</class>
+  <method>logMessage</method>
+  <thread>1</thread>
+  <message>methodforcall = POST</message>
+  <nestedLevel>1</nestedLevel>
+</record>
+<record>
+  <date>2019-05-16T12:00:40</date>
+  <millis>1557988240232</millis>
+  <sequence>224</sequence>
+  <level>INFO</level>
+  <class>com.kms.katalon.core.logging.XmlKeywordLogger</class>
+  <method>logMessage</method>
+  <thread>1</thread>
+  <message>url = gs-dv-fit.gs1.org/api/v1/economicOperator/1BCd4000161000006/approve</message>
+  <nestedLevel>1</nestedLevel>
+</record>
+<record>
+  <date>2019-05-16T12:00:40</date>
+  <millis>1557988240232</millis>
+  <sequence>225</sequence>
+  <level>INFO</level>
+  <class>com.kms.katalon.core.logging.XmlKeywordLogger</class>
+  <method>logMessage</method>
+  <thread>1</thread>
+  <message>glnparameter = </message>
+  <nestedLevel>1</nestedLevel>
+</record>
+<record>
+  <date>2019-05-16T12:00:40</date>
+  <millis>1557988240232</millis>
+  <sequence>226</sequence>
+  <level>INFO</level>
+  <class>com.kms.katalon.core.logging.XmlKeywordLogger</class>
+  <method>logMessage</method>
+  <thread>1</thread>
+  <message>status = status</message>
+  <nestedLevel>1</nestedLevel>
+</record>
+<record>
+  <date>2019-05-16T12:00:40</date>
+  <millis>1557988240232</millis>
+  <sequence>227</sequence>
+  <level>INFO</level>
+  <class>com.kms.katalon.core.logging.XmlKeywordLogger</class>
+  <method>logMessage</method>
+  <thread>1</thread>
+  <message>statuscode = 400</message>
+  <nestedLevel>1</nestedLevel>
+</record>
+<record>
+  <date>2019-05-16T12:00:40</date>
+  <millis>1557988240232</millis>
+  <sequence>228</sequence>
+  <level>INFO</level>
+  <class>com.kms.katalon.core.logging.XmlKeywordLogger</class>
+  <method>logMessage</method>
+  <thread>1</thread>
+  <message>messageid = </message>
+  <nestedLevel>1</nestedLevel>
+</record>
+<record>
+  <date>2019-05-16T12:00:40</date>
+  <millis>1557988240232</millis>
+  <sequence>229</sequence>
+  <level>INFO</level>
+  <class>com.kms.katalon.core.logging.XmlKeywordLogger</class>
+  <method>logMessage</method>
+  <thread>1</thread>
+  <message>messageidvalue = </message>
+  <nestedLevel>1</nestedLevel>
+</record>
+<record>
+  <date>2019-05-16T12:00:40</date>
+  <millis>1557988240232</millis>
+  <sequence>230</sequence>
+  <level>INFO</level>
+  <class>com.kms.katalon.core.logging.XmlKeywordLogger</class>
+  <method>logMessage</method>
+  <thread>1</thread>
+  <message>companyname = </message>
+  <nestedLevel>1</nestedLevel>
+</record>
+<record>
+  <date>2019-05-16T12:00:40</date>
+  <millis>1557988240232</millis>
+  <sequence>231</sequence>
+  <level>INFO</level>
+  <class>com.kms.katalon.core.logging.XmlKeywordLogger</class>
+  <method>logMessage</method>
+  <thread>1</thread>
+  <message>companynamevalue = </message>
+  <nestedLevel>1</nestedLevel>
+</record>
+<record>
+  <date>2019-05-16T12:00:40</date>
+  <millis>1557988240232</millis>
+  <sequence>232</sequence>
+  <level>INFO</level>
+  <class>com.kms.katalon.core.logging.XmlKeywordLogger</class>
+  <method>logMessage</method>
+  <thread>1</thread>
+  <message>body = \&amp;quot;economicOperatorCompanyName\&amp;quot;: \&amp;quot;Jaitra Updated\&amp;quot;,\n  \&amp;quot;economicOperatorAlternativeCompanyName\&amp;quot;: \&amp;quot;Ramesh Updated\&amp;quot;,\n  \&amp;quot;economicOperatorAddress\&amp;quot;: \&amp;quot;4th Aveneue, New Jersey\&amp;quot;,\n  \&amp;quot;economicOperatorCountryOfRegistration\&amp;quot;: \&amp;quot;AT\&amp;quot;,\n  \&amp;quot;economicOperatorVatOrTaxNumber\&amp;quot;: \&amp;quot;VAT6969961\&amp;quot;,\n  \&amp;quot;economicOperatorVatOrTaxIdentifier\&amp;quot;: \&amp;quot;VAT\&amp;quot;,\n  \&amp;quot;economicOperatorVatOrTaxStatus\&amp;quot;: \&amp;quot;0\&amp;quot;,\n  \&amp;quot;economicOperatorCompanyType\&amp;quot;: 2,\n  \&amp;quot;glnProvider\&amp;quot; :\&amp;quot;1\&amp;quot;,\n  \&amp;quot;businessPhoneNumber\&amp;quot;: \&amp;quot;+491706328615\&amp;quot;,\n  \&amp;quot;requestDateTime\&amp;quot;: \&amp;quot;756568765768\&amp;quot;</message>
+  <nestedLevel>1</nestedLevel>
+</record>
+<record>
+  <date>2019-05-16T12:00:40</date>
+  <millis>1557988240232</millis>
+  <sequence>233</sequence>
+  <level>INFO</level>
+  <class>com.kms.katalon.core.logging.XmlKeywordLogger</class>
+  <method>logMessage</method>
+  <thread>1</thread>
+  <message>message = message</message>
+  <nestedLevel>1</nestedLevel>
+</record>
+<record>
+  <date>2019-05-16T12:00:40</date>
+  <millis>1557988240232</millis>
+  <sequence>234</sequence>
+  <level>INFO</level>
+  <class>com.kms.katalon.core.logging.XmlKeywordLogger</class>
+  <method>logMessage</method>
+  <thread>1</thread>
+  <message>messagevalue = Importer Index has been already assigned with other Economic Operator Id (EOID)</message>
+  <nestedLevel>1</nestedLevel>
+</record>
+<record>
+  <date>2019-05-16T12:00:40</date>
+  <millis>1557988240241</millis>
+  <sequence>235</sequence>
+  <level>INFO</level>
+  <class>com.kms.katalon.core.logging.XmlKeywordLogger</class>
+  <method>logMessage</method>
+  <thread>1</thread>
+  <message>(Default) storeresponse1 = </message>
+  <nestedLevel>1</nestedLevel>
+</record>
+<record>
+  <date>2019-05-16T12:00:40</date>
+  <millis>1557988240242</millis>
+  <sequence>236</sequence>
+  <level>START</level>
+  <class>com.kms.katalon.core.logging.XmlKeywordLogger</class>
+  <method>startKeyword</method>
+  <thread>1</thread>
+  <message>Start action : if (glnparameter == \&amp;quot;\&amp;quot;)</message>
+  <nestedLevel>1</nestedLevel>
+  <property name="startLine">16</property>
+  <property name="stepIndex">1</property>
+</record>
+<record>
+  <date>2019-05-16T12:00:40</date>
+  <millis>1557988240243</millis>
+  <sequence>237</sequence>
+  <level>START</level>
+  <class>com.kms.katalon.core.logging.XmlKeywordLogger</class>
+  <method>startKeyword</method>
+  <thread>1</thread>
+  <message>Start action : Storeresponse = sendRequestAndVerify(findTestObject(\&amp;quot;GLN Approve - EOID\&amp;quot;, [\&amp;quot;url\&amp;quot;:url, \&amp;quot;body\&amp;quot;:body, \&amp;quot;methodforcall\&amp;quot;:methodforcall]))</message>
+  <nestedLevel>2</nestedLevel>
+  <property name="startLine">17</property>
+  <property name="stepIndex">1</property>
+</record>
+<record>
+  <date>2019-05-16T12:00:44</date>
+  <millis>1557988244826</millis>
+  <sequence>242</sequence>
+  <level>START</level>
+  <class>com.kms.katalon.core.logging.XmlKeywordLogger</class>
+  <method>startTest</method>
+  <thread>1</thread>
+  <message>Start Test Case : Verification</message>
+  <nestedLevel>2</nestedLevel>
+</record>
+<record>
+  <date>2019-05-16T12:00:44</date>
+  <millis>1557988244944</millis>
+  <sequence>243</sequence>
+  <level>START</level>
+  <class>com.kms.katalon.core.logging.XmlKeywordLogger</class>
+  <method>startKeyword</method>
+  <thread>1</thread>
+  <message>Start action : request = getInstance().getCurrentRequest()</message>
+  <nestedLevel>1</nestedLevel>
+  <property name="startLine">11</property>
+  <property name="stepIndex">1</property>
+</record>
+<record>
+  <date>2019-05-16T12:00:44</date>
+  <millis>1557988244986</millis>
+  <sequence>244</sequence>
+  <level>END</level>
+  <class>com.kms.katalon.core.logging.XmlKeywordLogger</class>
+  <method>endKeyword</method>
+  <thread>1</thread>
+  <message>End action : request = getInstance().getCurrentRequest()</message>
+  <nestedLevel>1</nestedLevel>
+</record>
+<record>
+  <date>2019-05-16T12:00:44</date>
+  <millis>1557988244987</millis>
+  <sequence>245</sequence>
+  <level>START</level>
+  <class>com.kms.katalon.core.logging.XmlKeywordLogger</class>
+  <method>startKeyword</method>
+  <thread>1</thread>
+  <message>Start action : response = getInstance().getCurrentResponse()</message>
+  <nestedLevel>1</nestedLevel>
+  <property name="startLine">13</property>
+  <property name="stepIndex">2</property>
+</record>
+<record>
+  <date>2019-05-16T12:00:44</date>
+  <millis>1557988244987</millis>
+  <sequence>246</sequence>
+  <level>END</level>
+  <class>com.kms.katalon.core.logging.XmlKeywordLogger</class>
+  <method>endKeyword</method>
+  <thread>1</thread>
+  <message>End action : response = getInstance().getCurrentResponse()</message>
+  <nestedLevel>1</nestedLevel>
+</record>
+<record>
+  <date>2019-05-16T12:00:44</date>
+  <millis>1557988244987</millis>
+  <sequence>247</sequence>
+  <level>PASSED</level>
+  <class>com.kms.katalon.core.logging.XmlKeywordLogger</class>
+  <method>logMessage</method>
+  <thread>1</thread>
+  <message>Verification accomplished successfully</message>
+  <nestedLevel>2</nestedLevel>
+</record>
+<record>
+  <date>2019-05-16T12:00:44</date>
+  <millis>1557988244987</millis>
+  <sequence>248</sequence>
+  <level>END</level>
+  <class>com.kms.katalon.core.logging.XmlKeywordLogger</class>
+  <method>endTest</method>
+  <thread>1</thread>
+  <message>End Test Case : Verification</message>
+  <nestedLevel>1</nestedLevel>
+</record>
+<record>
+  <date>2019-05-16T12:00:44</date>
+  <millis>1557988244987</millis>
+  <sequence>249</sequence>
+  <level>PASSED</level>
+  <class>com.kms.katalon.core.logging.XmlKeywordLogger</class>
+  <method>logMessage</method>
+  <thread>1</thread>
+  <message>Verify response successfully</message>
+  <nestedLevel>1</nestedLevel>
+</record>
+<record>
+  <date>2019-05-16T12:00:44</date>
+  <millis>1557988244987</millis>
+  <sequence>250</sequence>
+  <level>PASSED</level>
+  <class>com.kms.katalon.core.logging.XmlKeywordLogger</class>
+  <method>logMessage</method>
+  <thread>1</thread>
+  <message>Send request and verify the response successfully</message>
+  <nestedLevel>1</nestedLevel>
+</record>
+<record>
+  <date>2019-05-16T12:00:44</date>
+  <millis>1557988244987</millis>
+  <sequence>251</sequence>
+  <level>END</level>
+  <class>com.kms.katalon.core.logging.XmlKeywordLogger</class>
+  <method>endKeyword</method>
+  <thread>1</thread>
+  <message>End action : Storeresponse = sendRequestAndVerify(findTestObject(\&amp;quot;GLN Approve - EOID\&amp;quot;, [\&amp;quot;url\&amp;quot;:url, \&amp;quot;body\&amp;quot;:body, \&amp;quot;methodforcall\&amp;quot;:methodforcall]))</message>
+  <nestedLevel>2</nestedLevel>
+</record>
+<record>
+  <date>2019-05-16T12:00:44</date>
+  <millis>1557988244988</millis>
+  <sequence>252</sequence>
+  <level>START</level>
+  <class>com.kms.katalon.core.logging.XmlKeywordLogger</class>
+  <method>startKeyword</method>
+  <thread>1</thread>
+  <message>Start action : verifyElementPropertyValue(Storeresponse, status, statuscode)</message>
+  <nestedLevel>2</nestedLevel>
+  <property name="startLine">19</property>
+  <property name="stepIndex">2</property>
+</record>
+<record>
+  <date>2019-05-16T12:00:44</date>
+  <millis>1557988244997</millis>
+  <sequence>254</sequence>
+  <level>PASSED</level>
+  <class>com.kms.katalon.core.logging.XmlKeywordLogger</class>
+  <method>logMessage</method>
+  <thread>1</thread>
+  <message>Verify element property value successfully</message>
+  <nestedLevel>1</nestedLevel>
+</record>
+<record>
+  <date>2019-05-16T12:00:44</date>
+  <millis>1557988244997</millis>
+  <sequence>255</sequence>
+  <level>END</level>
+  <class>com.kms.katalon.core.logging.XmlKeywordLogger</class>
+  <method>endKeyword</method>
+  <thread>1</thread>
+  <message>End action : verifyElementPropertyValue(Storeresponse, status, statuscode)</message>
+  <nestedLevel>2</nestedLevel>
+</record>
+<record>
+  <date>2019-05-16T12:00:44</date>
+  <millis>1557988244997</millis>
+  <sequence>256</sequence>
+  <level>START</level>
+  <class>com.kms.katalon.core.logging.XmlKeywordLogger</class>
+  <method>startKeyword</method>
+  <thread>1</thread>
+  <message>Start action : verifyElementPropertyValue(Storeresponse, message, messagevalue)</message>
+  <nestedLevel>2</nestedLevel>
+  <property name="startLine">21</property>
+  <property name="stepIndex">3</property>
+</record>
+<record>
+  <date>2019-05-16T12:00:45</date>
+  <millis>1557988245009</millis>
+  <sequence>258</sequence>
+  <level>PASSED</level>
+  <class>com.kms.katalon.core.logging.XmlKeywordLogger</class>
+  <method>logMessage</method>
+  <thread>1</thread>
+  <message>Verify element property value successfully</message>
+  <nestedLevel>1</nestedLevel>
+</record>
+<record>
+  <date>2019-05-16T12:00:45</date>
+  <millis>1557988245009</millis>
+  <sequence>259</sequence>
+  <level>END</level>
+  <class>com.kms.katalon.core.logging.XmlKeywordLogger</class>
+  <method>endKeyword</method>
+  <thread>1</thread>
+  <message>End action : verifyElementPropertyValue(Storeresponse, message, messagevalue)</message>
+  <nestedLevel>2</nestedLevel>
+</record>
+<record>
+  <date>2019-05-16T12:00:45</date>
+  <millis>1557988245009</millis>
+  <sequence>260</sequence>
+  <level>END</level>
+  <class>com.kms.katalon.core.logging.XmlKeywordLogger</class>
+  <method>endKeyword</method>
+  <thread>1</thread>
+  <message>End action : if (glnparameter == \&amp;quot;\&amp;quot;)</message>
+  <nestedLevel>1</nestedLevel>
+</record>
+<record>
+  <date>2019-05-16T12:00:45</date>
+  <millis>1557988245009</millis>
+  <sequence>261</sequence>
+  <level>PASSED</level>
+  <class>com.kms.katalon.core.logging.XmlKeywordLogger</class>
+  <method>logMessage</method>
+  <thread>1</thread>
+  <message>Test Cases/test</message>
+  <nestedLevel>1</nestedLevel>
+</record>
+<record>
+  <date>2019-05-16T12:00:45</date>
+  <millis>1557988245009</millis>
+  <sequence>262</sequence>
+  <level>END</level>
+  <class>com.kms.katalon.core.logging.XmlKeywordLogger</class>
+  <method>endTest</method>
+  <thread>1</thread>
+  <message>End Test Case : Test Cases/test</message>
+  <nestedLevel>0</nestedLevel>
+</record>
+<record>
+  <date>2019-05-16T12:00:45</date>
+  <millis>1557988245041</millis>
+  <sequence>263</sequence>
+  <level>END</level>
+  <class>com.kms.katalon.core.logging.XmlKeywordLogger</class>
+  <method>endSuite</method>
+  <thread>1</thread>
+  <message>End Test Suite : Test Suites/FIt-test suite</message>
+  <nestedLevel>0</nestedLevel>
+</record>
+</log>

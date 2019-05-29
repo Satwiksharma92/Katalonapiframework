@@ -1,0 +1,29 @@
+Suite/Test/Step Name,Browser,Description,Tag,Start time,End time,Duration,Status
+FIt-test suite,,,,2019-05-28 18:35:43,2019-05-28 18:36:04,21.367s,FAILED
+,,,,,,,
+Test Cases/test,,,,2019-05-28 18:35:43,2019-05-28 18:35:54,10.584s,FAILED
+"if (methodforcall == ""PUT"")",,,,2019-05-28 18:35:44,2019-05-28 18:35:44,0.002s,PASSED
+else,,,,2019-05-28 18:35:44,2019-05-28 18:35:44,0.001s,PASSED
+"if (giaiparameter != """" && url == ""gs-dv-fit.gs1.org/api/v1/machine/check"")",,,,2019-05-28 18:35:44,2019-05-28 18:35:53,9.318s,PASSED
+"if (gtinparameter != """" && url == ""gs-dv-fit.gs1.org/api/v1/product/check"")",,,,2019-05-28 18:35:53,2019-05-28 18:35:53,0.000s,PASSED
+else,,,,2019-05-28 18:35:53,2019-05-28 18:35:53,0.000s,PASSED
+"if (glnparameter == """" && methodforcall == ""POST"")",,,,2019-05-28 18:35:53,2019-05-28 18:35:54,0.825s,FAILED
+,,,,,,,
+Test Cases/test,,,,2019-05-28 18:35:54,2019-05-28 18:36:00,6.377s,FAILED
+"if (methodforcall == ""PUT"")",,,,2019-05-28 18:35:54,2019-05-28 18:35:54,0.001s,PASSED
+else,,,,2019-05-28 18:35:54,2019-05-28 18:35:54,0.000s,PASSED
+"if (giaiparameter != """" && url == ""gs-dv-fit.gs1.org/api/v1/machine/check"")",,,,2019-05-28 18:35:54,2019-05-28 18:35:54,0.001s,PASSED
+else,,,,2019-05-28 18:35:54,2019-05-28 18:35:54,0.001s,PASSED
+"if (gtinparameter != """" && url == ""gs-dv-fit.gs1.org/api/v1/product/check"")",,,,2019-05-28 18:35:54,2019-05-28 18:35:59,5.343s,PASSED
+"if (glnparameter == """" && methodforcall == ""POST"")",,,,2019-05-28 18:35:59,2019-05-28 18:36:00,0.984s,FAILED
+,,,,,,,
+Test Cases/test,,,,2019-05-28 18:36:00,2019-05-28 18:36:04,4.181s,PASSED
+"if (methodforcall == ""PUT"")",,,,2019-05-28 18:36:00,2019-05-28 18:36:00,0.000s,PASSED
+else,,,,2019-05-28 18:36:00,2019-05-28 18:36:00,0.000s,PASSED
+"if (giaiparameter != """" && url == ""gs-dv-fit.gs1.org/api/v1/machine/check"")",,,,2019-05-28 18:36:00,2019-05-28 18:36:00,0.000s,PASSED
+else,,,,2019-05-28 18:36:00,2019-05-28 18:36:00,0.000s,PASSED
+"if (gtinparameter != """" && url == ""gs-dv-fit.gs1.org/api/v1/product/check"")",,,,2019-05-28 18:36:00,2019-05-28 18:36:00,0.000s,PASSED
+else,,,,2019-05-28 18:36:00,2019-05-28 18:36:00,0.000s,PASSED
+"if (glnparameter == """" && methodforcall == ""POST"")",,,,2019-05-28 18:36:00,2019-05-28 18:36:04,4.127s,PASSED
+if (statuscode == 200),,,,2019-05-28 18:36:04,2019-05-28 18:36:04,0.000s,PASSED
+else,,,,2019-05-28 18:36:04,2019-05-28 18:36:04,0.000s,PASSED

@@ -1,0 +1,31 @@
+Suite/Test/Step Name,Browser,Description,Tag,Start time,End time,Duration,Status
+FIt-test suite,,,,2019-05-29 19:09:54,2019-05-29 19:10:42,47.504s,FAILED
+,,,,,,,
+Test Cases/test,,,,2019-05-29 19:09:55,2019-05-29 19:10:12,16.936s,PASSED
+"if (glngtingiaiparameters != """")",,,,2019-05-29 19:09:55,2019-05-29 19:10:12,16.644s,PASSED
+"if (statuscode == ""200"" && glngtingiaiparameters != """")",,,,2019-05-29 19:10:12,2019-05-29 19:10:12,0.000s,PASSED
+else,,,,2019-05-29 19:10:12,2019-05-29 19:10:12,0.000s,PASSED
+"if (glngtingiaiparameters == """" && url = ""approve"")",,,,2019-05-29 19:10:12,2019-05-29 19:10:12,0.001s,PASSED
+else,,,,2019-05-29 19:10:12,2019-05-29 19:10:12,0.000s,PASSED
+,,,,,,,
+Test Cases/test,,,,2019-05-29 19:10:12,2019-05-29 19:10:22,10.169s,FAILED
+"if (glngtingiaiparameters != """")",,,,2019-05-29 19:10:12,2019-05-29 19:10:22,10.094s,PASSED
+"if (statuscode == ""200"" && glngtingiaiparameters != """")",,,,2019-05-29 19:10:22,2019-05-29 19:10:22,0.038s,FAILED
+,,,,,,,
+Test Cases/test,,,,2019-05-29 19:10:22,2019-05-29 19:10:27,5.132s,FAILED
+"if (glngtingiaiparameters != """")",,,,2019-05-29 19:10:22,2019-05-29 19:10:22,0.000s,PASSED
+else,,,,2019-05-29 19:10:22,2019-05-29 19:10:22,0.000s,PASSED
+"if (statuscode == ""200"" && glngtingiaiparameters != """")",,,,2019-05-29 19:10:22,2019-05-29 19:10:22,0.000s,PASSED
+else,,,,2019-05-29 19:10:22,2019-05-29 19:10:22,0.000s,PASSED
+"if (glngtingiaiparameters == """" && url = ""approve"")",,,,2019-05-29 19:10:22,2019-05-29 19:10:27,5.086s,FAILED
+,,,,,,,
+Test Cases/test,,,,2019-05-29 19:10:27,2019-05-29 19:10:32,5.049s,FAILED
+"if (glngtingiaiparameters != """")",,,,2019-05-29 19:10:27,2019-05-29 19:10:27,0.000s,PASSED
+else,,,,2019-05-29 19:10:27,2019-05-29 19:10:27,0.000s,PASSED
+"if (statuscode == ""200"" && glngtingiaiparameters != """")",,,,2019-05-29 19:10:27,2019-05-29 19:10:27,0.000s,PASSED
+else,,,,2019-05-29 19:10:27,2019-05-29 19:10:27,0.000s,PASSED
+"if (glngtingiaiparameters == """" && url = ""approve"")",,,,2019-05-29 19:10:27,2019-05-29 19:10:32,5.012s,FAILED
+,,,,,,,
+Test Cases/test,,,,2019-05-29 19:10:32,2019-05-29 19:10:42,10.031s,FAILED
+"if (glngtingiaiparameters != """")",,,,2019-05-29 19:10:32,2019-05-29 19:10:42,9.984s,PASSED
+"if (statuscode == ""200"" && glngtingiaiparameters != """")",,,,2019-05-29 19:10:42,2019-05-29 19:10:42,0.014s,FAILED

@@ -1,0 +1,10 @@
+Suite/Test/Step Name,Browser,Description,Tag,Start time,End time,Duration,Status
+FIt-test suite,,,,2019-05-28 17:35:30,2019-05-28 17:35:50,19.808s,ERROR
+,,,,,,,
+Test Cases/test,,,,2019-05-28 17:35:30,2019-05-28 17:35:50,19.514s,PASSED
+"if (methodforcall == ""PUT"")",,,,2019-05-28 17:35:31,2019-05-28 17:35:31,0.002s,PASSED
+else,,,,2019-05-28 17:35:31,2019-05-28 17:35:50,18.977s,PASSED
+,,,,,,,
+Test Cases/test,,,,2019-05-28 17:35:50,2019-05-28 17:35:50,0.075s,ERROR
+"if (methodforcall == ""PUT"")",,,,2019-05-28 17:35:50,2019-05-28 17:35:50,0.000s,PASSED
+else,,,,2019-05-28 17:35:50,2019-05-28 17:35:50,0.004s,PASSED

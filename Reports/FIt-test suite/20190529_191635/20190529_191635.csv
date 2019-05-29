@@ -1,0 +1,32 @@
+Suite/Test/Step Name,Browser,Description,Tag,Start time,End time,Duration,Status
+FIt-test suite,,,,2019-05-29 19:16:47,2019-05-29 19:17:32,45.158s,FAILED
+,,,,,,,
+Test Cases/test,,,,2019-05-29 19:16:47,2019-05-29 19:17:02,15.008s,PASSED
+"if (glngtingiaiparameters != """")",,,,2019-05-29 19:16:47,2019-05-29 19:17:01,13.904s,PASSED
+"if (statuscode == ""200"" && glngtingiaiparameters != """")",,,,2019-05-29 19:17:01,2019-05-29 19:17:01,0.000s,PASSED
+else,,,,2019-05-29 19:17:01,2019-05-29 19:17:01,0.000s,PASSED
+"if (glngtingiaiparameters == """" && url = ""approve"")",,,,2019-05-29 19:17:01,2019-05-29 19:17:01,0.001s,PASSED
+else,,,,2019-05-29 19:17:01,2019-05-29 19:17:01,0.001s,PASSED
+"sendRequestAndVerify(findTestObject(""GLN Approve - EOID"", [""url"":url, ""methodforcall"":methodforcall, ""body"":body, ""status"":status, ""statuscode"":statuscode, ""message"":message]))",,,,2019-05-29 19:17:01,2019-05-29 19:17:02,0.823s,PASSED
+,,,,,,,
+Test Cases/test,,,,2019-05-29 19:17:02,2019-05-29 19:17:12,10.047s,FAILED
+"if (glngtingiaiparameters != """")",,,,2019-05-29 19:17:02,2019-05-29 19:17:12,9.965s,PASSED
+"if (statuscode == ""200"" && glngtingiaiparameters != """")",,,,2019-05-29 19:17:12,2019-05-29 19:17:12,0.042s,FAILED
+,,,,,,,
+Test Cases/test,,,,2019-05-29 19:17:12,2019-05-29 19:17:17,5.054s,FAILED
+"if (glngtingiaiparameters != """")",,,,2019-05-29 19:17:12,2019-05-29 19:17:12,0.000s,PASSED
+else,,,,2019-05-29 19:17:12,2019-05-29 19:17:12,0.001s,PASSED
+"if (statuscode == ""200"" && glngtingiaiparameters != """")",,,,2019-05-29 19:17:12,2019-05-29 19:17:12,0.000s,PASSED
+else,,,,2019-05-29 19:17:12,2019-05-29 19:17:12,0.000s,PASSED
+"if (glngtingiaiparameters == """" && url = ""approve"")",,,,2019-05-29 19:17:12,2019-05-29 19:17:17,5.018s,FAILED
+,,,,,,,
+Test Cases/test,,,,2019-05-29 19:17:17,2019-05-29 19:17:22,5.047s,FAILED
+"if (glngtingiaiparameters != """")",,,,2019-05-29 19:17:17,2019-05-29 19:17:17,0.001s,PASSED
+else,,,,2019-05-29 19:17:17,2019-05-29 19:17:17,0.000s,PASSED
+"if (statuscode == ""200"" && glngtingiaiparameters != """")",,,,2019-05-29 19:17:17,2019-05-29 19:17:17,0.001s,PASSED
+else,,,,2019-05-29 19:17:17,2019-05-29 19:17:17,0.000s,PASSED
+"if (glngtingiaiparameters == """" && url = ""approve"")",,,,2019-05-29 19:17:17,2019-05-29 19:17:22,5.013s,FAILED
+,,,,,,,
+Test Cases/test,,,,2019-05-29 19:17:22,2019-05-29 19:17:32,9.808s,FAILED
+"if (glngtingiaiparameters != """")",,,,2019-05-29 19:17:22,2019-05-29 19:17:32,9.768s,PASSED
+"if (statuscode == ""200"" && glngtingiaiparameters != """")",,,,2019-05-29 19:17:32,2019-05-29 19:17:32,0.011s,FAILED

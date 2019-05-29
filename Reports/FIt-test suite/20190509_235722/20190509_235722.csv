@@ -1,0 +1,5 @@
+Suite/Test/Step Name,Browser,Description,Tag,Start time,End time,Duration,Status
+FIt-test suite,,,,2019-05-09 23:57:24,2019-05-09 23:57:30,6.749s,PASSED
+,,,,,,,
+Test Cases/test,,,,2019-05-09 23:57:24,2019-05-09 23:57:30,6.484s,PASSED
+"if (glnparameter == """")",,,,2019-05-09 23:57:24,2019-05-09 23:57:30,6.021s,PASSED

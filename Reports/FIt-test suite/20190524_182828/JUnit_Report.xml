@@ -1,0 +1,737 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuites name="FIt-test suite" time="56" tests="20" failures="1" errors="0">
+   <testsuite name="FIt-test suite" tests="20" failures="1" errors="0" time="56" timestamp="2019-05-24 18:28:32" hostname="Lavanya_DF - DESKTOP-T5KOPIL" id="Test Suites/FIt-test suite">
+      <properties>
+         <property name="deviceName" value=""/>
+         <property name="devicePlatform" value=""/>
+         <property name="logFolder" value="C:\\Users\\Lavanya_DF\\Downloads\\GS1 FIT\\GS1 FIT\\Reports\\FIt-test suite\\20190524_182828"/>
+         <property name="logFiles" value="C:\\Users\\Lavanya_DF\\Downloads\\GS1 FIT\\GS1 FIT\\Reports\\FIt-test suite\\20190524_182828\\execution0.log"/>
+         <property name="attachments" value=""/>
+         <property name="hostName" value="Lavanya_DF - DESKTOP-T5KOPIL"/>
+         <property name="hostAddress" value="192.168.0.153"/>
+         <property name="os" value="Windows 10 64bit"/>
+         <property name="katalonVersion" value="6.1.2.2"/>
+      </properties>
+      <testcase name="Test Cases/test" classname="Test Cases/test" status="PASSED">
+         <system-out><![CDATA[2019-05-24 18:28:32 - [TEST_CASE][PASSED] - Test Cases/test: Test Cases/test
+
+2019-05-24 18:28:32 - [TEST_STEP][PASSED] - if (methodforcall == "PUT"): Send request and verify the response successfully
+
+2019-05-24 18:28:32 - [TEST_STEP][PASSED] - Storeresponse2 = sendRequestAndVerify(findTestObject("GLN deregister - EOID", ["url":url, "methodforcall":methodforcall, "status":status, "statuscode":statuscode, "message":message, "messagevalue":messagevalue])): Send request and verify the response successfully
+
+2019-05-24 18:28:37 - [TEST_CASE][PASSED] - Start Test Case : Verification: Verification accomplished successfully
+
+2019-05-24 18:28:37 - [TEST_STEP][PASSED] - return null: null
+
+2019-05-24 18:28:37 - [MESSAGE][PASSED] - Verify response successfully
+
+2019-05-24 18:28:37 - [MESSAGE][PASSED] - Send request and verify the response successfully]]></system-out>
+         <system-err><![CDATA[]]></system-err>
+      </testcase>
+      <testcase name="Test Cases/test" classname="Test Cases/test" status="PASSED">
+         <system-out><![CDATA[2019-05-24 18:28:37 - [TEST_CASE][PASSED] - Test Cases/test: Test Cases/test
+
+2019-05-24 18:28:37 - [TEST_STEP][PASSED] - if (methodforcall == "PUT"): Send request and verify the response successfully
+
+2019-05-24 18:28:37 - [TEST_STEP][PASSED] - Storeresponse2 = sendRequestAndVerify(findTestObject("GLN deregister - EOID", ["url":url, "methodforcall":methodforcall, "status":status, "statuscode":statuscode, "message":message, "messagevalue":messagevalue])): Send request and verify the response successfully
+
+2019-05-24 18:28:40 - [TEST_CASE][PASSED] - Start Test Case : Verification: Verification accomplished successfully
+
+2019-05-24 18:28:40 - [TEST_STEP][PASSED] - return null: null
+
+2019-05-24 18:28:40 - [MESSAGE][PASSED] - Verify response successfully
+
+2019-05-24 18:28:40 - [MESSAGE][PASSED] - Send request and verify the response successfully]]></system-out>
+         <system-err><![CDATA[]]></system-err>
+      </testcase>
+      <testcase name="Test Cases/test" classname="Test Cases/test" status="PASSED">
+         <system-out><![CDATA[2019-05-24 18:28:40 - [TEST_CASE][PASSED] - Test Cases/test: Test Cases/test
+
+2019-05-24 18:28:40 - [TEST_STEP][PASSED] - if (methodforcall == "PUT"): Send request and verify the response successfully
+
+2019-05-24 18:28:40 - [TEST_STEP][PASSED] - Storeresponse2 = sendRequestAndVerify(findTestObject("GLN deregister - EOID", ["url":url, "methodforcall":methodforcall, "status":status, "statuscode":statuscode, "message":message, "messagevalue":messagevalue])): Send request and verify the response successfully
+
+2019-05-24 18:28:44 - [TEST_CASE][PASSED] - Start Test Case : Verification: Verification accomplished successfully
+
+2019-05-24 18:28:44 - [TEST_STEP][PASSED] - return null: null
+
+2019-05-24 18:28:44 - [MESSAGE][PASSED] - Verify response successfully
+
+2019-05-24 18:28:44 - [MESSAGE][PASSED] - Send request and verify the response successfully]]></system-out>
+         <system-err><![CDATA[]]></system-err>
+      </testcase>
+      <testcase name="Test Cases/test" classname="Test Cases/test" status="PASSED">
+         <system-out><![CDATA[2019-05-24 18:28:44 - [TEST_CASE][PASSED] - Test Cases/test: Test Cases/test
+
+2019-05-24 18:28:44 - [TEST_STEP][PASSED] - if (methodforcall == "PUT"): Send request and verify the response successfully
+
+2019-05-24 18:28:44 - [TEST_STEP][PASSED] - Storeresponse2 = sendRequestAndVerify(findTestObject("GLN deregister - EOID", ["url":url, "methodforcall":methodforcall, "status":status, "statuscode":statuscode, "message":message, "messagevalue":messagevalue])): Send request and verify the response successfully
+
+2019-05-24 18:28:47 - [TEST_CASE][PASSED] - Start Test Case : Verification: Verification accomplished successfully
+
+2019-05-24 18:28:47 - [TEST_STEP][PASSED] - return null: null
+
+2019-05-24 18:28:47 - [MESSAGE][PASSED] - Verify response successfully
+
+2019-05-24 18:28:47 - [MESSAGE][PASSED] - Send request and verify the response successfully]]></system-out>
+         <system-err><![CDATA[]]></system-err>
+      </testcase>
+      <testcase name="Test Cases/test" classname="Test Cases/test" status="PASSED">
+         <system-out><![CDATA[2019-05-24 18:28:47 - [TEST_CASE][PASSED] - Test Cases/test: Test Cases/test
+
+2019-05-24 18:28:47 - [TEST_STEP][PASSED] - if (methodforcall == "PUT"): Send request and verify the response successfully
+
+2019-05-24 18:28:47 - [TEST_STEP][PASSED] - Storeresponse2 = sendRequestAndVerify(findTestObject("GLN deregister - EOID", ["url":url, "methodforcall":methodforcall, "status":status, "statuscode":statuscode, "message":message, "messagevalue":messagevalue])): Send request and verify the response successfully
+
+2019-05-24 18:28:50 - [TEST_CASE][PASSED] - Start Test Case : Verification: Verification accomplished successfully
+
+2019-05-24 18:28:50 - [TEST_STEP][PASSED] - return null: null
+
+2019-05-24 18:28:50 - [MESSAGE][PASSED] - Verify response successfully
+
+2019-05-24 18:28:50 - [MESSAGE][PASSED] - Send request and verify the response successfully]]></system-out>
+         <system-err><![CDATA[]]></system-err>
+      </testcase>
+      <testcase name="Test Cases/test" classname="Test Cases/test" status="PASSED">
+         <system-out><![CDATA[2019-05-24 18:28:50 - [TEST_CASE][PASSED] - Test Cases/test: Test Cases/test
+
+2019-05-24 18:28:50 - [TEST_STEP][PASSED] - if (methodforcall == "PUT"): Send request and verify the response successfully
+
+2019-05-24 18:28:50 - [TEST_STEP][PASSED] - Storeresponse2 = sendRequestAndVerify(findTestObject("GLN deregister - EOID", ["url":url, "methodforcall":methodforcall, "status":status, "statuscode":statuscode, "message":message, "messagevalue":messagevalue])): Send request and verify the response successfully
+
+2019-05-24 18:28:54 - [TEST_CASE][PASSED] - Start Test Case : Verification: Verification accomplished successfully
+
+2019-05-24 18:28:54 - [TEST_STEP][PASSED] - return null: null
+
+2019-05-24 18:28:54 - [MESSAGE][PASSED] - Verify response successfully
+
+2019-05-24 18:28:54 - [MESSAGE][PASSED] - Send request and verify the response successfully]]></system-out>
+         <system-err><![CDATA[]]></system-err>
+      </testcase>
+      <testcase name="Test Cases/test" classname="Test Cases/test" status="PASSED">
+         <system-out><![CDATA[2019-05-24 18:28:54 - [TEST_CASE][PASSED] - Test Cases/test: Test Cases/test
+
+2019-05-24 18:28:54 - [TEST_STEP][PASSED] - if (methodforcall == "PUT"): Send request and verify the response successfully
+
+2019-05-24 18:28:54 - [TEST_STEP][PASSED] - Storeresponse2 = sendRequestAndVerify(findTestObject("GLN deregister - EOID", ["url":url, "methodforcall":methodforcall, "status":status, "statuscode":statuscode, "message":message, "messagevalue":messagevalue])): Send request and verify the response successfully
+
+2019-05-24 18:28:57 - [TEST_CASE][PASSED] - Start Test Case : Verification: Verification accomplished successfully
+
+2019-05-24 18:28:57 - [TEST_STEP][PASSED] - return null: null
+
+2019-05-24 18:28:57 - [MESSAGE][PASSED] - Verify response successfully
+
+2019-05-24 18:28:57 - [MESSAGE][PASSED] - Send request and verify the response successfully]]></system-out>
+         <system-err><![CDATA[]]></system-err>
+      </testcase>
+      <testcase name="Test Cases/test" classname="Test Cases/test" status="PASSED">
+         <system-out><![CDATA[2019-05-24 18:28:57 - [TEST_CASE][PASSED] - Test Cases/test: Test Cases/test
+
+2019-05-24 18:28:57 - [TEST_STEP][PASSED] - if (methodforcall == "PUT"): Send request and verify the response successfully
+
+2019-05-24 18:28:57 - [TEST_STEP][PASSED] - Storeresponse2 = sendRequestAndVerify(findTestObject("GLN deregister - EOID", ["url":url, "methodforcall":methodforcall, "status":status, "statuscode":statuscode, "message":message, "messagevalue":messagevalue])): Send request and verify the response successfully
+
+2019-05-24 18:29:00 - [TEST_CASE][PASSED] - Start Test Case : Verification: Verification accomplished successfully
+
+2019-05-24 18:29:00 - [TEST_STEP][PASSED] - return null: null
+
+2019-05-24 18:29:00 - [MESSAGE][PASSED] - Verify response successfully
+
+2019-05-24 18:29:00 - [MESSAGE][PASSED] - Send request and verify the response successfully]]></system-out>
+         <system-err><![CDATA[]]></system-err>
+      </testcase>
+      <testcase name="Test Cases/test" classname="Test Cases/test" status="PASSED">
+         <system-out><![CDATA[2019-05-24 18:29:00 - [TEST_CASE][PASSED] - Test Cases/test: Test Cases/test
+
+2019-05-24 18:29:00 - [TEST_STEP][PASSED] - if (methodforcall == "PUT"): Send request and verify the response successfully
+
+2019-05-24 18:29:00 - [TEST_STEP][PASSED] - Storeresponse2 = sendRequestAndVerify(findTestObject("GLN deregister - EOID", ["url":url, "methodforcall":methodforcall, "status":status, "statuscode":statuscode, "message":message, "messagevalue":messagevalue])): Send request and verify the response successfully
+
+2019-05-24 18:29:03 - [TEST_CASE][PASSED] - Start Test Case : Verification: Verification accomplished successfully
+
+2019-05-24 18:29:03 - [TEST_STEP][PASSED] - return null: null
+
+2019-05-24 18:29:03 - [MESSAGE][PASSED] - Verify response successfully
+
+2019-05-24 18:29:03 - [MESSAGE][PASSED] - Send request and verify the response successfully]]></system-out>
+         <system-err><![CDATA[]]></system-err>
+      </testcase>
+      <testcase name="Test Cases/test" classname="Test Cases/test" status="PASSED">
+         <system-out><![CDATA[2019-05-24 18:29:03 - [TEST_CASE][PASSED] - Test Cases/test: Test Cases/test
+
+2019-05-24 18:29:03 - [TEST_STEP][PASSED] - if (methodforcall == "PUT"): Send request and verify the response successfully
+
+2019-05-24 18:29:03 - [TEST_STEP][PASSED] - Storeresponse2 = sendRequestAndVerify(findTestObject("GLN deregister - EOID", ["url":url, "methodforcall":methodforcall, "status":status, "statuscode":statuscode, "message":message, "messagevalue":messagevalue])): Send request and verify the response successfully
+
+2019-05-24 18:29:05 - [TEST_CASE][PASSED] - Start Test Case : Verification: Verification accomplished successfully
+
+2019-05-24 18:29:05 - [TEST_STEP][PASSED] - return null: null
+
+2019-05-24 18:29:05 - [MESSAGE][PASSED] - Verify response successfully
+
+2019-05-24 18:29:05 - [MESSAGE][PASSED] - Send request and verify the response successfully]]></system-out>
+         <system-err><![CDATA[]]></system-err>
+      </testcase>
+      <testcase name="Test Cases/test" classname="Test Cases/test" status="PASSED">
+         <system-out><![CDATA[2019-05-24 18:29:05 - [TEST_CASE][PASSED] - Test Cases/test: Test Cases/test
+
+2019-05-24 18:29:05 - [TEST_STEP][PASSED] - if (methodforcall == "PUT"): Send request and verify the response successfully
+
+2019-05-24 18:29:05 - [TEST_STEP][PASSED] - Storeresponse2 = sendRequestAndVerify(findTestObject("GLN deregister - EOID", ["url":url, "methodforcall":methodforcall, "status":status, "statuscode":statuscode, "message":message, "messagevalue":messagevalue])): Send request and verify the response successfully
+
+2019-05-24 18:29:07 - [TEST_CASE][PASSED] - Start Test Case : Verification: Verification accomplished successfully
+
+2019-05-24 18:29:07 - [TEST_STEP][PASSED] - return null: null
+
+2019-05-24 18:29:07 - [MESSAGE][PASSED] - Verify response successfully
+
+2019-05-24 18:29:07 - [MESSAGE][PASSED] - Send request and verify the response successfully]]></system-out>
+         <system-err><![CDATA[]]></system-err>
+      </testcase>
+      <testcase name="Test Cases/test" classname="Test Cases/test" status="PASSED">
+         <system-out><![CDATA[2019-05-24 18:29:07 - [TEST_CASE][PASSED] - Test Cases/test: Test Cases/test
+
+2019-05-24 18:29:07 - [TEST_STEP][PASSED] - if (methodforcall == "PUT"): Send request and verify the response successfully
+
+2019-05-24 18:29:07 - [TEST_STEP][PASSED] - Storeresponse2 = sendRequestAndVerify(findTestObject("GLN deregister - EOID", ["url":url, "methodforcall":methodforcall, "status":status, "statuscode":statuscode, "message":message, "messagevalue":messagevalue])): Send request and verify the response successfully
+
+2019-05-24 18:29:09 - [TEST_CASE][PASSED] - Start Test Case : Verification: Verification accomplished successfully
+
+2019-05-24 18:29:10 - [TEST_STEP][PASSED] - return null: null
+
+2019-05-24 18:29:10 - [MESSAGE][PASSED] - Verify response successfully
+
+2019-05-24 18:29:10 - [MESSAGE][PASSED] - Send request and verify the response successfully]]></system-out>
+         <system-err><![CDATA[]]></system-err>
+      </testcase>
+      <testcase name="Test Cases/test" classname="Test Cases/test" status="PASSED">
+         <system-out><![CDATA[2019-05-24 18:29:10 - [TEST_CASE][PASSED] - Test Cases/test: Test Cases/test
+
+2019-05-24 18:29:10 - [TEST_STEP][PASSED] - if (methodforcall == "PUT"): Send request and verify the response successfully
+
+2019-05-24 18:29:10 - [TEST_STEP][PASSED] - Storeresponse2 = sendRequestAndVerify(findTestObject("GLN deregister - EOID", ["url":url, "methodforcall":methodforcall, "status":status, "statuscode":statuscode, "message":message, "messagevalue":messagevalue])): Send request and verify the response successfully
+
+2019-05-24 18:29:12 - [TEST_CASE][PASSED] - Start Test Case : Verification: Verification accomplished successfully
+
+2019-05-24 18:29:12 - [TEST_STEP][PASSED] - return null: null
+
+2019-05-24 18:29:12 - [MESSAGE][PASSED] - Verify response successfully
+
+2019-05-24 18:29:12 - [MESSAGE][PASSED] - Send request and verify the response successfully]]></system-out>
+         <system-err><![CDATA[]]></system-err>
+      </testcase>
+      <testcase name="Test Cases/test" classname="Test Cases/test" status="PASSED">
+         <system-out><![CDATA[2019-05-24 18:29:12 - [TEST_CASE][PASSED] - Test Cases/test: Test Cases/test
+
+2019-05-24 18:29:12 - [TEST_STEP][PASSED] - if (methodforcall == "PUT"): Send request and verify the response successfully
+
+2019-05-24 18:29:12 - [TEST_STEP][PASSED] - Storeresponse2 = sendRequestAndVerify(findTestObject("GLN deregister - EOID", ["url":url, "methodforcall":methodforcall, "status":status, "statuscode":statuscode, "message":message, "messagevalue":messagevalue])): Send request and verify the response successfully
+
+2019-05-24 18:29:14 - [TEST_CASE][PASSED] - Start Test Case : Verification: Verification accomplished successfully
+
+2019-05-24 18:29:14 - [TEST_STEP][PASSED] - return null: null
+
+2019-05-24 18:29:14 - [MESSAGE][PASSED] - Verify response successfully
+
+2019-05-24 18:29:14 - [MESSAGE][PASSED] - Send request and verify the response successfully]]></system-out>
+         <system-err><![CDATA[]]></system-err>
+      </testcase>
+      <testcase name="Test Cases/test" classname="Test Cases/test" status="PASSED">
+         <system-out><![CDATA[2019-05-24 18:29:14 - [TEST_CASE][PASSED] - Test Cases/test: Test Cases/test
+
+2019-05-24 18:29:14 - [TEST_STEP][PASSED] - if (methodforcall == "PUT"): Send request and verify the response successfully
+
+2019-05-24 18:29:14 - [TEST_STEP][PASSED] - Storeresponse2 = sendRequestAndVerify(findTestObject("GLN deregister - EOID", ["url":url, "methodforcall":methodforcall, "status":status, "statuscode":statuscode, "message":message, "messagevalue":messagevalue])): Send request and verify the response successfully
+
+2019-05-24 18:29:16 - [TEST_CASE][PASSED] - Start Test Case : Verification: Verification accomplished successfully
+
+2019-05-24 18:29:16 - [TEST_STEP][PASSED] - return null: null
+
+2019-05-24 18:29:16 - [MESSAGE][PASSED] - Verify response successfully
+
+2019-05-24 18:29:16 - [MESSAGE][PASSED] - Send request and verify the response successfully]]></system-out>
+         <system-err><![CDATA[]]></system-err>
+      </testcase>
+      <testcase name="Test Cases/test" classname="Test Cases/test" status="PASSED">
+         <system-out><![CDATA[2019-05-24 18:29:16 - [TEST_CASE][PASSED] - Test Cases/test: Test Cases/test
+
+2019-05-24 18:29:16 - [TEST_STEP][PASSED] - if (methodforcall == "PUT"): Send request and verify the response successfully
+
+2019-05-24 18:29:16 - [TEST_STEP][PASSED] - Storeresponse2 = sendRequestAndVerify(findTestObject("GLN deregister - EOID", ["url":url, "methodforcall":methodforcall, "status":status, "statuscode":statuscode, "message":message, "messagevalue":messagevalue])): Send request and verify the response successfully
+
+2019-05-24 18:29:19 - [TEST_CASE][PASSED] - Start Test Case : Verification: Verification accomplished successfully
+
+2019-05-24 18:29:19 - [TEST_STEP][PASSED] - return null: null
+
+2019-05-24 18:29:19 - [MESSAGE][PASSED] - Verify response successfully
+
+2019-05-24 18:29:19 - [MESSAGE][PASSED] - Send request and verify the response successfully]]></system-out>
+         <system-err><![CDATA[]]></system-err>
+      </testcase>
+      <testcase name="Test Cases/test" classname="Test Cases/test" status="PASSED">
+         <system-out><![CDATA[2019-05-24 18:29:19 - [TEST_CASE][PASSED] - Test Cases/test: Test Cases/test
+
+2019-05-24 18:29:19 - [TEST_STEP][PASSED] - if (methodforcall == "PUT"): Send request and verify the response successfully
+
+2019-05-24 18:29:19 - [TEST_STEP][PASSED] - Storeresponse2 = sendRequestAndVerify(findTestObject("GLN deregister - EOID", ["url":url, "methodforcall":methodforcall, "status":status, "statuscode":statuscode, "message":message, "messagevalue":messagevalue])): Send request and verify the response successfully
+
+2019-05-24 18:29:21 - [TEST_CASE][PASSED] - Start Test Case : Verification: Verification accomplished successfully
+
+2019-05-24 18:29:21 - [TEST_STEP][PASSED] - return null: null
+
+2019-05-24 18:29:21 - [MESSAGE][PASSED] - Verify response successfully
+
+2019-05-24 18:29:21 - [MESSAGE][PASSED] - Send request and verify the response successfully]]></system-out>
+         <system-err><![CDATA[]]></system-err>
+      </testcase>
+      <testcase name="Test Cases/test" classname="Test Cases/test" status="PASSED">
+         <system-out><![CDATA[2019-05-24 18:29:21 - [TEST_CASE][PASSED] - Test Cases/test: Test Cases/test
+
+2019-05-24 18:29:21 - [TEST_STEP][PASSED] - if (methodforcall == "PUT"): Send request and verify the response successfully
+
+2019-05-24 18:29:21 - [TEST_STEP][PASSED] - Storeresponse2 = sendRequestAndVerify(findTestObject("GLN deregister - EOID", ["url":url, "methodforcall":methodforcall, "status":status, "statuscode":statuscode, "message":message, "messagevalue":messagevalue])): Send request and verify the response successfully
+
+2019-05-24 18:29:23 - [TEST_CASE][PASSED] - Start Test Case : Verification: Verification accomplished successfully
+
+2019-05-24 18:29:23 - [TEST_STEP][PASSED] - return null: null
+
+2019-05-24 18:29:23 - [MESSAGE][PASSED] - Verify response successfully
+
+2019-05-24 18:29:23 - [MESSAGE][PASSED] - Send request and verify the response successfully]]></system-out>
+         <system-err><![CDATA[]]></system-err>
+      </testcase>
+      <testcase name="Test Cases/test" classname="Test Cases/test" status="PASSED">
+         <system-out><![CDATA[2019-05-24 18:29:23 - [TEST_CASE][PASSED] - Test Cases/test: Test Cases/test
+
+2019-05-24 18:29:23 - [TEST_STEP][PASSED] - if (methodforcall == "PUT"): Send request and verify the response successfully
+
+2019-05-24 18:29:23 - [TEST_STEP][PASSED] - Storeresponse2 = sendRequestAndVerify(findTestObject("GLN deregister - EOID", ["url":url, "methodforcall":methodforcall, "status":status, "statuscode":statuscode, "message":message, "messagevalue":messagevalue])): Send request and verify the response successfully
+
+2019-05-24 18:29:25 - [TEST_CASE][PASSED] - Start Test Case : Verification: Verification accomplished successfully
+
+2019-05-24 18:29:25 - [TEST_STEP][PASSED] - return null: null
+
+2019-05-24 18:29:25 - [MESSAGE][PASSED] - Verify response successfully
+
+2019-05-24 18:29:25 - [MESSAGE][PASSED] - Send request and verify the response successfully]]></system-out>
+         <system-err><![CDATA[]]></system-err>
+      </testcase>
+      <testcase name="Test Cases/test" classname="Test Cases/test" status="PASSED">
+         <system-out><![CDATA[2019-05-24 18:29:25 - [TEST_CASE][PASSED] - Test Cases/test: Test Cases/test
+
+2019-05-24 18:29:25 - [TEST_STEP][PASSED] - if (methodforcall == "PUT"): Send request and verify the response successfully
+
+2019-05-24 18:29:25 - [TEST_STEP][PASSED] - Storeresponse2 = sendRequestAndVerify(findTestObject("GLN deregister - EOID", ["url":url, "methodforcall":methodforcall, "status":status, "statuscode":statuscode, "message":message, "messagevalue":messagevalue])): Send request and verify the response successfully
+
+2019-05-24 18:29:27 - [TEST_CASE][PASSED] - Start Test Case : Verification: Verification accomplished successfully
+
+2019-05-24 18:29:27 - [TEST_STEP][PASSED] - return null: null
+
+2019-05-24 18:29:27 - [MESSAGE][PASSED] - Verify response successfully
+
+2019-05-24 18:29:27 - [MESSAGE][PASSED] - Send request and verify the response successfully]]></system-out>
+         <system-err><![CDATA[]]></system-err>
+      </testcase>
+      <testcase name="Test Cases/test" classname="Test Cases/test" status="FAILED">
+         <failure type="FAILED" message="Test Cases/test FAILED.
+Reason:
+com.kms.katalon.core.exception.StepFailedException: Unable to send request and verify the response (Root cause: java.io.IOException: Unable to tunnel through proxy. Proxy returns &quot;HTTP/1.1 502 Bad Gateway&quot;
+	at com.kms.katalon.core.webservice.common.RestfulClient.sendRequest(RestfulClient.java:82)
+	at com.kms.katalon.core.webservice.common.RestfulClient.send(RestfulClient.java:51)
+	at com.kms.katalon.core.webservice.keyword.builtin.SendRequestAndVerifyKeyword$_sendRequestAndVerify_closure1.doCall(SendRequestAndVerifyKeyword.groovy:44)
+	at com.kms.katalon.core.webservice.keyword.builtin.SendRequestAndVerifyKeyword$_sendRequestAndVerify_closure1.call(SendRequestAndVerifyKeyword.groovy)
+	at com.kms.katalon.core.keyword.internal.KeywordMain.runKeyword(KeywordMain.groovy:66)
+	at com.kms.katalon.core.webservice.keyword.builtin.SendRequestAndVerifyKeyword.sendRequestAndVerify(SendRequestAndVerifyKeyword.groovy:42)
+	at com.kms.katalon.core.webservice.keyword.builtin.SendRequestAndVerifyKeyword.execute(SendRequestAndVerifyKeyword.groovy:37)
+	at com.kms.katalon.core.keyword.internal.KeywordExecutor.executeKeywordForPlatform(KeywordExecutor.groovy:56)
+	at com.kms.katalon.core.webservice.keyword.WSBuiltInKeywords.sendRequestAndVerify(WSBuiltInKeywords.groovy:65)
+	at com.kms.katalon.core.webservice.keyword.WSBuiltInKeywords$sendRequestAndVerify.call(Unknown Source)
+	at test.run(test:33)
+	at com.kms.katalon.core.main.ScriptEngine.run(ScriptEngine.java:194)
+	at com.kms.katalon.core.main.ScriptEngine.runScriptAsRawText(ScriptEngine.java:119)
+	at com.kms.katalon.core.main.TestCaseExecutor.runScript(TestCaseExecutor.java:336)
+	at com.kms.katalon.core.main.TestCaseExecutor.doExecute(TestCaseExecutor.java:327)
+	at com.kms.katalon.core.main.TestCaseExecutor.processExecutionPhase(TestCaseExecutor.java:306)
+	at com.kms.katalon.core.main.TestCaseExecutor.accessMainPhase(TestCaseExecutor.java:298)
+	at com.kms.katalon.core.main.TestCaseExecutor.execute(TestCaseExecutor.java:232)
+	at com.kms.katalon.core.main.TestSuiteExecutor.accessTestCaseMainPhase(TestSuiteExecutor.java:129)
+	at com.kms.katalon.core.main.TestSuiteExecutor.accessTestSuiteMainPhase(TestSuiteExecutor.java:112)
+	at com.kms.katalon.core.main.TestSuiteExecutor.execute(TestSuiteExecutor.java:81)
+	at com.kms.katalon.core.main.TestCaseMain.startTestSuite(TestCaseMain.java:157)
+	at com.kms.katalon.core.main.TestCaseMain$startTestSuite$0.call(Unknown Source)
+	at TempTestSuite1558702708357.run(TempTestSuite1558702708357.groovy:35)
+)
+	at com.kms.katalon.core.keyword.internal.KeywordMain.stepFailed(KeywordMain.groovy:48)
+	at com.kms.katalon.core.keyword.internal.KeywordMain.stepFailed(KeywordMain.groovy)
+	at com.kms.katalon.core.keyword.internal.KeywordMain.runKeyword(KeywordMain.groovy:68)
+	at com.kms.katalon.core.webservice.keyword.builtin.SendRequestAndVerifyKeyword.sendRequestAndVerify(SendRequestAndVerifyKeyword.groovy:42)
+	at com.kms.katalon.core.webservice.keyword.builtin.SendRequestAndVerifyKeyword.execute(SendRequestAndVerifyKeyword.groovy:37)
+	at com.kms.katalon.core.keyword.internal.KeywordExecutor.executeKeywordForPlatform(KeywordExecutor.groovy:56)
+	at com.kms.katalon.core.webservice.keyword.WSBuiltInKeywords.sendRequestAndVerify(WSBuiltInKeywords.groovy:65)
+	at com.kms.katalon.core.webservice.keyword.WSBuiltInKeywords$sendRequestAndVerify.call(Unknown Source)
+	at test.run(test:33)
+	at com.kms.katalon.core.main.ScriptEngine.run(ScriptEngine.java:194)
+	at com.kms.katalon.core.main.ScriptEngine.runScriptAsRawText(ScriptEngine.java:119)
+	at com.kms.katalon.core.main.TestCaseExecutor.runScript(TestCaseExecutor.java:336)
+	at com.kms.katalon.core.main.TestCaseExecutor.doExecute(TestCaseExecutor.java:327)
+	at com.kms.katalon.core.main.TestCaseExecutor.processExecutionPhase(TestCaseExecutor.java:306)
+	at com.kms.katalon.core.main.TestCaseExecutor.accessMainPhase(TestCaseExecutor.java:298)
+	at com.kms.katalon.core.main.TestCaseExecutor.execute(TestCaseExecutor.java:232)
+	at com.kms.katalon.core.main.TestSuiteExecutor.accessTestCaseMainPhase(TestSuiteExecutor.java:129)
+	at com.kms.katalon.core.main.TestSuiteExecutor.accessTestSuiteMainPhase(TestSuiteExecutor.java:112)
+	at com.kms.katalon.core.main.TestSuiteExecutor.execute(TestSuiteExecutor.java:81)
+	at com.kms.katalon.core.main.TestCaseMain.startTestSuite(TestCaseMain.java:157)
+	at com.kms.katalon.core.main.TestCaseMain$startTestSuite$0.call(Unknown Source)
+	at TempTestSuite1558702708357.run(TempTestSuite1558702708357.groovy:35)
+Caused by: java.io.IOException: Unable to tunnel through proxy. Proxy returns &quot;HTTP/1.1 502 Bad Gateway&quot;
+	at com.kms.katalon.core.webservice.common.RestfulClient.sendRequest(RestfulClient.java:82)
+	at com.kms.katalon.core.webservice.common.RestfulClient.send(RestfulClient.java:51)
+	at com.kms.katalon.core.webservice.keyword.builtin.SendRequestAndVerifyKeyword$_sendRequestAndVerify_closure1.doCall(SendRequestAndVerifyKeyword.groovy:44)
+	at com.kms.katalon.core.webservice.keyword.builtin.SendRequestAndVerifyKeyword$_sendRequestAndVerify_closure1.call(SendRequestAndVerifyKeyword.groovy)
+	at com.kms.katalon.core.keyword.internal.KeywordMain.runKeyword(KeywordMain.groovy:66)
+	... 19 more
+"/>
+         <system-out><![CDATA[2019-05-24 18:29:27 - [TEST_CASE][FAILED] - Test Cases/test: Test Cases/test FAILED.
+Reason:
+com.kms.katalon.core.exception.StepFailedException: Unable to send request and verify the response (Root cause: java.io.IOException: Unable to tunnel through proxy. Proxy returns "HTTP/1.1 502 Bad Gateway"
+	at com.kms.katalon.core.webservice.common.RestfulClient.sendRequest(RestfulClient.java:82)
+	at com.kms.katalon.core.webservice.common.RestfulClient.send(RestfulClient.java:51)
+	at com.kms.katalon.core.webservice.keyword.builtin.SendRequestAndVerifyKeyword$_sendRequestAndVerify_closure1.doCall(SendRequestAndVerifyKeyword.groovy:44)
+	at com.kms.katalon.core.webservice.keyword.builtin.SendRequestAndVerifyKeyword$_sendRequestAndVerify_closure1.call(SendRequestAndVerifyKeyword.groovy)
+	at com.kms.katalon.core.keyword.internal.KeywordMain.runKeyword(KeywordMain.groovy:66)
+	at com.kms.katalon.core.webservice.keyword.builtin.SendRequestAndVerifyKeyword.sendRequestAndVerify(SendRequestAndVerifyKeyword.groovy:42)
+	at com.kms.katalon.core.webservice.keyword.builtin.SendRequestAndVerifyKeyword.execute(SendRequestAndVerifyKeyword.groovy:37)
+	at com.kms.katalon.core.keyword.internal.KeywordExecutor.executeKeywordForPlatform(KeywordExecutor.groovy:56)
+	at com.kms.katalon.core.webservice.keyword.WSBuiltInKeywords.sendRequestAndVerify(WSBuiltInKeywords.groovy:65)
+	at com.kms.katalon.core.webservice.keyword.WSBuiltInKeywords$sendRequestAndVerify.call(Unknown Source)
+	at test.run(test:33)
+	at com.kms.katalon.core.main.ScriptEngine.run(ScriptEngine.java:194)
+	at com.kms.katalon.core.main.ScriptEngine.runScriptAsRawText(ScriptEngine.java:119)
+	at com.kms.katalon.core.main.TestCaseExecutor.runScript(TestCaseExecutor.java:336)
+	at com.kms.katalon.core.main.TestCaseExecutor.doExecute(TestCaseExecutor.java:327)
+	at com.kms.katalon.core.main.TestCaseExecutor.processExecutionPhase(TestCaseExecutor.java:306)
+	at com.kms.katalon.core.main.TestCaseExecutor.accessMainPhase(TestCaseExecutor.java:298)
+	at com.kms.katalon.core.main.TestCaseExecutor.execute(TestCaseExecutor.java:232)
+	at com.kms.katalon.core.main.TestSuiteExecutor.accessTestCaseMainPhase(TestSuiteExecutor.java:129)
+	at com.kms.katalon.core.main.TestSuiteExecutor.accessTestSuiteMainPhase(TestSuiteExecutor.java:112)
+	at com.kms.katalon.core.main.TestSuiteExecutor.execute(TestSuiteExecutor.java:81)
+	at com.kms.katalon.core.main.TestCaseMain.startTestSuite(TestCaseMain.java:157)
+	at com.kms.katalon.core.main.TestCaseMain$startTestSuite$0.call(Unknown Source)
+	at TempTestSuite1558702708357.run(TempTestSuite1558702708357.groovy:35)
+)
+	at com.kms.katalon.core.keyword.internal.KeywordMain.stepFailed(KeywordMain.groovy:48)
+	at com.kms.katalon.core.keyword.internal.KeywordMain.stepFailed(KeywordMain.groovy)
+	at com.kms.katalon.core.keyword.internal.KeywordMain.runKeyword(KeywordMain.groovy:68)
+	at com.kms.katalon.core.webservice.keyword.builtin.SendRequestAndVerifyKeyword.sendRequestAndVerify(SendRequestAndVerifyKeyword.groovy:42)
+	at com.kms.katalon.core.webservice.keyword.builtin.SendRequestAndVerifyKeyword.execute(SendRequestAndVerifyKeyword.groovy:37)
+	at com.kms.katalon.core.keyword.internal.KeywordExecutor.executeKeywordForPlatform(KeywordExecutor.groovy:56)
+	at com.kms.katalon.core.webservice.keyword.WSBuiltInKeywords.sendRequestAndVerify(WSBuiltInKeywords.groovy:65)
+	at com.kms.katalon.core.webservice.keyword.WSBuiltInKeywords$sendRequestAndVerify.call(Unknown Source)
+	at test.run(test:33)
+	at com.kms.katalon.core.main.ScriptEngine.run(ScriptEngine.java:194)
+	at com.kms.katalon.core.main.ScriptEngine.runScriptAsRawText(ScriptEngine.java:119)
+	at com.kms.katalon.core.main.TestCaseExecutor.runScript(TestCaseExecutor.java:336)
+	at com.kms.katalon.core.main.TestCaseExecutor.doExecute(TestCaseExecutor.java:327)
+	at com.kms.katalon.core.main.TestCaseExecutor.processExecutionPhase(TestCaseExecutor.java:306)
+	at com.kms.katalon.core.main.TestCaseExecutor.accessMainPhase(TestCaseExecutor.java:298)
+	at com.kms.katalon.core.main.TestCaseExecutor.execute(TestCaseExecutor.java:232)
+	at com.kms.katalon.core.main.TestSuiteExecutor.accessTestCaseMainPhase(TestSuiteExecutor.java:129)
+	at com.kms.katalon.core.main.TestSuiteExecutor.accessTestSuiteMainPhase(TestSuiteExecutor.java:112)
+	at com.kms.katalon.core.main.TestSuiteExecutor.execute(TestSuiteExecutor.java:81)
+	at com.kms.katalon.core.main.TestCaseMain.startTestSuite(TestCaseMain.java:157)
+	at com.kms.katalon.core.main.TestCaseMain$startTestSuite$0.call(Unknown Source)
+	at TempTestSuite1558702708357.run(TempTestSuite1558702708357.groovy:35)
+Caused by: java.io.IOException: Unable to tunnel through proxy. Proxy returns "HTTP/1.1 502 Bad Gateway"
+	at com.kms.katalon.core.webservice.common.RestfulClient.sendRequest(RestfulClient.java:82)
+	at com.kms.katalon.core.webservice.common.RestfulClient.send(RestfulClient.java:51)
+	at com.kms.katalon.core.webservice.keyword.builtin.SendRequestAndVerifyKeyword$_sendRequestAndVerify_closure1.doCall(SendRequestAndVerifyKeyword.groovy:44)
+	at com.kms.katalon.core.webservice.keyword.builtin.SendRequestAndVerifyKeyword$_sendRequestAndVerify_closure1.call(SendRequestAndVerifyKeyword.groovy)
+	at com.kms.katalon.core.keyword.internal.KeywordMain.runKeyword(KeywordMain.groovy:66)
+	... 19 more
+
+
+2019-05-24 18:29:27 - [TEST_STEP][PASSED] - if (methodforcall == "PUT"): null
+
+2019-05-24 18:29:27 - [TEST_STEP][FAILED] - else: Unable to send request and verify the response (Root cause: java.io.IOException: Unable to tunnel through proxy. Proxy returns "HTTP/1.1 502 Bad Gateway"
+	at com.kms.katalon.core.webservice.common.RestfulClient.sendRequest(RestfulClient.java:82)
+	at com.kms.katalon.core.webservice.common.RestfulClient.send(RestfulClient.java:51)
+	at com.kms.katalon.core.webservice.keyword.builtin.SendRequestAndVerifyKeyword$_sendRequestAndVerify_closure1.doCall(SendRequestAndVerifyKeyword.groovy:44)
+	at com.kms.katalon.core.webservice.keyword.builtin.SendRequestAndVerifyKeyword$_sendRequestAndVerify_closure1.call(SendRequestAndVerifyKeyword.groovy)
+	at com.kms.katalon.core.keyword.internal.KeywordMain.runKeyword(KeywordMain.groovy:66)
+	at com.kms.katalon.core.webservice.keyword.builtin.SendRequestAndVerifyKeyword.sendRequestAndVerify(SendRequestAndVerifyKeyword.groovy:42)
+	at com.kms.katalon.core.webservice.keyword.builtin.SendRequestAndVerifyKeyword.execute(SendRequestAndVerifyKeyword.groovy:37)
+	at com.kms.katalon.core.keyword.internal.KeywordExecutor.executeKeywordForPlatform(KeywordExecutor.groovy:56)
+	at com.kms.katalon.core.webservice.keyword.WSBuiltInKeywords.sendRequestAndVerify(WSBuiltInKeywords.groovy:65)
+	at com.kms.katalon.core.webservice.keyword.WSBuiltInKeywords$sendRequestAndVerify.call(Unknown Source)
+	at test.run(test:33)
+	at com.kms.katalon.core.main.ScriptEngine.run(ScriptEngine.java:194)
+	at com.kms.katalon.core.main.ScriptEngine.runScriptAsRawText(ScriptEngine.java:119)
+	at com.kms.katalon.core.main.TestCaseExecutor.runScript(TestCaseExecutor.java:336)
+	at com.kms.katalon.core.main.TestCaseExecutor.doExecute(TestCaseExecutor.java:327)
+	at com.kms.katalon.core.main.TestCaseExecutor.processExecutionPhase(TestCaseExecutor.java:306)
+	at com.kms.katalon.core.main.TestCaseExecutor.accessMainPhase(TestCaseExecutor.java:298)
+	at com.kms.katalon.core.main.TestCaseExecutor.execute(TestCaseExecutor.java:232)
+	at com.kms.katalon.core.main.TestSuiteExecutor.accessTestCaseMainPhase(TestSuiteExecutor.java:129)
+	at com.kms.katalon.core.main.TestSuiteExecutor.accessTestSuiteMainPhase(TestSuiteExecutor.java:112)
+	at com.kms.katalon.core.main.TestSuiteExecutor.execute(TestSuiteExecutor.java:81)
+	at com.kms.katalon.core.main.TestCaseMain.startTestSuite(TestCaseMain.java:157)
+	at com.kms.katalon.core.main.TestCaseMain$startTestSuite$0.call(Unknown Source)
+	at TempTestSuite1558702708357.run(TempTestSuite1558702708357.groovy:35)
+)
+
+2019-05-24 18:29:27 - [TEST_STEP][PASSED] - if (glnparameter == "" && methodforcall == "POST"): null
+
+2019-05-24 18:29:27 - [TEST_STEP][FAILED] - else: Unable to send request and verify the response (Root cause: java.io.IOException: Unable to tunnel through proxy. Proxy returns "HTTP/1.1 502 Bad Gateway"
+	at com.kms.katalon.core.webservice.common.RestfulClient.sendRequest(RestfulClient.java:82)
+	at com.kms.katalon.core.webservice.common.RestfulClient.send(RestfulClient.java:51)
+	at com.kms.katalon.core.webservice.keyword.builtin.SendRequestAndVerifyKeyword$_sendRequestAndVerify_closure1.doCall(SendRequestAndVerifyKeyword.groovy:44)
+	at com.kms.katalon.core.webservice.keyword.builtin.SendRequestAndVerifyKeyword$_sendRequestAndVerify_closure1.call(SendRequestAndVerifyKeyword.groovy)
+	at com.kms.katalon.core.keyword.internal.KeywordMain.runKeyword(KeywordMain.groovy:66)
+	at com.kms.katalon.core.webservice.keyword.builtin.SendRequestAndVerifyKeyword.sendRequestAndVerify(SendRequestAndVerifyKeyword.groovy:42)
+	at com.kms.katalon.core.webservice.keyword.builtin.SendRequestAndVerifyKeyword.execute(SendRequestAndVerifyKeyword.groovy:37)
+	at com.kms.katalon.core.keyword.internal.KeywordExecutor.executeKeywordForPlatform(KeywordExecutor.groovy:56)
+	at com.kms.katalon.core.webservice.keyword.WSBuiltInKeywords.sendRequestAndVerify(WSBuiltInKeywords.groovy:65)
+	at com.kms.katalon.core.webservice.keyword.WSBuiltInKeywords$sendRequestAndVerify.call(Unknown Source)
+	at test.run(test:33)
+	at com.kms.katalon.core.main.ScriptEngine.run(ScriptEngine.java:194)
+	at com.kms.katalon.core.main.ScriptEngine.runScriptAsRawText(ScriptEngine.java:119)
+	at com.kms.katalon.core.main.TestCaseExecutor.runScript(TestCaseExecutor.java:336)
+	at com.kms.katalon.core.main.TestCaseExecutor.doExecute(TestCaseExecutor.java:327)
+	at com.kms.katalon.core.main.TestCaseExecutor.processExecutionPhase(TestCaseExecutor.java:306)
+	at com.kms.katalon.core.main.TestCaseExecutor.accessMainPhase(TestCaseExecutor.java:298)
+	at com.kms.katalon.core.main.TestCaseExecutor.execute(TestCaseExecutor.java:232)
+	at com.kms.katalon.core.main.TestSuiteExecutor.accessTestCaseMainPhase(TestSuiteExecutor.java:129)
+	at com.kms.katalon.core.main.TestSuiteExecutor.accessTestSuiteMainPhase(TestSuiteExecutor.java:112)
+	at com.kms.katalon.core.main.TestSuiteExecutor.execute(TestSuiteExecutor.java:81)
+	at com.kms.katalon.core.main.TestCaseMain.startTestSuite(TestCaseMain.java:157)
+	at com.kms.katalon.core.main.TestCaseMain$startTestSuite$0.call(Unknown Source)
+	at TempTestSuite1558702708357.run(TempTestSuite1558702708357.groovy:35)
+)
+
+2019-05-24 18:29:27 - [TEST_STEP][FAILED] - storeresponse1 = sendRequestAndVerify(findTestObject("GLN Check - EOID", ["gln":glnparameter, "url":url, "body":body, "methodforcall":methodforcall])): Unable to send request and verify the response (Root cause: java.io.IOException: Unable to tunnel through proxy. Proxy returns "HTTP/1.1 502 Bad Gateway"
+	at com.kms.katalon.core.webservice.common.RestfulClient.sendRequest(RestfulClient.java:82)
+	at com.kms.katalon.core.webservice.common.RestfulClient.send(RestfulClient.java:51)
+	at com.kms.katalon.core.webservice.keyword.builtin.SendRequestAndVerifyKeyword$_sendRequestAndVerify_closure1.doCall(SendRequestAndVerifyKeyword.groovy:44)
+	at com.kms.katalon.core.webservice.keyword.builtin.SendRequestAndVerifyKeyword$_sendRequestAndVerify_closure1.call(SendRequestAndVerifyKeyword.groovy)
+	at com.kms.katalon.core.keyword.internal.KeywordMain.runKeyword(KeywordMain.groovy:66)
+	at com.kms.katalon.core.webservice.keyword.builtin.SendRequestAndVerifyKeyword.sendRequestAndVerify(SendRequestAndVerifyKeyword.groovy:42)
+	at com.kms.katalon.core.webservice.keyword.builtin.SendRequestAndVerifyKeyword.execute(SendRequestAndVerifyKeyword.groovy:37)
+	at com.kms.katalon.core.keyword.internal.KeywordExecutor.executeKeywordForPlatform(KeywordExecutor.groovy:56)
+	at com.kms.katalon.core.webservice.keyword.WSBuiltInKeywords.sendRequestAndVerify(WSBuiltInKeywords.groovy:65)
+	at com.kms.katalon.core.webservice.keyword.WSBuiltInKeywords$sendRequestAndVerify.call(Unknown Source)
+	at test.run(test:33)
+	at com.kms.katalon.core.main.ScriptEngine.run(ScriptEngine.java:194)
+	at com.kms.katalon.core.main.ScriptEngine.runScriptAsRawText(ScriptEngine.java:119)
+	at com.kms.katalon.core.main.TestCaseExecutor.runScript(TestCaseExecutor.java:336)
+	at com.kms.katalon.core.main.TestCaseExecutor.doExecute(TestCaseExecutor.java:327)
+	at com.kms.katalon.core.main.TestCaseExecutor.processExecutionPhase(TestCaseExecutor.java:306)
+	at com.kms.katalon.core.main.TestCaseExecutor.accessMainPhase(TestCaseExecutor.java:298)
+	at com.kms.katalon.core.main.TestCaseExecutor.execute(TestCaseExecutor.java:232)
+	at com.kms.katalon.core.main.TestSuiteExecutor.accessTestCaseMainPhase(TestSuiteExecutor.java:129)
+	at com.kms.katalon.core.main.TestSuiteExecutor.accessTestSuiteMainPhase(TestSuiteExecutor.java:112)
+	at com.kms.katalon.core.main.TestSuiteExecutor.execute(TestSuiteExecutor.java:81)
+	at com.kms.katalon.core.main.TestCaseMain.startTestSuite(TestCaseMain.java:157)
+	at com.kms.katalon.core.main.TestCaseMain$startTestSuite$0.call(Unknown Source)
+	at TempTestSuite1558702708357.run(TempTestSuite1558702708357.groovy:35)
+)
+
+2019-05-24 18:29:28 - [MESSAGE][FAILED] - Unable to send request and verify the response (Root cause: java.io.IOException: Unable to tunnel through proxy. Proxy returns "HTTP/1.1 502 Bad Gateway"
+	at com.kms.katalon.core.webservice.common.RestfulClient.sendRequest(RestfulClient.java:82)
+	at com.kms.katalon.core.webservice.common.RestfulClient.send(RestfulClient.java:51)
+	at com.kms.katalon.core.webservice.keyword.builtin.SendRequestAndVerifyKeyword$_sendRequestAndVerify_closure1.doCall(SendRequestAndVerifyKeyword.groovy:44)
+	at com.kms.katalon.core.webservice.keyword.builtin.SendRequestAndVerifyKeyword$_sendRequestAndVerify_closure1.call(SendRequestAndVerifyKeyword.groovy)
+	at com.kms.katalon.core.keyword.internal.KeywordMain.runKeyword(KeywordMain.groovy:66)
+	at com.kms.katalon.core.webservice.keyword.builtin.SendRequestAndVerifyKeyword.sendRequestAndVerify(SendRequestAndVerifyKeyword.groovy:42)
+	at com.kms.katalon.core.webservice.keyword.builtin.SendRequestAndVerifyKeyword.execute(SendRequestAndVerifyKeyword.groovy:37)
+	at com.kms.katalon.core.keyword.internal.KeywordExecutor.executeKeywordForPlatform(KeywordExecutor.groovy:56)
+	at com.kms.katalon.core.webservice.keyword.WSBuiltInKeywords.sendRequestAndVerify(WSBuiltInKeywords.groovy:65)
+	at com.kms.katalon.core.webservice.keyword.WSBuiltInKeywords$sendRequestAndVerify.call(Unknown Source)
+	at test.run(test:33)
+	at com.kms.katalon.core.main.ScriptEngine.run(ScriptEngine.java:194)
+	at com.kms.katalon.core.main.ScriptEngine.runScriptAsRawText(ScriptEngine.java:119)
+	at com.kms.katalon.core.main.TestCaseExecutor.runScript(TestCaseExecutor.java:336)
+	at com.kms.katalon.core.main.TestCaseExecutor.doExecute(TestCaseExecutor.java:327)
+	at com.kms.katalon.core.main.TestCaseExecutor.processExecutionPhase(TestCaseExecutor.java:306)
+	at com.kms.katalon.core.main.TestCaseExecutor.accessMainPhase(TestCaseExecutor.java:298)
+	at com.kms.katalon.core.main.TestCaseExecutor.execute(TestCaseExecutor.java:232)
+	at com.kms.katalon.core.main.TestSuiteExecutor.accessTestCaseMainPhase(TestSuiteExecutor.java:129)
+	at com.kms.katalon.core.main.TestSuiteExecutor.accessTestSuiteMainPhase(TestSuiteExecutor.java:112)
+	at com.kms.katalon.core.main.TestSuiteExecutor.execute(TestSuiteExecutor.java:81)
+	at com.kms.katalon.core.main.TestCaseMain.startTestSuite(TestCaseMain.java:157)
+	at com.kms.katalon.core.main.TestCaseMain$startTestSuite$0.call(Unknown Source)
+	at TempTestSuite1558702708357.run(TempTestSuite1558702708357.groovy:35)
+)]]></system-out>
+         <system-err><![CDATA[2019-05-24 18:29:27 - [TEST_CASE][FAILED] - Test Cases/test: Test Cases/test FAILED.
+Reason:
+com.kms.katalon.core.exception.StepFailedException: Unable to send request and verify the response (Root cause: java.io.IOException: Unable to tunnel through proxy. Proxy returns "HTTP/1.1 502 Bad Gateway"
+	at com.kms.katalon.core.webservice.common.RestfulClient.sendRequest(RestfulClient.java:82)
+	at com.kms.katalon.core.webservice.common.RestfulClient.send(RestfulClient.java:51)
+	at com.kms.katalon.core.webservice.keyword.builtin.SendRequestAndVerifyKeyword$_sendRequestAndVerify_closure1.doCall(SendRequestAndVerifyKeyword.groovy:44)
+	at com.kms.katalon.core.webservice.keyword.builtin.SendRequestAndVerifyKeyword$_sendRequestAndVerify_closure1.call(SendRequestAndVerifyKeyword.groovy)
+	at com.kms.katalon.core.keyword.internal.KeywordMain.runKeyword(KeywordMain.groovy:66)
+	at com.kms.katalon.core.webservice.keyword.builtin.SendRequestAndVerifyKeyword.sendRequestAndVerify(SendRequestAndVerifyKeyword.groovy:42)
+	at com.kms.katalon.core.webservice.keyword.builtin.SendRequestAndVerifyKeyword.execute(SendRequestAndVerifyKeyword.groovy:37)
+	at com.kms.katalon.core.keyword.internal.KeywordExecutor.executeKeywordForPlatform(KeywordExecutor.groovy:56)
+	at com.kms.katalon.core.webservice.keyword.WSBuiltInKeywords.sendRequestAndVerify(WSBuiltInKeywords.groovy:65)
+	at com.kms.katalon.core.webservice.keyword.WSBuiltInKeywords$sendRequestAndVerify.call(Unknown Source)
+	at test.run(test:33)
+	at com.kms.katalon.core.main.ScriptEngine.run(ScriptEngine.java:194)
+	at com.kms.katalon.core.main.ScriptEngine.runScriptAsRawText(ScriptEngine.java:119)
+	at com.kms.katalon.core.main.TestCaseExecutor.runScript(TestCaseExecutor.java:336)
+	at com.kms.katalon.core.main.TestCaseExecutor.doExecute(TestCaseExecutor.java:327)
+	at com.kms.katalon.core.main.TestCaseExecutor.processExecutionPhase(TestCaseExecutor.java:306)
+	at com.kms.katalon.core.main.TestCaseExecutor.accessMainPhase(TestCaseExecutor.java:298)
+	at com.kms.katalon.core.main.TestCaseExecutor.execute(TestCaseExecutor.java:232)
+	at com.kms.katalon.core.main.TestSuiteExecutor.accessTestCaseMainPhase(TestSuiteExecutor.java:129)
+	at com.kms.katalon.core.main.TestSuiteExecutor.accessTestSuiteMainPhase(TestSuiteExecutor.java:112)
+	at com.kms.katalon.core.main.TestSuiteExecutor.execute(TestSuiteExecutor.java:81)
+	at com.kms.katalon.core.main.TestCaseMain.startTestSuite(TestCaseMain.java:157)
+	at com.kms.katalon.core.main.TestCaseMain$startTestSuite$0.call(Unknown Source)
+	at TempTestSuite1558702708357.run(TempTestSuite1558702708357.groovy:35)
+)
+	at com.kms.katalon.core.keyword.internal.KeywordMain.stepFailed(KeywordMain.groovy:48)
+	at com.kms.katalon.core.keyword.internal.KeywordMain.stepFailed(KeywordMain.groovy)
+	at com.kms.katalon.core.keyword.internal.KeywordMain.runKeyword(KeywordMain.groovy:68)
+	at com.kms.katalon.core.webservice.keyword.builtin.SendRequestAndVerifyKeyword.sendRequestAndVerify(SendRequestAndVerifyKeyword.groovy:42)
+	at com.kms.katalon.core.webservice.keyword.builtin.SendRequestAndVerifyKeyword.execute(SendRequestAndVerifyKeyword.groovy:37)
+	at com.kms.katalon.core.keyword.internal.KeywordExecutor.executeKeywordForPlatform(KeywordExecutor.groovy:56)
+	at com.kms.katalon.core.webservice.keyword.WSBuiltInKeywords.sendRequestAndVerify(WSBuiltInKeywords.groovy:65)
+	at com.kms.katalon.core.webservice.keyword.WSBuiltInKeywords$sendRequestAndVerify.call(Unknown Source)
+	at test.run(test:33)
+	at com.kms.katalon.core.main.ScriptEngine.run(ScriptEngine.java:194)
+	at com.kms.katalon.core.main.ScriptEngine.runScriptAsRawText(ScriptEngine.java:119)
+	at com.kms.katalon.core.main.TestCaseExecutor.runScript(TestCaseExecutor.java:336)
+	at com.kms.katalon.core.main.TestCaseExecutor.doExecute(TestCaseExecutor.java:327)
+	at com.kms.katalon.core.main.TestCaseExecutor.processExecutionPhase(TestCaseExecutor.java:306)
+	at com.kms.katalon.core.main.TestCaseExecutor.accessMainPhase(TestCaseExecutor.java:298)
+	at com.kms.katalon.core.main.TestCaseExecutor.execute(TestCaseExecutor.java:232)
+	at com.kms.katalon.core.main.TestSuiteExecutor.accessTestCaseMainPhase(TestSuiteExecutor.java:129)
+	at com.kms.katalon.core.main.TestSuiteExecutor.accessTestSuiteMainPhase(TestSuiteExecutor.java:112)
+	at com.kms.katalon.core.main.TestSuiteExecutor.execute(TestSuiteExecutor.java:81)
+	at com.kms.katalon.core.main.TestCaseMain.startTestSuite(TestCaseMain.java:157)
+	at com.kms.katalon.core.main.TestCaseMain$startTestSuite$0.call(Unknown Source)
+	at TempTestSuite1558702708357.run(TempTestSuite1558702708357.groovy:35)
+Caused by: java.io.IOException: Unable to tunnel through proxy. Proxy returns "HTTP/1.1 502 Bad Gateway"
+	at com.kms.katalon.core.webservice.common.RestfulClient.sendRequest(RestfulClient.java:82)
+	at com.kms.katalon.core.webservice.common.RestfulClient.send(RestfulClient.java:51)
+	at com.kms.katalon.core.webservice.keyword.builtin.SendRequestAndVerifyKeyword$_sendRequestAndVerify_closure1.doCall(SendRequestAndVerifyKeyword.groovy:44)
+	at com.kms.katalon.core.webservice.keyword.builtin.SendRequestAndVerifyKeyword$_sendRequestAndVerify_closure1.call(SendRequestAndVerifyKeyword.groovy)
+	at com.kms.katalon.core.keyword.internal.KeywordMain.runKeyword(KeywordMain.groovy:66)
+	... 19 more]]></system-err>
+      </testcase>
+      <system-out><![CDATA[2019-05-24 18:28:32 - [TEST_SUITE][FAILED] - FIt-test suite: Test Cases/test FAILED.
+Reason:
+com.kms.katalon.core.exception.StepFailedException: Unable to send request and verify the response (Root cause: java.io.IOException: Unable to tunnel through proxy. Proxy returns "HTTP/1.1 502 Bad Gateway"
+	at com.kms.katalon.core.webservice.common.RestfulClient.sendRequest(RestfulClient.java:82)
+	at com.kms.katalon.core.webservice.common.RestfulClient.send(RestfulClient.java:51)
+	at com.kms.katalon.core.webservice.keyword.builtin.SendRequestAndVerifyKeyword$_sendRequestAndVerify_closure1.doCall(SendRequestAndVerifyKeyword.groovy:44)
+	at com.kms.katalon.core.webservice.keyword.builtin.SendRequestAndVerifyKeyword$_sendRequestAndVerify_closure1.call(SendRequestAndVerifyKeyword.groovy)
+	at com.kms.katalon.core.keyword.internal.KeywordMain.runKeyword(KeywordMain.groovy:66)
+	at com.kms.katalon.core.webservice.keyword.builtin.SendRequestAndVerifyKeyword.sendRequestAndVerify(SendRequestAndVerifyKeyword.groovy:42)
+	at com.kms.katalon.core.webservice.keyword.builtin.SendRequestAndVerifyKeyword.execute(SendRequestAndVerifyKeyword.groovy:37)
+	at com.kms.katalon.core.keyword.internal.KeywordExecutor.executeKeywordForPlatform(KeywordExecutor.groovy:56)
+	at com.kms.katalon.core.webservice.keyword.WSBuiltInKeywords.sendRequestAndVerify(WSBuiltInKeywords.groovy:65)
+	at com.kms.katalon.core.webservice.keyword.WSBuiltInKeywords$sendRequestAndVerify.call(Unknown Source)
+	at test.run(test:33)
+	at com.kms.katalon.core.main.ScriptEngine.run(ScriptEngine.java:194)
+	at com.kms.katalon.core.main.ScriptEngine.runScriptAsRawText(ScriptEngine.java:119)
+	at com.kms.katalon.core.main.TestCaseExecutor.runScript(TestCaseExecutor.java:336)
+	at com.kms.katalon.core.main.TestCaseExecutor.doExecute(TestCaseExecutor.java:327)
+	at com.kms.katalon.core.main.TestCaseExecutor.processExecutionPhase(TestCaseExecutor.java:306)
+	at com.kms.katalon.core.main.TestCaseExecutor.accessMainPhase(TestCaseExecutor.java:298)
+	at com.kms.katalon.core.main.TestCaseExecutor.execute(TestCaseExecutor.java:232)
+	at com.kms.katalon.core.main.TestSuiteExecutor.accessTestCaseMainPhase(TestSuiteExecutor.java:129)
+	at com.kms.katalon.core.main.TestSuiteExecutor.accessTestSuiteMainPhase(TestSuiteExecutor.java:112)
+	at com.kms.katalon.core.main.TestSuiteExecutor.execute(TestSuiteExecutor.java:81)
+	at com.kms.katalon.core.main.TestCaseMain.startTestSuite(TestCaseMain.java:157)
+	at com.kms.katalon.core.main.TestCaseMain$startTestSuite$0.call(Unknown Source)
+	at TempTestSuite1558702708357.run(TempTestSuite1558702708357.groovy:35)
+)
+	at com.kms.katalon.core.keyword.internal.KeywordMain.stepFailed(KeywordMain.groovy:48)
+	at com.kms.katalon.core.keyword.internal.KeywordMain.stepFailed(KeywordMain.groovy)
+	at com.kms.katalon.core.keyword.internal.KeywordMain.runKeyword(KeywordMain.groovy:68)
+	at com.kms.katalon.core.webservice.keyword.builtin.SendRequestAndVerifyKeyword.sendRequestAndVerify(SendRequestAndVerifyKeyword.groovy:42)
+	at com.kms.katalon.core.webservice.keyword.builtin.SendRequestAndVerifyKeyword.execute(SendRequestAndVerifyKeyword.groovy:37)
+	at com.kms.katalon.core.keyword.internal.KeywordExecutor.executeKeywordForPlatform(KeywordExecutor.groovy:56)
+	at com.kms.katalon.core.webservice.keyword.WSBuiltInKeywords.sendRequestAndVerify(WSBuiltInKeywords.groovy:65)
+	at com.kms.katalon.core.webservice.keyword.WSBuiltInKeywords$sendRequestAndVerify.call(Unknown Source)
+	at test.run(test:33)
+	at com.kms.katalon.core.main.ScriptEngine.run(ScriptEngine.java:194)
+	at com.kms.katalon.core.main.ScriptEngine.runScriptAsRawText(ScriptEngine.java:119)
+	at com.kms.katalon.core.main.TestCaseExecutor.runScript(TestCaseExecutor.java:336)
+	at com.kms.katalon.core.main.TestCaseExecutor.doExecute(TestCaseExecutor.java:327)
+	at com.kms.katalon.core.main.TestCaseExecutor.processExecutionPhase(TestCaseExecutor.java:306)
+	at com.kms.katalon.core.main.TestCaseExecutor.accessMainPhase(TestCaseExecutor.java:298)
+	at com.kms.katalon.core.main.TestCaseExecutor.execute(TestCaseExecutor.java:232)
+	at com.kms.katalon.core.main.TestSuiteExecutor.accessTestCaseMainPhase(TestSuiteExecutor.java:129)
+	at com.kms.katalon.core.main.TestSuiteExecutor.accessTestSuiteMainPhase(TestSuiteExecutor.java:112)
+	at com.kms.katalon.core.main.TestSuiteExecutor.execute(TestSuiteExecutor.java:81)
+	at com.kms.katalon.core.main.TestCaseMain.startTestSuite(TestCaseMain.java:157)
+	at com.kms.katalon.core.main.TestCaseMain$startTestSuite$0.call(Unknown Source)
+	at TempTestSuite1558702708357.run(TempTestSuite1558702708357.groovy:35)
+Caused by: java.io.IOException: Unable to tunnel through proxy. Proxy returns "HTTP/1.1 502 Bad Gateway"
+	at com.kms.katalon.core.webservice.common.RestfulClient.sendRequest(RestfulClient.java:82)
+	at com.kms.katalon.core.webservice.common.RestfulClient.send(RestfulClient.java:51)
+	at com.kms.katalon.core.webservice.keyword.builtin.SendRequestAndVerifyKeyword$_sendRequestAndVerify_closure1.doCall(SendRequestAndVerifyKeyword.groovy:44)
+	at com.kms.katalon.core.webservice.keyword.builtin.SendRequestAndVerifyKeyword$_sendRequestAndVerify_closure1.call(SendRequestAndVerifyKeyword.groovy)
+	at com.kms.katalon.core.keyword.internal.KeywordMain.runKeyword(KeywordMain.groovy:66)
+	... 19 more]]></system-out>
+      <system-err><![CDATA[2019-05-24 18:28:32 - [TEST_SUITE][FAILED] - FIt-test suite: Test Cases/test FAILED.
+Reason:
+com.kms.katalon.core.exception.StepFailedException: Unable to send request and verify the response (Root cause: java.io.IOException: Unable to tunnel through proxy. Proxy returns "HTTP/1.1 502 Bad Gateway"
+	at com.kms.katalon.core.webservice.common.RestfulClient.sendRequest(RestfulClient.java:82)
+	at com.kms.katalon.core.webservice.common.RestfulClient.send(RestfulClient.java:51)
+	at com.kms.katalon.core.webservice.keyword.builtin.SendRequestAndVerifyKeyword$_sendRequestAndVerify_closure1.doCall(SendRequestAndVerifyKeyword.groovy:44)
+	at com.kms.katalon.core.webservice.keyword.builtin.SendRequestAndVerifyKeyword$_sendRequestAndVerify_closure1.call(SendRequestAndVerifyKeyword.groovy)
+	at com.kms.katalon.core.keyword.internal.KeywordMain.runKeyword(KeywordMain.groovy:66)
+	at com.kms.katalon.core.webservice.keyword.builtin.SendRequestAndVerifyKeyword.sendRequestAndVerify(SendRequestAndVerifyKeyword.groovy:42)
+	at com.kms.katalon.core.webservice.keyword.builtin.SendRequestAndVerifyKeyword.execute(SendRequestAndVerifyKeyword.groovy:37)
+	at com.kms.katalon.core.keyword.internal.KeywordExecutor.executeKeywordForPlatform(KeywordExecutor.groovy:56)
+	at com.kms.katalon.core.webservice.keyword.WSBuiltInKeywords.sendRequestAndVerify(WSBuiltInKeywords.groovy:65)
+	at com.kms.katalon.core.webservice.keyword.WSBuiltInKeywords$sendRequestAndVerify.call(Unknown Source)
+	at test.run(test:33)
+	at com.kms.katalon.core.main.ScriptEngine.run(ScriptEngine.java:194)
+	at com.kms.katalon.core.main.ScriptEngine.runScriptAsRawText(ScriptEngine.java:119)
+	at com.kms.katalon.core.main.TestCaseExecutor.runScript(TestCaseExecutor.java:336)
+	at com.kms.katalon.core.main.TestCaseExecutor.doExecute(TestCaseExecutor.java:327)
+	at com.kms.katalon.core.main.TestCaseExecutor.processExecutionPhase(TestCaseExecutor.java:306)
+	at com.kms.katalon.core.main.TestCaseExecutor.accessMainPhase(TestCaseExecutor.java:298)
+	at com.kms.katalon.core.main.TestCaseExecutor.execute(TestCaseExecutor.java:232)
+	at com.kms.katalon.core.main.TestSuiteExecutor.accessTestCaseMainPhase(TestSuiteExecutor.java:129)
+	at com.kms.katalon.core.main.TestSuiteExecutor.accessTestSuiteMainPhase(TestSuiteExecutor.java:112)
+	at com.kms.katalon.core.main.TestSuiteExecutor.execute(TestSuiteExecutor.java:81)
+	at com.kms.katalon.core.main.TestCaseMain.startTestSuite(TestCaseMain.java:157)
+	at com.kms.katalon.core.main.TestCaseMain$startTestSuite$0.call(Unknown Source)
+	at TempTestSuite1558702708357.run(TempTestSuite1558702708357.groovy:35)
+)
+	at com.kms.katalon.core.keyword.internal.KeywordMain.stepFailed(KeywordMain.groovy:48)
+	at com.kms.katalon.core.keyword.internal.KeywordMain.stepFailed(KeywordMain.groovy)
+	at com.kms.katalon.core.keyword.internal.KeywordMain.runKeyword(KeywordMain.groovy:68)
+	at com.kms.katalon.core.webservice.keyword.builtin.SendRequestAndVerifyKeyword.sendRequestAndVerify(SendRequestAndVerifyKeyword.groovy:42)
+	at com.kms.katalon.core.webservice.keyword.builtin.SendRequestAndVerifyKeyword.execute(SendRequestAndVerifyKeyword.groovy:37)
+	at com.kms.katalon.core.keyword.internal.KeywordExecutor.executeKeywordForPlatform(KeywordExecutor.groovy:56)
+	at com.kms.katalon.core.webservice.keyword.WSBuiltInKeywords.sendRequestAndVerify(WSBuiltInKeywords.groovy:65)
+	at com.kms.katalon.core.webservice.keyword.WSBuiltInKeywords$sendRequestAndVerify.call(Unknown Source)
+	at test.run(test:33)
+	at com.kms.katalon.core.main.ScriptEngine.run(ScriptEngine.java:194)
+	at com.kms.katalon.core.main.ScriptEngine.runScriptAsRawText(ScriptEngine.java:119)
+	at com.kms.katalon.core.main.TestCaseExecutor.runScript(TestCaseExecutor.java:336)
+	at com.kms.katalon.core.main.TestCaseExecutor.doExecute(TestCaseExecutor.java:327)
+	at com.kms.katalon.core.main.TestCaseExecutor.processExecutionPhase(TestCaseExecutor.java:306)
+	at com.kms.katalon.core.main.TestCaseExecutor.accessMainPhase(TestCaseExecutor.java:298)
+	at com.kms.katalon.core.main.TestCaseExecutor.execute(TestCaseExecutor.java:232)
+	at com.kms.katalon.core.main.TestSuiteExecutor.accessTestCaseMainPhase(TestSuiteExecutor.java:129)
+	at com.kms.katalon.core.main.TestSuiteExecutor.accessTestSuiteMainPhase(TestSuiteExecutor.java:112)
+	at com.kms.katalon.core.main.TestSuiteExecutor.execute(TestSuiteExecutor.java:81)
+	at com.kms.katalon.core.main.TestCaseMain.startTestSuite(TestCaseMain.java:157)
+	at com.kms.katalon.core.main.TestCaseMain$startTestSuite$0.call(Unknown Source)
+	at TempTestSuite1558702708357.run(TempTestSuite1558702708357.groovy:35)
+Caused by: java.io.IOException: Unable to tunnel through proxy. Proxy returns "HTTP/1.1 502 Bad Gateway"
+	at com.kms.katalon.core.webservice.common.RestfulClient.sendRequest(RestfulClient.java:82)
+	at com.kms.katalon.core.webservice.common.RestfulClient.send(RestfulClient.java:51)
+	at com.kms.katalon.core.webservice.keyword.builtin.SendRequestAndVerifyKeyword$_sendRequestAndVerify_closure1.doCall(SendRequestAndVerifyKeyword.groovy:44)
+	at com.kms.katalon.core.webservice.keyword.builtin.SendRequestAndVerifyKeyword$_sendRequestAndVerify_closure1.call(SendRequestAndVerifyKeyword.groovy)
+	at com.kms.katalon.core.keyword.internal.KeywordMain.runKeyword(KeywordMain.groovy:66)
+	... 19 more]]></system-err>
+   </testsuite>
+</testsuites>

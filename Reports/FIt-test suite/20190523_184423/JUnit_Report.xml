@@ -1,0 +1,66 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuites name="FIt-test suite" time="11" tests="3" failures="0" errors="0">
+   <testsuite name="FIt-test suite" tests="3" failures="0" errors="0" time="11" timestamp="2019-05-23 18:44:26" hostname="Lavanya_DF - DESKTOP-T5KOPIL" id="Test Suites/FIt-test suite">
+      <properties>
+         <property name="deviceName" value=""/>
+         <property name="devicePlatform" value=""/>
+         <property name="logFolder" value="C:\\Users\\Lavanya_DF\\Downloads\\GS1 FIT\\GS1 FIT\\Reports\\FIt-test suite\\20190523_184423"/>
+         <property name="logFiles" value="C:\\Users\\Lavanya_DF\\Downloads\\GS1 FIT\\GS1 FIT\\Reports\\FIt-test suite\\20190523_184423\\execution0.log"/>
+         <property name="attachments" value=""/>
+         <property name="hostName" value="Lavanya_DF - DESKTOP-T5KOPIL"/>
+         <property name="hostAddress" value="192.168.0.153"/>
+         <property name="os" value="Windows 10 64bit"/>
+         <property name="katalonVersion" value="6.1.2.2"/>
+      </properties>
+      <testcase name="Test Cases/test" classname="Test Cases/test" status="PASSED">
+         <system-out><![CDATA[2019-05-23 18:44:26 - [TEST_CASE][PASSED] - Test Cases/test: Test Cases/test
+
+2019-05-23 18:44:27 - [TEST_STEP][PASSED] - if (methodforcall == "PUT"): Send request and verify the response successfully
+
+2019-05-23 18:44:27 - [TEST_STEP][PASSED] - Storeresponse2 = sendRequestAndVerify(findTestObject("GLN deregister - EOID", ["url":url, "methodforcall":methodforcall, "status":status, "statuscode":statuscode, "message":message, "messagevalue":messagevalue])): Send request and verify the response successfully
+
+2019-05-23 18:44:32 - [TEST_CASE][PASSED] - Start Test Case : Verification: Verification accomplished successfully
+
+2019-05-23 18:44:32 - [TEST_STEP][PASSED] - return null: null
+
+2019-05-23 18:44:32 - [MESSAGE][PASSED] - Verify response successfully
+
+2019-05-23 18:44:32 - [MESSAGE][PASSED] - Send request and verify the response successfully]]></system-out>
+         <system-err><![CDATA[]]></system-err>
+      </testcase>
+      <testcase name="Test Cases/test" classname="Test Cases/test" status="PASSED">
+         <system-out><![CDATA[2019-05-23 18:44:32 - [TEST_CASE][PASSED] - Test Cases/test: Test Cases/test
+
+2019-05-23 18:44:32 - [TEST_STEP][PASSED] - if (methodforcall == "PUT"): Send request and verify the response successfully
+
+2019-05-23 18:44:32 - [TEST_STEP][PASSED] - Storeresponse2 = sendRequestAndVerify(findTestObject("GLN deregister - EOID", ["url":url, "methodforcall":methodforcall, "status":status, "statuscode":statuscode, "message":message, "messagevalue":messagevalue])): Send request and verify the response successfully
+
+2019-05-23 18:44:35 - [TEST_CASE][PASSED] - Start Test Case : Verification: Verification accomplished successfully
+
+2019-05-23 18:44:35 - [TEST_STEP][PASSED] - return null: null
+
+2019-05-23 18:44:35 - [MESSAGE][PASSED] - Verify response successfully
+
+2019-05-23 18:44:35 - [MESSAGE][PASSED] - Send request and verify the response successfully]]></system-out>
+         <system-err><![CDATA[]]></system-err>
+      </testcase>
+      <testcase name="Test Cases/test" classname="Test Cases/test" status="PASSED">
+         <system-out><![CDATA[2019-05-23 18:44:35 - [TEST_CASE][PASSED] - Test Cases/test: Test Cases/test
+
+2019-05-23 18:44:35 - [TEST_STEP][PASSED] - if (methodforcall == "PUT"): Send request and verify the response successfully
+
+2019-05-23 18:44:35 - [TEST_STEP][PASSED] - Storeresponse2 = sendRequestAndVerify(findTestObject("GLN deregister - EOID", ["url":url, "methodforcall":methodforcall, "status":status, "statuscode":statuscode, "message":message, "messagevalue":messagevalue])): Send request and verify the response successfully
+
+2019-05-23 18:44:38 - [TEST_CASE][PASSED] - Start Test Case : Verification: Verification accomplished successfully
+
+2019-05-23 18:44:38 - [TEST_STEP][PASSED] - return null: null
+
+2019-05-23 18:44:38 - [MESSAGE][PASSED] - Verify response successfully
+
+2019-05-23 18:44:38 - [MESSAGE][PASSED] - Send request and verify the response successfully]]></system-out>
+         <system-err><![CDATA[]]></system-err>
+      </testcase>
+      <system-out><![CDATA[2019-05-23 18:44:26 - [TEST_SUITE][PASSED] - FIt-test suite: Test Cases/test]]></system-out>
+      <system-err><![CDATA[]]></system-err>
+   </testsuite>
+</testsuites>

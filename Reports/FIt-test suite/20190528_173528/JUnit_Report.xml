@@ -1,0 +1,150 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuites name="FIt-test suite" time="19" tests="1" failures="0" errors="1">
+   <testsuite name="FIt-test suite" tests="1" failures="0" errors="1" time="19" timestamp="2019-05-28 17:35:30" hostname="Lavanya_DF - DESKTOP-T5KOPIL" id="Test Suites/FIt-test suite">
+      <properties>
+         <property name="deviceName" value=""/>
+         <property name="devicePlatform" value=""/>
+         <property name="logFolder" value="C:\\Users\\Lavanya_DF\\Downloads\\GS1 FIT\\GS1 FIT\\Reports\\FIt-test suite\\20190528_173528"/>
+         <property name="logFiles" value="C:\\Users\\Lavanya_DF\\Downloads\\GS1 FIT\\GS1 FIT\\Reports\\FIt-test suite\\20190528_173528\\execution0.log"/>
+         <property name="attachments" value=""/>
+         <property name="hostName" value="Lavanya_DF - DESKTOP-T5KOPIL"/>
+         <property name="hostAddress" value="192.168.0.153"/>
+         <property name="os" value="Windows 10 64bit"/>
+         <property name="katalonVersion" value="6.1.2.2"/>
+      </properties>
+      <testcase name="Test Cases/test" classname="Test Cases/test" status="PASSED">
+         <system-out><![CDATA[2019-05-28 17:35:30 - [TEST_CASE][PASSED] - Test Cases/test: Test Cases/test
+
+2019-05-28 17:35:31 - [TEST_STEP][PASSED] - if (methodforcall == "PUT"): null
+
+2019-05-28 17:35:31 - [TEST_STEP][PASSED] - else: Verify element property value successfully
+
+2019-05-28 17:35:31 - [TEST_STEP][PASSED] - if (giaiparameter != "" && url == "gs-dv-fit.gs1.org/api/v1/machine/check"): Verify element property value successfully
+
+2019-05-28 17:35:31 - [TEST_STEP][PASSED] - storeresponse5 = sendRequestAndVerify(findTestObject("GIAI- Check", ["giai":giaiparameter, "url":url, "body":body, "methodforcall":methodforcall])): Send request and verify the response successfully
+
+2019-05-28 17:35:49 - [TEST_CASE][PASSED] - Start Test Case : Verification: Verification accomplished successfully
+
+2019-05-28 17:35:50 - [TEST_STEP][PASSED] - request = getInstance().getCurrentRequest(): null
+
+2019-05-28 17:35:50 - [TEST_STEP][PASSED] - response = getInstance().getCurrentResponse(): null
+
+2019-05-28 17:35:50 - [MESSAGE][PASSED] - Verify response successfully
+
+2019-05-28 17:35:50 - [MESSAGE][PASSED] - Send request and verify the response successfully
+
+2019-05-28 17:35:50 - [TEST_STEP][PASSED] - verifyElementPropertyValue(storeresponse5, status, statuscode): Verify element property value successfully
+
+2019-05-28 17:35:50 - [MESSAGE][PASSED] - Verify element property value successfully
+
+2019-05-28 17:35:50 - [TEST_STEP][PASSED] - verifyElementPropertyValue(storeresponse5, messageid, messageidvalue): Verify element property value successfully
+
+2019-05-28 17:35:50 - [MESSAGE][PASSED] - Verify element property value successfully]]></system-out>
+         <system-err><![CDATA[]]></system-err>
+      </testcase>
+      <testcase name="Test Cases/test" classname="Test Cases/test" status="ERROR">
+         <error type="ERROR" message="Test Cases/test FAILED.
+Reason:
+groovy.lang.MissingMethodException: No signature of method: java.lang.Boolean.call() is applicable for argument types: (Script1555313266053$_run_closure1) values: [Script1555313266053$_run_closure1@5b022357]
+Possible solutions: wait(), any(), wait(long), and(java.lang.Boolean), each(groovy.lang.Closure), any(groovy.lang.Closure)
+	at test.run(test:32)
+	at com.kms.katalon.core.main.ScriptEngine.run(ScriptEngine.java:194)
+	at com.kms.katalon.core.main.ScriptEngine.runScriptAsRawText(ScriptEngine.java:119)
+	at com.kms.katalon.core.main.TestCaseExecutor.runScript(TestCaseExecutor.java:336)
+	at com.kms.katalon.core.main.TestCaseExecutor.doExecute(TestCaseExecutor.java:327)
+	at com.kms.katalon.core.main.TestCaseExecutor.processExecutionPhase(TestCaseExecutor.java:306)
+	at com.kms.katalon.core.main.TestCaseExecutor.accessMainPhase(TestCaseExecutor.java:298)
+	at com.kms.katalon.core.main.TestCaseExecutor.execute(TestCaseExecutor.java:232)
+	at com.kms.katalon.core.main.TestSuiteExecutor.accessTestCaseMainPhase(TestSuiteExecutor.java:129)
+	at com.kms.katalon.core.main.TestSuiteExecutor.accessTestSuiteMainPhase(TestSuiteExecutor.java:112)
+	at com.kms.katalon.core.main.TestSuiteExecutor.execute(TestSuiteExecutor.java:81)
+	at com.kms.katalon.core.main.TestCaseMain.startTestSuite(TestCaseMain.java:157)
+	at com.kms.katalon.core.main.TestCaseMain$startTestSuite$0.call(Unknown Source)
+	at TempTestSuite1559045128317.run(TempTestSuite1559045128317.groovy:35)
+"/>
+         <system-out><![CDATA[2019-05-28 17:35:50 - [TEST_CASE][ERROR] - Test Cases/test: Test Cases/test FAILED.
+Reason:
+groovy.lang.MissingMethodException: No signature of method: java.lang.Boolean.call() is applicable for argument types: (Script1555313266053$_run_closure1) values: [Script1555313266053$_run_closure1@5b022357]
+Possible solutions: wait(), any(), wait(long), and(java.lang.Boolean), each(groovy.lang.Closure), any(groovy.lang.Closure)
+	at test.run(test:32)
+	at com.kms.katalon.core.main.ScriptEngine.run(ScriptEngine.java:194)
+	at com.kms.katalon.core.main.ScriptEngine.runScriptAsRawText(ScriptEngine.java:119)
+	at com.kms.katalon.core.main.TestCaseExecutor.runScript(TestCaseExecutor.java:336)
+	at com.kms.katalon.core.main.TestCaseExecutor.doExecute(TestCaseExecutor.java:327)
+	at com.kms.katalon.core.main.TestCaseExecutor.processExecutionPhase(TestCaseExecutor.java:306)
+	at com.kms.katalon.core.main.TestCaseExecutor.accessMainPhase(TestCaseExecutor.java:298)
+	at com.kms.katalon.core.main.TestCaseExecutor.execute(TestCaseExecutor.java:232)
+	at com.kms.katalon.core.main.TestSuiteExecutor.accessTestCaseMainPhase(TestSuiteExecutor.java:129)
+	at com.kms.katalon.core.main.TestSuiteExecutor.accessTestSuiteMainPhase(TestSuiteExecutor.java:112)
+	at com.kms.katalon.core.main.TestSuiteExecutor.execute(TestSuiteExecutor.java:81)
+	at com.kms.katalon.core.main.TestCaseMain.startTestSuite(TestCaseMain.java:157)
+	at com.kms.katalon.core.main.TestCaseMain$startTestSuite$0.call(Unknown Source)
+	at TempTestSuite1559045128317.run(TempTestSuite1559045128317.groovy:35)
+
+
+2019-05-28 17:35:50 - [TEST_STEP][PASSED] - if (methodforcall == "PUT"): null
+
+2019-05-28 17:35:50 - [TEST_STEP][PASSED] - else: null
+
+2019-05-28 17:35:50 - [TEST_STEP][PASSED] - if (giaiparameter != "" && url == "gs-dv-fit.gs1.org/api/v1/machine/check"): null
+
+2019-05-28 17:35:50 - [TEST_STEP][PASSED] - else: null
+
+2019-05-28 17:35:50 - [TEST_STEP][PASSED] - org/api/v1/product/check".call({ -> ... }): null]]></system-out>
+         <system-err><![CDATA[2019-05-28 17:35:50 - [TEST_CASE][ERROR] - Test Cases/test: Test Cases/test FAILED.
+Reason:
+groovy.lang.MissingMethodException: No signature of method: java.lang.Boolean.call() is applicable for argument types: (Script1555313266053$_run_closure1) values: [Script1555313266053$_run_closure1@5b022357]
+Possible solutions: wait(), any(), wait(long), and(java.lang.Boolean), each(groovy.lang.Closure), any(groovy.lang.Closure)
+	at test.run(test:32)
+	at com.kms.katalon.core.main.ScriptEngine.run(ScriptEngine.java:194)
+	at com.kms.katalon.core.main.ScriptEngine.runScriptAsRawText(ScriptEngine.java:119)
+	at com.kms.katalon.core.main.TestCaseExecutor.runScript(TestCaseExecutor.java:336)
+	at com.kms.katalon.core.main.TestCaseExecutor.doExecute(TestCaseExecutor.java:327)
+	at com.kms.katalon.core.main.TestCaseExecutor.processExecutionPhase(TestCaseExecutor.java:306)
+	at com.kms.katalon.core.main.TestCaseExecutor.accessMainPhase(TestCaseExecutor.java:298)
+	at com.kms.katalon.core.main.TestCaseExecutor.execute(TestCaseExecutor.java:232)
+	at com.kms.katalon.core.main.TestSuiteExecutor.accessTestCaseMainPhase(TestSuiteExecutor.java:129)
+	at com.kms.katalon.core.main.TestSuiteExecutor.accessTestSuiteMainPhase(TestSuiteExecutor.java:112)
+	at com.kms.katalon.core.main.TestSuiteExecutor.execute(TestSuiteExecutor.java:81)
+	at com.kms.katalon.core.main.TestCaseMain.startTestSuite(TestCaseMain.java:157)
+	at com.kms.katalon.core.main.TestCaseMain$startTestSuite$0.call(Unknown Source)
+	at TempTestSuite1559045128317.run(TempTestSuite1559045128317.groovy:35)]]></system-err>
+      </testcase>
+      <system-out><![CDATA[2019-05-28 17:35:30 - [TEST_SUITE][ERROR] - FIt-test suite: Test Cases/test FAILED.
+Reason:
+groovy.lang.MissingMethodException: No signature of method: java.lang.Boolean.call() is applicable for argument types: (Script1555313266053$_run_closure1) values: [Script1555313266053$_run_closure1@5b022357]
+Possible solutions: wait(), any(), wait(long), and(java.lang.Boolean), each(groovy.lang.Closure), any(groovy.lang.Closure)
+	at test.run(test:32)
+	at com.kms.katalon.core.main.ScriptEngine.run(ScriptEngine.java:194)
+	at com.kms.katalon.core.main.ScriptEngine.runScriptAsRawText(ScriptEngine.java:119)
+	at com.kms.katalon.core.main.TestCaseExecutor.runScript(TestCaseExecutor.java:336)
+	at com.kms.katalon.core.main.TestCaseExecutor.doExecute(TestCaseExecutor.java:327)
+	at com.kms.katalon.core.main.TestCaseExecutor.processExecutionPhase(TestCaseExecutor.java:306)
+	at com.kms.katalon.core.main.TestCaseExecutor.accessMainPhase(TestCaseExecutor.java:298)
+	at com.kms.katalon.core.main.TestCaseExecutor.execute(TestCaseExecutor.java:232)
+	at com.kms.katalon.core.main.TestSuiteExecutor.accessTestCaseMainPhase(TestSuiteExecutor.java:129)
+	at com.kms.katalon.core.main.TestSuiteExecutor.accessTestSuiteMainPhase(TestSuiteExecutor.java:112)
+	at com.kms.katalon.core.main.TestSuiteExecutor.execute(TestSuiteExecutor.java:81)
+	at com.kms.katalon.core.main.TestCaseMain.startTestSuite(TestCaseMain.java:157)
+	at com.kms.katalon.core.main.TestCaseMain$startTestSuite$0.call(Unknown Source)
+	at TempTestSuite1559045128317.run(TempTestSuite1559045128317.groovy:35)]]></system-out>
+      <system-err><![CDATA[2019-05-28 17:35:30 - [TEST_SUITE][ERROR] - FIt-test suite: Test Cases/test FAILED.
+Reason:
+groovy.lang.MissingMethodException: No signature of method: java.lang.Boolean.call() is applicable for argument types: (Script1555313266053$_run_closure1) values: [Script1555313266053$_run_closure1@5b022357]
+Possible solutions: wait(), any(), wait(long), and(java.lang.Boolean), each(groovy.lang.Closure), any(groovy.lang.Closure)
+	at test.run(test:32)
+	at com.kms.katalon.core.main.ScriptEngine.run(ScriptEngine.java:194)
+	at com.kms.katalon.core.main.ScriptEngine.runScriptAsRawText(ScriptEngine.java:119)
+	at com.kms.katalon.core.main.TestCaseExecutor.runScript(TestCaseExecutor.java:336)
+	at com.kms.katalon.core.main.TestCaseExecutor.doExecute(TestCaseExecutor.java:327)
+	at com.kms.katalon.core.main.TestCaseExecutor.processExecutionPhase(TestCaseExecutor.java:306)
+	at com.kms.katalon.core.main.TestCaseExecutor.accessMainPhase(TestCaseExecutor.java:298)
+	at com.kms.katalon.core.main.TestCaseExecutor.execute(TestCaseExecutor.java:232)
+	at com.kms.katalon.core.main.TestSuiteExecutor.accessTestCaseMainPhase(TestSuiteExecutor.java:129)
+	at com.kms.katalon.core.main.TestSuiteExecutor.accessTestSuiteMainPhase(TestSuiteExecutor.java:112)
+	at com.kms.katalon.core.main.TestSuiteExecutor.execute(TestSuiteExecutor.java:81)
+	at com.kms.katalon.core.main.TestCaseMain.startTestSuite(TestCaseMain.java:157)
+	at com.kms.katalon.core.main.TestCaseMain$startTestSuite$0.call(Unknown Source)
+	at TempTestSuite1559045128317.run(TempTestSuite1559045128317.groovy:35)]]></system-err>
+   </testsuite>
+</testsuites>

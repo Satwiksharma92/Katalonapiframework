@@ -1,0 +1,11 @@
+Suite/Test/Step Name,Browser,Description,Tag,Start time,End time,Duration,Status
+FIt-test suite,,,,2019-05-23 18:25:17,2019-05-23 18:25:23,5.721s,FAILED
+,,,,,,,
+Test Cases/test,,,,2019-05-23 18:25:17,2019-05-23 18:25:20,3.279s,FAILED
+"if (glnparameter == """")",,,,2019-05-23 18:25:17,2019-05-23 18:25:20,2.900s,FAILED
+,,,,,,,
+Test Cases/test,,,,2019-05-23 18:25:20,2019-05-23 18:25:22,1.215s,FAILED
+"if (glnparameter == """")",,,,2019-05-23 18:25:20,2019-05-23 18:25:22,1.190s,FAILED
+,,,,,,,
+Test Cases/test,,,,2019-05-23 18:25:22,2019-05-23 18:25:23,1.006s,FAILED
+"if (glnparameter == """")",,,,2019-05-23 18:25:22,2019-05-23 18:25:23,0.982s,FAILED

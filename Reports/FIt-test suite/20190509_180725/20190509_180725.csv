@@ -1,0 +1,10 @@
+Suite/Test/Step Name,Browser,Description,Tag,Start time,End time,Duration,Status
+FIt-test suite,,,,2019-05-09 18:07:27,2019-05-09 18:07:37,9.580s,FAILED
+,,,,,,,
+Test Cases/test,,,,2019-05-09 18:07:27,2019-05-09 18:07:34,6.303s,FAILED
+"Storeresponse = sendRequestAndVerify(findTestObject(""GLN Check - EOID"", [""gln"":glnparameter, ""urlforcheckeoid"":url, ""body"":body, ""methodforcall"":methodforcall]))",,,,2019-05-09 18:07:28,2019-05-09 18:07:33,5.970s,PASSED
+"verifyElementPropertyValue(Storeresponse, status, statuscode)",,,,2019-05-09 18:07:33,2019-05-09 18:07:34,0.046s,FAILED
+,,,,,,,
+Test Cases/test,,,,2019-05-09 18:07:34,2019-05-09 18:07:37,3.074s,FAILED
+"Storeresponse = sendRequestAndVerify(findTestObject(""GLN Check - EOID"", [""gln"":glnparameter, ""urlforcheckeoid"":url, ""body"":body, ""methodforcall"":methodforcall]))",,,,2019-05-09 18:07:34,2019-05-09 18:07:37,3.044s,PASSED
+"verifyElementPropertyValue(Storeresponse, status, statuscode)",,,,2019-05-09 18:07:37,2019-05-09 18:07:37,0.012s,FAILED

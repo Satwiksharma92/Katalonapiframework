@@ -1,0 +1,44 @@
+Suite/Test/Step Name,Browser,Description,Tag,Start time,End time,Duration,Status
+FIt-test suite,,,,2019-05-03 17:54:11,2019-05-03 17:54:52,40.928s,PASSED
+,,,,,,,
+Test Cases/test,,,,2019-05-03 17:54:12,2019-05-03 17:54:29,17.325s,PASSED
+"Storeresponse = sendRequestAndVerify(findTestObject(""GLN Check - EOID"", [""gln"":glnparameter, ""urlforcheckeoid"":url, ""body"":body, ""methodforcall"":methodforcall]))",,,,2019-05-03 17:54:12,2019-05-03 17:54:29,16.731s,PASSED
+"verifyElementPropertyValue(Storeresponse, status, statuscode)",,,,2019-05-03 17:54:29,2019-05-03 17:54:29,0.071s,PASSED
+"verifyElementPropertyValue(Storeresponse, messageid, messageidvalue)",,,,2019-05-03 17:54:29,2019-05-03 17:54:29,0.028s,PASSED
+if (statuscode == 200),,,,2019-05-03 17:54:29,2019-05-03 17:54:29,0.001s,PASSED
+else,,,,2019-05-03 17:54:29,2019-05-03 17:54:29,0.002s,PASSED
+,,,,,,,
+Test Cases/test,,,,2019-05-03 17:54:29,2019-05-03 17:54:35,6.036s,PASSED
+"Storeresponse = sendRequestAndVerify(findTestObject(""GLN Check - EOID"", [""gln"":glnparameter, ""urlforcheckeoid"":url, ""body"":body, ""methodforcall"":methodforcall]))",,,,2019-05-03 17:54:29,2019-05-03 17:54:35,5.983s,PASSED
+"verifyElementPropertyValue(Storeresponse, status, statuscode)",,,,2019-05-03 17:54:35,2019-05-03 17:54:35,0.014s,PASSED
+"verifyElementPropertyValue(Storeresponse, messageid, messageidvalue)",,,,2019-05-03 17:54:35,2019-05-03 17:54:35,0.013s,PASSED
+if (statuscode == 200),,,,2019-05-03 17:54:35,2019-05-03 17:54:35,0.000s,PASSED
+else,,,,2019-05-03 17:54:35,2019-05-03 17:54:35,0.000s,PASSED
+,,,,,,,
+Test Cases/test,,,,2019-05-03 17:54:35,2019-05-03 17:54:39,4.298s,PASSED
+"Storeresponse = sendRequestAndVerify(findTestObject(""GLN Check - EOID"", [""gln"":glnparameter, ""urlforcheckeoid"":url, ""body"":body, ""methodforcall"":methodforcall]))",,,,2019-05-03 17:54:35,2019-05-03 17:54:39,4.253s,PASSED
+"verifyElementPropertyValue(Storeresponse, status, statuscode)",,,,2019-05-03 17:54:39,2019-05-03 17:54:39,0.014s,PASSED
+"verifyElementPropertyValue(Storeresponse, messageid, messageidvalue)",,,,2019-05-03 17:54:39,2019-05-03 17:54:39,0.014s,PASSED
+if (statuscode == 200),,,,2019-05-03 17:54:39,2019-05-03 17:54:39,0.000s,PASSED
+else,,,,2019-05-03 17:54:39,2019-05-03 17:54:39,0.000s,PASSED
+,,,,,,,
+Test Cases/test,,,,2019-05-03 17:54:39,2019-05-03 17:54:44,4.536s,PASSED
+"Storeresponse = sendRequestAndVerify(findTestObject(""GLN Check - EOID"", [""gln"":glnparameter, ""urlforcheckeoid"":url, ""body"":body, ""methodforcall"":methodforcall]))",,,,2019-05-03 17:54:39,2019-05-03 17:54:44,4.489s,PASSED
+"verifyElementPropertyValue(Storeresponse, status, statuscode)",,,,2019-05-03 17:54:44,2019-05-03 17:54:44,0.016s,PASSED
+"verifyElementPropertyValue(Storeresponse, messageid, messageidvalue)",,,,2019-05-03 17:54:44,2019-05-03 17:54:44,0.014s,PASSED
+if (statuscode == 200),,,,2019-05-03 17:54:44,2019-05-03 17:54:44,0.000s,PASSED
+else,,,,2019-05-03 17:54:44,2019-05-03 17:54:44,0.000s,PASSED
+,,,,,,,
+Test Cases/test,,,,2019-05-03 17:54:44,2019-05-03 17:54:48,4.516s,PASSED
+"Storeresponse = sendRequestAndVerify(findTestObject(""GLN Check - EOID"", [""gln"":glnparameter, ""urlforcheckeoid"":url, ""body"":body, ""methodforcall"":methodforcall]))",,,,2019-05-03 17:54:44,2019-05-03 17:54:48,4.467s,PASSED
+"verifyElementPropertyValue(Storeresponse, status, statuscode)",,,,2019-05-03 17:54:48,2019-05-03 17:54:48,0.016s,PASSED
+"verifyElementPropertyValue(Storeresponse, messageid, messageidvalue)",,,,2019-05-03 17:54:48,2019-05-03 17:54:48,0.015s,PASSED
+if (statuscode == 200),,,,2019-05-03 17:54:48,2019-05-03 17:54:48,0.000s,PASSED
+else,,,,2019-05-03 17:54:48,2019-05-03 17:54:48,0.000s,PASSED
+,,,,,,,
+Test Cases/test,,,,2019-05-03 17:54:48,2019-05-03 17:54:52,3.930s,PASSED
+"Storeresponse = sendRequestAndVerify(findTestObject(""GLN Check - EOID"", [""gln"":glnparameter, ""urlforcheckeoid"":url, ""body"":body, ""methodforcall"":methodforcall]))",,,,2019-05-03 17:54:48,2019-05-03 17:54:52,3.892s,PASSED
+"verifyElementPropertyValue(Storeresponse, status, statuscode)",,,,2019-05-03 17:54:52,2019-05-03 17:54:52,0.013s,PASSED
+"verifyElementPropertyValue(Storeresponse, messageid, messageidvalue)",,,,2019-05-03 17:54:52,2019-05-03 17:54:52,0.011s,PASSED
+if (statuscode == 200),,,,2019-05-03 17:54:52,2019-05-03 17:54:52,0.000s,PASSED
+else,,,,2019-05-03 17:54:52,2019-05-03 17:54:52,0.000s,PASSED

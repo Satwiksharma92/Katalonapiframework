@@ -1,0 +1,14 @@
+Suite/Test/Step Name,Browser,Description,Tag,Start time,End time,Duration,Status
+FIt-test suite,,,,2019-05-14 15:29:44,2019-05-14 15:29:45,1.504s,ERROR
+,,,,,,,
+Test Cases/test,,,,2019-05-14 15:29:44,2019-05-14 15:29:44,0.305s,ERROR
+,,,,,,,
+Test Cases/test,,,,2019-05-14 15:29:44,2019-05-14 15:29:44,0.191s,ERROR
+,,,,,,,
+Test Cases/test,,,,2019-05-14 15:29:44,2019-05-14 15:29:44,0.227s,ERROR
+,,,,,,,
+Test Cases/test,,,,2019-05-14 15:29:44,2019-05-14 15:29:45,0.173s,ERROR
+,,,,,,,
+Test Cases/test,,,,2019-05-14 15:29:45,2019-05-14 15:29:45,0.185s,ERROR
+,,,,,,,
+Test Cases/test,,,,2019-05-14 15:29:45,2019-05-14 15:29:45,0.178s,ERROR

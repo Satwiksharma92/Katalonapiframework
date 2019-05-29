@@ -1,0 +1,9 @@
+Suite/Test/Step Name,Browser,Description,Tag,Start time,End time,Duration,Status
+FIt-test suite,,,,2019-05-03 17:02:48,2019-05-03 17:03:00,11.495s,PASSED
+,,,,,,,
+Test Cases/test,,,,2019-05-03 17:02:48,2019-05-03 17:03:00,11.234s,PASSED
+"Storeresponse = sendRequestAndVerify(findTestObject(""GLN Check - EOID"", [""gln"":glnparameter, ""urlforcheckeoid"":url, ""body"":body, ""methodforcall"":methodforcall]))",,,,2019-05-03 17:02:49,2019-05-03 17:03:00,10.696s,PASSED
+"verifyElementPropertyValue(Storeresponse, status, statuscode)",,,,2019-05-03 17:03:00,2019-05-03 17:03:00,0.054s,PASSED
+"verifyElementPropertyValue(Storeresponse, messageid, messageidvalue)",,,,2019-05-03 17:03:00,2019-05-03 17:03:00,0.016s,PASSED
+if (statuscode == 200),,,,2019-05-03 17:03:00,2019-05-03 17:03:00,0.000s,PASSED
+else,,,,2019-05-03 17:03:00,2019-05-03 17:03:00,0.000s,PASSED

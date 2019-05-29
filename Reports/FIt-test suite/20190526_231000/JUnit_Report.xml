@@ -1,0 +1,674 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuites name="FIt-test suite" time="102" tests="41" failures="0" errors="0">
+   <testsuite name="FIt-test suite" tests="41" failures="0" errors="0" time="102" timestamp="2019-05-26 23:10:10" hostname="Lavanya_DF - DESKTOP-T5KOPIL" id="Test Suites/FIt-test suite">
+      <properties>
+         <property name="deviceName" value=""/>
+         <property name="devicePlatform" value=""/>
+         <property name="logFolder" value="C:\\Users\\Lavanya_DF\\Downloads\\GS1 FIT\\GS1 FIT\\Reports\\FIt-test suite\\20190526_231000"/>
+         <property name="logFiles" value="C:\\Users\\Lavanya_DF\\Downloads\\GS1 FIT\\GS1 FIT\\Reports\\FIt-test suite\\20190526_231000\\execution0.log"/>
+         <property name="attachments" value=""/>
+         <property name="hostName" value="Lavanya_DF - DESKTOP-T5KOPIL"/>
+         <property name="hostAddress" value="192.168.32.103"/>
+         <property name="os" value="Windows 10 64bit"/>
+         <property name="katalonVersion" value="6.1.2.2"/>
+      </properties>
+      <testcase name="Test Cases/test" classname="Test Cases/test" status="PASSED">
+         <system-out><![CDATA[2019-05-26 23:10:10 - [TEST_CASE][PASSED] - Test Cases/test: Test Cases/test
+
+2019-05-26 23:10:11 - [TEST_STEP][PASSED] - if (methodforcall == "PUT"): Send request and verify the response successfully
+
+2019-05-26 23:10:11 - [TEST_STEP][PASSED] - Storeresponse2 = sendRequestAndVerify(findTestObject("GLN deregister - EOID", ["url":url, "methodforcall":methodforcall, "status":status, "statuscode":statuscode, "message":message, "messagevalue":messagevalue])): Send request and verify the response successfully
+
+2019-05-26 23:10:16 - [TEST_CASE][PASSED] - Start Test Case : Verification: Verification accomplished successfully
+
+2019-05-26 23:10:16 - [TEST_STEP][PASSED] - return null: null
+
+2019-05-26 23:10:16 - [MESSAGE][PASSED] - Verify response successfully
+
+2019-05-26 23:10:16 - [MESSAGE][PASSED] - Send request and verify the response successfully]]></system-out>
+         <system-err><![CDATA[]]></system-err>
+      </testcase>
+      <testcase name="Test Cases/test" classname="Test Cases/test" status="PASSED">
+         <system-out><![CDATA[2019-05-26 23:10:16 - [TEST_CASE][PASSED] - Test Cases/test: Test Cases/test
+
+2019-05-26 23:10:16 - [TEST_STEP][PASSED] - if (methodforcall == "PUT"): Send request and verify the response successfully
+
+2019-05-26 23:10:16 - [TEST_STEP][PASSED] - Storeresponse2 = sendRequestAndVerify(findTestObject("GLN deregister - EOID", ["url":url, "methodforcall":methodforcall, "status":status, "statuscode":statuscode, "message":message, "messagevalue":messagevalue])): Send request and verify the response successfully
+
+2019-05-26 23:10:19 - [TEST_CASE][PASSED] - Start Test Case : Verification: Verification accomplished successfully
+
+2019-05-26 23:10:20 - [TEST_STEP][PASSED] - return null: null
+
+2019-05-26 23:10:20 - [MESSAGE][PASSED] - Verify response successfully
+
+2019-05-26 23:10:20 - [MESSAGE][PASSED] - Send request and verify the response successfully]]></system-out>
+         <system-err><![CDATA[]]></system-err>
+      </testcase>
+      <testcase name="Test Cases/test" classname="Test Cases/test" status="PASSED">
+         <system-out><![CDATA[2019-05-26 23:10:20 - [TEST_CASE][PASSED] - Test Cases/test: Test Cases/test
+
+2019-05-26 23:10:20 - [TEST_STEP][PASSED] - if (methodforcall == "PUT"): Send request and verify the response successfully
+
+2019-05-26 23:10:20 - [TEST_STEP][PASSED] - Storeresponse2 = sendRequestAndVerify(findTestObject("GLN deregister - EOID", ["url":url, "methodforcall":methodforcall, "status":status, "statuscode":statuscode, "message":message, "messagevalue":messagevalue])): Send request and verify the response successfully
+
+2019-05-26 23:10:22 - [TEST_CASE][PASSED] - Start Test Case : Verification: Verification accomplished successfully
+
+2019-05-26 23:10:22 - [TEST_STEP][PASSED] - return null: null
+
+2019-05-26 23:10:22 - [MESSAGE][PASSED] - Verify response successfully
+
+2019-05-26 23:10:22 - [MESSAGE][PASSED] - Send request and verify the response successfully]]></system-out>
+         <system-err><![CDATA[]]></system-err>
+      </testcase>
+      <testcase name="Test Cases/test" classname="Test Cases/test" status="PASSED">
+         <system-out><![CDATA[2019-05-26 23:10:22 - [TEST_CASE][PASSED] - Test Cases/test: Test Cases/test
+
+2019-05-26 23:10:22 - [TEST_STEP][PASSED] - if (methodforcall == "PUT"): Send request and verify the response successfully
+
+2019-05-26 23:10:22 - [TEST_STEP][PASSED] - Storeresponse2 = sendRequestAndVerify(findTestObject("GLN deregister - EOID", ["url":url, "methodforcall":methodforcall, "status":status, "statuscode":statuscode, "message":message, "messagevalue":messagevalue])): Send request and verify the response successfully
+
+2019-05-26 23:10:26 - [TEST_CASE][PASSED] - Start Test Case : Verification: Verification accomplished successfully
+
+2019-05-26 23:10:26 - [TEST_STEP][PASSED] - return null: null
+
+2019-05-26 23:10:26 - [MESSAGE][PASSED] - Verify response successfully
+
+2019-05-26 23:10:26 - [MESSAGE][PASSED] - Send request and verify the response successfully]]></system-out>
+         <system-err><![CDATA[]]></system-err>
+      </testcase>
+      <testcase name="Test Cases/test" classname="Test Cases/test" status="PASSED">
+         <system-out><![CDATA[2019-05-26 23:10:26 - [TEST_CASE][PASSED] - Test Cases/test: Test Cases/test
+
+2019-05-26 23:10:26 - [TEST_STEP][PASSED] - if (methodforcall == "PUT"): Send request and verify the response successfully
+
+2019-05-26 23:10:26 - [TEST_STEP][PASSED] - Storeresponse2 = sendRequestAndVerify(findTestObject("GLN deregister - EOID", ["url":url, "methodforcall":methodforcall, "status":status, "statuscode":statuscode, "message":message, "messagevalue":messagevalue])): Send request and verify the response successfully
+
+2019-05-26 23:10:29 - [TEST_CASE][PASSED] - Start Test Case : Verification: Verification accomplished successfully
+
+2019-05-26 23:10:29 - [TEST_STEP][PASSED] - return null: null
+
+2019-05-26 23:10:29 - [MESSAGE][PASSED] - Verify response successfully
+
+2019-05-26 23:10:29 - [MESSAGE][PASSED] - Send request and verify the response successfully]]></system-out>
+         <system-err><![CDATA[]]></system-err>
+      </testcase>
+      <testcase name="Test Cases/test" classname="Test Cases/test" status="PASSED">
+         <system-out><![CDATA[2019-05-26 23:10:29 - [TEST_CASE][PASSED] - Test Cases/test: Test Cases/test
+
+2019-05-26 23:10:29 - [TEST_STEP][PASSED] - if (methodforcall == "PUT"): Send request and verify the response successfully
+
+2019-05-26 23:10:29 - [TEST_STEP][PASSED] - Storeresponse2 = sendRequestAndVerify(findTestObject("GLN deregister - EOID", ["url":url, "methodforcall":methodforcall, "status":status, "statuscode":statuscode, "message":message, "messagevalue":messagevalue])): Send request and verify the response successfully
+
+2019-05-26 23:10:32 - [TEST_CASE][PASSED] - Start Test Case : Verification: Verification accomplished successfully
+
+2019-05-26 23:10:32 - [TEST_STEP][PASSED] - return null: null
+
+2019-05-26 23:10:32 - [MESSAGE][PASSED] - Verify response successfully
+
+2019-05-26 23:10:32 - [MESSAGE][PASSED] - Send request and verify the response successfully]]></system-out>
+         <system-err><![CDATA[]]></system-err>
+      </testcase>
+      <testcase name="Test Cases/test" classname="Test Cases/test" status="PASSED">
+         <system-out><![CDATA[2019-05-26 23:10:32 - [TEST_CASE][PASSED] - Test Cases/test: Test Cases/test
+
+2019-05-26 23:10:32 - [TEST_STEP][PASSED] - if (methodforcall == "PUT"): Send request and verify the response successfully
+
+2019-05-26 23:10:32 - [TEST_STEP][PASSED] - Storeresponse2 = sendRequestAndVerify(findTestObject("GLN deregister - EOID", ["url":url, "methodforcall":methodforcall, "status":status, "statuscode":statuscode, "message":message, "messagevalue":messagevalue])): Send request and verify the response successfully
+
+2019-05-26 23:10:35 - [TEST_CASE][PASSED] - Start Test Case : Verification: Verification accomplished successfully
+
+2019-05-26 23:10:35 - [TEST_STEP][PASSED] - return null: null
+
+2019-05-26 23:10:35 - [MESSAGE][PASSED] - Verify response successfully
+
+2019-05-26 23:10:35 - [MESSAGE][PASSED] - Send request and verify the response successfully]]></system-out>
+         <system-err><![CDATA[]]></system-err>
+      </testcase>
+      <testcase name="Test Cases/test" classname="Test Cases/test" status="PASSED">
+         <system-out><![CDATA[2019-05-26 23:10:35 - [TEST_CASE][PASSED] - Test Cases/test: Test Cases/test
+
+2019-05-26 23:10:35 - [TEST_STEP][PASSED] - if (methodforcall == "PUT"): Send request and verify the response successfully
+
+2019-05-26 23:10:35 - [TEST_STEP][PASSED] - Storeresponse2 = sendRequestAndVerify(findTestObject("GLN deregister - EOID", ["url":url, "methodforcall":methodforcall, "status":status, "statuscode":statuscode, "message":message, "messagevalue":messagevalue])): Send request and verify the response successfully
+
+2019-05-26 23:10:38 - [TEST_CASE][PASSED] - Start Test Case : Verification: Verification accomplished successfully
+
+2019-05-26 23:10:38 - [TEST_STEP][PASSED] - return null: null
+
+2019-05-26 23:10:38 - [MESSAGE][PASSED] - Verify response successfully
+
+2019-05-26 23:10:38 - [MESSAGE][PASSED] - Send request and verify the response successfully]]></system-out>
+         <system-err><![CDATA[]]></system-err>
+      </testcase>
+      <testcase name="Test Cases/test" classname="Test Cases/test" status="PASSED">
+         <system-out><![CDATA[2019-05-26 23:10:38 - [TEST_CASE][PASSED] - Test Cases/test: Test Cases/test
+
+2019-05-26 23:10:38 - [TEST_STEP][PASSED] - if (methodforcall == "PUT"): Send request and verify the response successfully
+
+2019-05-26 23:10:38 - [TEST_STEP][PASSED] - Storeresponse2 = sendRequestAndVerify(findTestObject("GLN deregister - EOID", ["url":url, "methodforcall":methodforcall, "status":status, "statuscode":statuscode, "message":message, "messagevalue":messagevalue])): Send request and verify the response successfully
+
+2019-05-26 23:10:41 - [TEST_CASE][PASSED] - Start Test Case : Verification: Verification accomplished successfully
+
+2019-05-26 23:10:41 - [TEST_STEP][PASSED] - return null: null
+
+2019-05-26 23:10:41 - [MESSAGE][PASSED] - Verify response successfully
+
+2019-05-26 23:10:41 - [MESSAGE][PASSED] - Send request and verify the response successfully]]></system-out>
+         <system-err><![CDATA[]]></system-err>
+      </testcase>
+      <testcase name="Test Cases/test" classname="Test Cases/test" status="PASSED">
+         <system-out><![CDATA[2019-05-26 23:10:41 - [TEST_CASE][PASSED] - Test Cases/test: Test Cases/test
+
+2019-05-26 23:10:41 - [TEST_STEP][PASSED] - if (methodforcall == "PUT"): Send request and verify the response successfully
+
+2019-05-26 23:10:41 - [TEST_STEP][PASSED] - Storeresponse2 = sendRequestAndVerify(findTestObject("GLN deregister - EOID", ["url":url, "methodforcall":methodforcall, "status":status, "statuscode":statuscode, "message":message, "messagevalue":messagevalue])): Send request and verify the response successfully
+
+2019-05-26 23:10:43 - [TEST_CASE][PASSED] - Start Test Case : Verification: Verification accomplished successfully
+
+2019-05-26 23:10:43 - [TEST_STEP][PASSED] - return null: null
+
+2019-05-26 23:10:43 - [MESSAGE][PASSED] - Verify response successfully
+
+2019-05-26 23:10:43 - [MESSAGE][PASSED] - Send request and verify the response successfully]]></system-out>
+         <system-err><![CDATA[]]></system-err>
+      </testcase>
+      <testcase name="Test Cases/test" classname="Test Cases/test" status="PASSED">
+         <system-out><![CDATA[2019-05-26 23:10:43 - [TEST_CASE][PASSED] - Test Cases/test: Test Cases/test
+
+2019-05-26 23:10:43 - [TEST_STEP][PASSED] - if (methodforcall == "PUT"): Send request and verify the response successfully
+
+2019-05-26 23:10:43 - [TEST_STEP][PASSED] - Storeresponse2 = sendRequestAndVerify(findTestObject("GLN deregister - EOID", ["url":url, "methodforcall":methodforcall, "status":status, "statuscode":statuscode, "message":message, "messagevalue":messagevalue])): Send request and verify the response successfully
+
+2019-05-26 23:10:45 - [TEST_CASE][PASSED] - Start Test Case : Verification: Verification accomplished successfully
+
+2019-05-26 23:10:45 - [TEST_STEP][PASSED] - return null: null
+
+2019-05-26 23:10:45 - [MESSAGE][PASSED] - Verify response successfully
+
+2019-05-26 23:10:45 - [MESSAGE][PASSED] - Send request and verify the response successfully]]></system-out>
+         <system-err><![CDATA[]]></system-err>
+      </testcase>
+      <testcase name="Test Cases/test" classname="Test Cases/test" status="PASSED">
+         <system-out><![CDATA[2019-05-26 23:10:45 - [TEST_CASE][PASSED] - Test Cases/test: Test Cases/test
+
+2019-05-26 23:10:45 - [TEST_STEP][PASSED] - if (methodforcall == "PUT"): Send request and verify the response successfully
+
+2019-05-26 23:10:45 - [TEST_STEP][PASSED] - Storeresponse2 = sendRequestAndVerify(findTestObject("GLN deregister - EOID", ["url":url, "methodforcall":methodforcall, "status":status, "statuscode":statuscode, "message":message, "messagevalue":messagevalue])): Send request and verify the response successfully
+
+2019-05-26 23:10:47 - [TEST_CASE][PASSED] - Start Test Case : Verification: Verification accomplished successfully
+
+2019-05-26 23:10:47 - [TEST_STEP][PASSED] - return null: null
+
+2019-05-26 23:10:47 - [MESSAGE][PASSED] - Verify response successfully
+
+2019-05-26 23:10:47 - [MESSAGE][PASSED] - Send request and verify the response successfully]]></system-out>
+         <system-err><![CDATA[]]></system-err>
+      </testcase>
+      <testcase name="Test Cases/test" classname="Test Cases/test" status="PASSED">
+         <system-out><![CDATA[2019-05-26 23:10:47 - [TEST_CASE][PASSED] - Test Cases/test: Test Cases/test
+
+2019-05-26 23:10:47 - [TEST_STEP][PASSED] - if (methodforcall == "PUT"): Send request and verify the response successfully
+
+2019-05-26 23:10:47 - [TEST_STEP][PASSED] - Storeresponse2 = sendRequestAndVerify(findTestObject("GLN deregister - EOID", ["url":url, "methodforcall":methodforcall, "status":status, "statuscode":statuscode, "message":message, "messagevalue":messagevalue])): Send request and verify the response successfully
+
+2019-05-26 23:10:49 - [TEST_CASE][PASSED] - Start Test Case : Verification: Verification accomplished successfully
+
+2019-05-26 23:10:49 - [TEST_STEP][PASSED] - return null: null
+
+2019-05-26 23:10:49 - [MESSAGE][PASSED] - Verify response successfully
+
+2019-05-26 23:10:49 - [MESSAGE][PASSED] - Send request and verify the response successfully]]></system-out>
+         <system-err><![CDATA[]]></system-err>
+      </testcase>
+      <testcase name="Test Cases/test" classname="Test Cases/test" status="PASSED">
+         <system-out><![CDATA[2019-05-26 23:10:49 - [TEST_CASE][PASSED] - Test Cases/test: Test Cases/test
+
+2019-05-26 23:10:49 - [TEST_STEP][PASSED] - if (methodforcall == "PUT"): Send request and verify the response successfully
+
+2019-05-26 23:10:49 - [TEST_STEP][PASSED] - Storeresponse2 = sendRequestAndVerify(findTestObject("GLN deregister - EOID", ["url":url, "methodforcall":methodforcall, "status":status, "statuscode":statuscode, "message":message, "messagevalue":messagevalue])): Send request and verify the response successfully
+
+2019-05-26 23:10:52 - [TEST_CASE][PASSED] - Start Test Case : Verification: Verification accomplished successfully
+
+2019-05-26 23:10:52 - [TEST_STEP][PASSED] - return null: null
+
+2019-05-26 23:10:52 - [MESSAGE][PASSED] - Verify response successfully
+
+2019-05-26 23:10:52 - [MESSAGE][PASSED] - Send request and verify the response successfully]]></system-out>
+         <system-err><![CDATA[]]></system-err>
+      </testcase>
+      <testcase name="Test Cases/test" classname="Test Cases/test" status="PASSED">
+         <system-out><![CDATA[2019-05-26 23:10:52 - [TEST_CASE][PASSED] - Test Cases/test: Test Cases/test
+
+2019-05-26 23:10:52 - [TEST_STEP][PASSED] - if (methodforcall == "PUT"): Send request and verify the response successfully
+
+2019-05-26 23:10:52 - [TEST_STEP][PASSED] - Storeresponse2 = sendRequestAndVerify(findTestObject("GLN deregister - EOID", ["url":url, "methodforcall":methodforcall, "status":status, "statuscode":statuscode, "message":message, "messagevalue":messagevalue])): Send request and verify the response successfully
+
+2019-05-26 23:10:53 - [TEST_CASE][PASSED] - Start Test Case : Verification: Verification accomplished successfully
+
+2019-05-26 23:10:54 - [TEST_STEP][PASSED] - return null: null
+
+2019-05-26 23:10:54 - [MESSAGE][PASSED] - Verify response successfully
+
+2019-05-26 23:10:54 - [MESSAGE][PASSED] - Send request and verify the response successfully]]></system-out>
+         <system-err><![CDATA[]]></system-err>
+      </testcase>
+      <testcase name="Test Cases/test" classname="Test Cases/test" status="PASSED">
+         <system-out><![CDATA[2019-05-26 23:10:54 - [TEST_CASE][PASSED] - Test Cases/test: Test Cases/test
+
+2019-05-26 23:10:54 - [TEST_STEP][PASSED] - if (methodforcall == "PUT"): Send request and verify the response successfully
+
+2019-05-26 23:10:54 - [TEST_STEP][PASSED] - Storeresponse2 = sendRequestAndVerify(findTestObject("GLN deregister - EOID", ["url":url, "methodforcall":methodforcall, "status":status, "statuscode":statuscode, "message":message, "messagevalue":messagevalue])): Send request and verify the response successfully
+
+2019-05-26 23:10:56 - [TEST_CASE][PASSED] - Start Test Case : Verification: Verification accomplished successfully
+
+2019-05-26 23:10:56 - [TEST_STEP][PASSED] - return null: null
+
+2019-05-26 23:10:56 - [MESSAGE][PASSED] - Verify response successfully
+
+2019-05-26 23:10:56 - [MESSAGE][PASSED] - Send request and verify the response successfully]]></system-out>
+         <system-err><![CDATA[]]></system-err>
+      </testcase>
+      <testcase name="Test Cases/test" classname="Test Cases/test" status="PASSED">
+         <system-out><![CDATA[2019-05-26 23:10:56 - [TEST_CASE][PASSED] - Test Cases/test: Test Cases/test
+
+2019-05-26 23:10:56 - [TEST_STEP][PASSED] - if (methodforcall == "PUT"): Send request and verify the response successfully
+
+2019-05-26 23:10:56 - [TEST_STEP][PASSED] - Storeresponse2 = sendRequestAndVerify(findTestObject("GLN deregister - EOID", ["url":url, "methodforcall":methodforcall, "status":status, "statuscode":statuscode, "message":message, "messagevalue":messagevalue])): Send request and verify the response successfully
+
+2019-05-26 23:10:57 - [TEST_CASE][PASSED] - Start Test Case : Verification: Verification accomplished successfully
+
+2019-05-26 23:10:57 - [TEST_STEP][PASSED] - return null: null
+
+2019-05-26 23:10:57 - [MESSAGE][PASSED] - Verify response successfully
+
+2019-05-26 23:10:57 - [MESSAGE][PASSED] - Send request and verify the response successfully]]></system-out>
+         <system-err><![CDATA[]]></system-err>
+      </testcase>
+      <testcase name="Test Cases/test" classname="Test Cases/test" status="PASSED">
+         <system-out><![CDATA[2019-05-26 23:10:57 - [TEST_CASE][PASSED] - Test Cases/test: Test Cases/test
+
+2019-05-26 23:10:57 - [TEST_STEP][PASSED] - if (methodforcall == "PUT"): Send request and verify the response successfully
+
+2019-05-26 23:10:57 - [TEST_STEP][PASSED] - Storeresponse2 = sendRequestAndVerify(findTestObject("GLN deregister - EOID", ["url":url, "methodforcall":methodforcall, "status":status, "statuscode":statuscode, "message":message, "messagevalue":messagevalue])): Send request and verify the response successfully
+
+2019-05-26 23:10:59 - [TEST_CASE][PASSED] - Start Test Case : Verification: Verification accomplished successfully
+
+2019-05-26 23:10:59 - [TEST_STEP][PASSED] - return null: null
+
+2019-05-26 23:10:59 - [MESSAGE][PASSED] - Verify response successfully
+
+2019-05-26 23:10:59 - [MESSAGE][PASSED] - Send request and verify the response successfully]]></system-out>
+         <system-err><![CDATA[]]></system-err>
+      </testcase>
+      <testcase name="Test Cases/test" classname="Test Cases/test" status="PASSED">
+         <system-out><![CDATA[2019-05-26 23:10:59 - [TEST_CASE][PASSED] - Test Cases/test: Test Cases/test
+
+2019-05-26 23:10:59 - [TEST_STEP][PASSED] - if (methodforcall == "PUT"): Send request and verify the response successfully
+
+2019-05-26 23:10:59 - [TEST_STEP][PASSED] - Storeresponse2 = sendRequestAndVerify(findTestObject("GLN deregister - EOID", ["url":url, "methodforcall":methodforcall, "status":status, "statuscode":statuscode, "message":message, "messagevalue":messagevalue])): Send request and verify the response successfully
+
+2019-05-26 23:11:01 - [TEST_CASE][PASSED] - Start Test Case : Verification: Verification accomplished successfully
+
+2019-05-26 23:11:02 - [TEST_STEP][PASSED] - return null: null
+
+2019-05-26 23:11:02 - [MESSAGE][PASSED] - Verify response successfully
+
+2019-05-26 23:11:02 - [MESSAGE][PASSED] - Send request and verify the response successfully]]></system-out>
+         <system-err><![CDATA[]]></system-err>
+      </testcase>
+      <testcase name="Test Cases/test" classname="Test Cases/test" status="PASSED">
+         <system-out><![CDATA[2019-05-26 23:11:02 - [TEST_CASE][PASSED] - Test Cases/test: Test Cases/test
+
+2019-05-26 23:11:02 - [TEST_STEP][PASSED] - if (methodforcall == "PUT"): Send request and verify the response successfully
+
+2019-05-26 23:11:02 - [TEST_STEP][PASSED] - Storeresponse2 = sendRequestAndVerify(findTestObject("GLN deregister - EOID", ["url":url, "methodforcall":methodforcall, "status":status, "statuscode":statuscode, "message":message, "messagevalue":messagevalue])): Send request and verify the response successfully
+
+2019-05-26 23:11:03 - [TEST_CASE][PASSED] - Start Test Case : Verification: Verification accomplished successfully
+
+2019-05-26 23:11:03 - [TEST_STEP][PASSED] - return null: null
+
+2019-05-26 23:11:03 - [MESSAGE][PASSED] - Verify response successfully
+
+2019-05-26 23:11:03 - [MESSAGE][PASSED] - Send request and verify the response successfully]]></system-out>
+         <system-err><![CDATA[]]></system-err>
+      </testcase>
+      <testcase name="Test Cases/test" classname="Test Cases/test" status="PASSED">
+         <system-out><![CDATA[2019-05-26 23:11:03 - [TEST_CASE][PASSED] - Test Cases/test: Test Cases/test
+
+2019-05-26 23:11:03 - [TEST_STEP][PASSED] - if (methodforcall == "PUT"): Send request and verify the response successfully
+
+2019-05-26 23:11:03 - [TEST_STEP][PASSED] - Storeresponse2 = sendRequestAndVerify(findTestObject("GLN deregister - EOID", ["url":url, "methodforcall":methodforcall, "status":status, "statuscode":statuscode, "message":message, "messagevalue":messagevalue])): Send request and verify the response successfully
+
+2019-05-26 23:11:05 - [TEST_CASE][PASSED] - Start Test Case : Verification: Verification accomplished successfully
+
+2019-05-26 23:11:05 - [TEST_STEP][PASSED] - return null: null
+
+2019-05-26 23:11:05 - [MESSAGE][PASSED] - Verify response successfully
+
+2019-05-26 23:11:05 - [MESSAGE][PASSED] - Send request and verify the response successfully]]></system-out>
+         <system-err><![CDATA[]]></system-err>
+      </testcase>
+      <testcase name="Test Cases/test" classname="Test Cases/test" status="PASSED">
+         <system-out><![CDATA[2019-05-26 23:11:05 - [TEST_CASE][PASSED] - Test Cases/test: Test Cases/test
+
+2019-05-26 23:11:05 - [TEST_STEP][PASSED] - if (methodforcall == "PUT"): Send request and verify the response successfully
+
+2019-05-26 23:11:05 - [TEST_STEP][PASSED] - Storeresponse2 = sendRequestAndVerify(findTestObject("GLN deregister - EOID", ["url":url, "methodforcall":methodforcall, "status":status, "statuscode":statuscode, "message":message, "messagevalue":messagevalue])): Send request and verify the response successfully
+
+2019-05-26 23:11:07 - [TEST_CASE][PASSED] - Start Test Case : Verification: Verification accomplished successfully
+
+2019-05-26 23:11:08 - [TEST_STEP][PASSED] - return null: null
+
+2019-05-26 23:11:08 - [MESSAGE][PASSED] - Verify response successfully
+
+2019-05-26 23:11:08 - [MESSAGE][PASSED] - Send request and verify the response successfully]]></system-out>
+         <system-err><![CDATA[]]></system-err>
+      </testcase>
+      <testcase name="Test Cases/test" classname="Test Cases/test" status="PASSED">
+         <system-out><![CDATA[2019-05-26 23:11:08 - [TEST_CASE][PASSED] - Test Cases/test: Test Cases/test
+
+2019-05-26 23:11:08 - [TEST_STEP][PASSED] - if (methodforcall == "PUT"): Send request and verify the response successfully
+
+2019-05-26 23:11:08 - [TEST_STEP][PASSED] - Storeresponse2 = sendRequestAndVerify(findTestObject("GLN deregister - EOID", ["url":url, "methodforcall":methodforcall, "status":status, "statuscode":statuscode, "message":message, "messagevalue":messagevalue])): Send request and verify the response successfully
+
+2019-05-26 23:11:09 - [TEST_CASE][PASSED] - Start Test Case : Verification: Verification accomplished successfully
+
+2019-05-26 23:11:09 - [TEST_STEP][PASSED] - return null: null
+
+2019-05-26 23:11:09 - [MESSAGE][PASSED] - Verify response successfully
+
+2019-05-26 23:11:09 - [MESSAGE][PASSED] - Send request and verify the response successfully]]></system-out>
+         <system-err><![CDATA[]]></system-err>
+      </testcase>
+      <testcase name="Test Cases/test" classname="Test Cases/test" status="PASSED">
+         <system-out><![CDATA[2019-05-26 23:11:09 - [TEST_CASE][PASSED] - Test Cases/test: Test Cases/test
+
+2019-05-26 23:11:09 - [TEST_STEP][PASSED] - if (methodforcall == "PUT"): Send request and verify the response successfully
+
+2019-05-26 23:11:09 - [TEST_STEP][PASSED] - Storeresponse2 = sendRequestAndVerify(findTestObject("GLN deregister - EOID", ["url":url, "methodforcall":methodforcall, "status":status, "statuscode":statuscode, "message":message, "messagevalue":messagevalue])): Send request and verify the response successfully
+
+2019-05-26 23:11:11 - [TEST_CASE][PASSED] - Start Test Case : Verification: Verification accomplished successfully
+
+2019-05-26 23:11:11 - [TEST_STEP][PASSED] - return null: null
+
+2019-05-26 23:11:11 - [MESSAGE][PASSED] - Verify response successfully
+
+2019-05-26 23:11:11 - [MESSAGE][PASSED] - Send request and verify the response successfully]]></system-out>
+         <system-err><![CDATA[]]></system-err>
+      </testcase>
+      <testcase name="Test Cases/test" classname="Test Cases/test" status="PASSED">
+         <system-out><![CDATA[2019-05-26 23:11:11 - [TEST_CASE][PASSED] - Test Cases/test: Test Cases/test
+
+2019-05-26 23:11:11 - [TEST_STEP][PASSED] - if (methodforcall == "PUT"): Send request and verify the response successfully
+
+2019-05-26 23:11:11 - [TEST_STEP][PASSED] - Storeresponse2 = sendRequestAndVerify(findTestObject("GLN deregister - EOID", ["url":url, "methodforcall":methodforcall, "status":status, "statuscode":statuscode, "message":message, "messagevalue":messagevalue])): Send request and verify the response successfully
+
+2019-05-26 23:11:17 - [TEST_CASE][PASSED] - Start Test Case : Verification: Verification accomplished successfully
+
+2019-05-26 23:11:17 - [TEST_STEP][PASSED] - return null: null
+
+2019-05-26 23:11:17 - [MESSAGE][PASSED] - Verify response successfully
+
+2019-05-26 23:11:17 - [MESSAGE][PASSED] - Send request and verify the response successfully]]></system-out>
+         <system-err><![CDATA[]]></system-err>
+      </testcase>
+      <testcase name="Test Cases/test" classname="Test Cases/test" status="PASSED">
+         <system-out><![CDATA[2019-05-26 23:11:17 - [TEST_CASE][PASSED] - Test Cases/test: Test Cases/test
+
+2019-05-26 23:11:17 - [TEST_STEP][PASSED] - if (methodforcall == "PUT"): Send request and verify the response successfully
+
+2019-05-26 23:11:17 - [TEST_STEP][PASSED] - Storeresponse2 = sendRequestAndVerify(findTestObject("GLN deregister - EOID", ["url":url, "methodforcall":methodforcall, "status":status, "statuscode":statuscode, "message":message, "messagevalue":messagevalue])): Send request and verify the response successfully
+
+2019-05-26 23:11:18 - [TEST_CASE][PASSED] - Start Test Case : Verification: Verification accomplished successfully
+
+2019-05-26 23:11:18 - [TEST_STEP][PASSED] - return null: null
+
+2019-05-26 23:11:18 - [MESSAGE][PASSED] - Verify response successfully
+
+2019-05-26 23:11:18 - [MESSAGE][PASSED] - Send request and verify the response successfully]]></system-out>
+         <system-err><![CDATA[]]></system-err>
+      </testcase>
+      <testcase name="Test Cases/test" classname="Test Cases/test" status="PASSED">
+         <system-out><![CDATA[2019-05-26 23:11:18 - [TEST_CASE][PASSED] - Test Cases/test: Test Cases/test
+
+2019-05-26 23:11:18 - [TEST_STEP][PASSED] - if (methodforcall == "PUT"): Send request and verify the response successfully
+
+2019-05-26 23:11:18 - [TEST_STEP][PASSED] - Storeresponse2 = sendRequestAndVerify(findTestObject("GLN deregister - EOID", ["url":url, "methodforcall":methodforcall, "status":status, "statuscode":statuscode, "message":message, "messagevalue":messagevalue])): Send request and verify the response successfully
+
+2019-05-26 23:11:20 - [TEST_CASE][PASSED] - Start Test Case : Verification: Verification accomplished successfully
+
+2019-05-26 23:11:20 - [TEST_STEP][PASSED] - return null: null
+
+2019-05-26 23:11:20 - [MESSAGE][PASSED] - Verify response successfully
+
+2019-05-26 23:11:20 - [MESSAGE][PASSED] - Send request and verify the response successfully]]></system-out>
+         <system-err><![CDATA[]]></system-err>
+      </testcase>
+      <testcase name="Test Cases/test" classname="Test Cases/test" status="PASSED">
+         <system-out><![CDATA[2019-05-26 23:11:20 - [TEST_CASE][PASSED] - Test Cases/test: Test Cases/test
+
+2019-05-26 23:11:20 - [TEST_STEP][PASSED] - if (methodforcall == "PUT"): Send request and verify the response successfully
+
+2019-05-26 23:11:20 - [TEST_STEP][PASSED] - Storeresponse2 = sendRequestAndVerify(findTestObject("GLN deregister - EOID", ["url":url, "methodforcall":methodforcall, "status":status, "statuscode":statuscode, "message":message, "messagevalue":messagevalue])): Send request and verify the response successfully
+
+2019-05-26 23:11:22 - [TEST_CASE][PASSED] - Start Test Case : Verification: Verification accomplished successfully
+
+2019-05-26 23:11:22 - [TEST_STEP][PASSED] - return null: null
+
+2019-05-26 23:11:22 - [MESSAGE][PASSED] - Verify response successfully
+
+2019-05-26 23:11:22 - [MESSAGE][PASSED] - Send request and verify the response successfully]]></system-out>
+         <system-err><![CDATA[]]></system-err>
+      </testcase>
+      <testcase name="Test Cases/test" classname="Test Cases/test" status="PASSED">
+         <system-out><![CDATA[2019-05-26 23:11:22 - [TEST_CASE][PASSED] - Test Cases/test: Test Cases/test
+
+2019-05-26 23:11:22 - [TEST_STEP][PASSED] - if (methodforcall == "PUT"): Send request and verify the response successfully
+
+2019-05-26 23:11:22 - [TEST_STEP][PASSED] - Storeresponse2 = sendRequestAndVerify(findTestObject("GLN deregister - EOID", ["url":url, "methodforcall":methodforcall, "status":status, "statuscode":statuscode, "message":message, "messagevalue":messagevalue])): Send request and verify the response successfully
+
+2019-05-26 23:11:24 - [TEST_CASE][PASSED] - Start Test Case : Verification: Verification accomplished successfully
+
+2019-05-26 23:11:24 - [TEST_STEP][PASSED] - return null: null
+
+2019-05-26 23:11:24 - [MESSAGE][PASSED] - Verify response successfully
+
+2019-05-26 23:11:24 - [MESSAGE][PASSED] - Send request and verify the response successfully]]></system-out>
+         <system-err><![CDATA[]]></system-err>
+      </testcase>
+      <testcase name="Test Cases/test" classname="Test Cases/test" status="PASSED">
+         <system-out><![CDATA[2019-05-26 23:11:24 - [TEST_CASE][PASSED] - Test Cases/test: Test Cases/test
+
+2019-05-26 23:11:24 - [TEST_STEP][PASSED] - if (methodforcall == "PUT"): Send request and verify the response successfully
+
+2019-05-26 23:11:24 - [TEST_STEP][PASSED] - Storeresponse2 = sendRequestAndVerify(findTestObject("GLN deregister - EOID", ["url":url, "methodforcall":methodforcall, "status":status, "statuscode":statuscode, "message":message, "messagevalue":messagevalue])): Send request and verify the response successfully
+
+2019-05-26 23:11:26 - [TEST_CASE][PASSED] - Start Test Case : Verification: Verification accomplished successfully
+
+2019-05-26 23:11:26 - [TEST_STEP][PASSED] - return null: null
+
+2019-05-26 23:11:26 - [MESSAGE][PASSED] - Verify response successfully
+
+2019-05-26 23:11:26 - [MESSAGE][PASSED] - Send request and verify the response successfully]]></system-out>
+         <system-err><![CDATA[]]></system-err>
+      </testcase>
+      <testcase name="Test Cases/test" classname="Test Cases/test" status="PASSED">
+         <system-out><![CDATA[2019-05-26 23:11:26 - [TEST_CASE][PASSED] - Test Cases/test: Test Cases/test
+
+2019-05-26 23:11:26 - [TEST_STEP][PASSED] - if (methodforcall == "PUT"): Send request and verify the response successfully
+
+2019-05-26 23:11:26 - [TEST_STEP][PASSED] - Storeresponse2 = sendRequestAndVerify(findTestObject("GLN deregister - EOID", ["url":url, "methodforcall":methodforcall, "status":status, "statuscode":statuscode, "message":message, "messagevalue":messagevalue])): Send request and verify the response successfully
+
+2019-05-26 23:11:28 - [TEST_CASE][PASSED] - Start Test Case : Verification: Verification accomplished successfully
+
+2019-05-26 23:11:28 - [TEST_STEP][PASSED] - return null: null
+
+2019-05-26 23:11:28 - [MESSAGE][PASSED] - Verify response successfully
+
+2019-05-26 23:11:28 - [MESSAGE][PASSED] - Send request and verify the response successfully]]></system-out>
+         <system-err><![CDATA[]]></system-err>
+      </testcase>
+      <testcase name="Test Cases/test" classname="Test Cases/test" status="PASSED">
+         <system-out><![CDATA[2019-05-26 23:11:28 - [TEST_CASE][PASSED] - Test Cases/test: Test Cases/test
+
+2019-05-26 23:11:28 - [TEST_STEP][PASSED] - if (methodforcall == "PUT"): Send request and verify the response successfully
+
+2019-05-26 23:11:28 - [TEST_STEP][PASSED] - Storeresponse2 = sendRequestAndVerify(findTestObject("GLN deregister - EOID", ["url":url, "methodforcall":methodforcall, "status":status, "statuscode":statuscode, "message":message, "messagevalue":messagevalue])): Send request and verify the response successfully
+
+2019-05-26 23:11:30 - [TEST_CASE][PASSED] - Start Test Case : Verification: Verification accomplished successfully
+
+2019-05-26 23:11:30 - [TEST_STEP][PASSED] - return null: null
+
+2019-05-26 23:11:30 - [MESSAGE][PASSED] - Verify response successfully
+
+2019-05-26 23:11:30 - [MESSAGE][PASSED] - Send request and verify the response successfully]]></system-out>
+         <system-err><![CDATA[]]></system-err>
+      </testcase>
+      <testcase name="Test Cases/test" classname="Test Cases/test" status="PASSED">
+         <system-out><![CDATA[2019-05-26 23:11:30 - [TEST_CASE][PASSED] - Test Cases/test: Test Cases/test
+
+2019-05-26 23:11:30 - [TEST_STEP][PASSED] - if (methodforcall == "PUT"): Send request and verify the response successfully
+
+2019-05-26 23:11:30 - [TEST_STEP][PASSED] - Storeresponse2 = sendRequestAndVerify(findTestObject("GLN deregister - EOID", ["url":url, "methodforcall":methodforcall, "status":status, "statuscode":statuscode, "message":message, "messagevalue":messagevalue])): Send request and verify the response successfully
+
+2019-05-26 23:11:32 - [TEST_CASE][PASSED] - Start Test Case : Verification: Verification accomplished successfully
+
+2019-05-26 23:11:32 - [TEST_STEP][PASSED] - return null: null
+
+2019-05-26 23:11:32 - [MESSAGE][PASSED] - Verify response successfully
+
+2019-05-26 23:11:32 - [MESSAGE][PASSED] - Send request and verify the response successfully]]></system-out>
+         <system-err><![CDATA[]]></system-err>
+      </testcase>
+      <testcase name="Test Cases/test" classname="Test Cases/test" status="PASSED">
+         <system-out><![CDATA[2019-05-26 23:11:32 - [TEST_CASE][PASSED] - Test Cases/test: Test Cases/test
+
+2019-05-26 23:11:32 - [TEST_STEP][PASSED] - if (methodforcall == "PUT"): Send request and verify the response successfully
+
+2019-05-26 23:11:32 - [TEST_STEP][PASSED] - Storeresponse2 = sendRequestAndVerify(findTestObject("GLN deregister - EOID", ["url":url, "methodforcall":methodforcall, "status":status, "statuscode":statuscode, "message":message, "messagevalue":messagevalue])): Send request and verify the response successfully
+
+2019-05-26 23:11:34 - [TEST_CASE][PASSED] - Start Test Case : Verification: Verification accomplished successfully
+
+2019-05-26 23:11:34 - [TEST_STEP][PASSED] - return null: null
+
+2019-05-26 23:11:34 - [MESSAGE][PASSED] - Verify response successfully
+
+2019-05-26 23:11:34 - [MESSAGE][PASSED] - Send request and verify the response successfully]]></system-out>
+         <system-err><![CDATA[]]></system-err>
+      </testcase>
+      <testcase name="Test Cases/test" classname="Test Cases/test" status="PASSED">
+         <system-out><![CDATA[2019-05-26 23:11:34 - [TEST_CASE][PASSED] - Test Cases/test: Test Cases/test
+
+2019-05-26 23:11:34 - [TEST_STEP][PASSED] - if (methodforcall == "PUT"): Send request and verify the response successfully
+
+2019-05-26 23:11:34 - [TEST_STEP][PASSED] - Storeresponse2 = sendRequestAndVerify(findTestObject("GLN deregister - EOID", ["url":url, "methodforcall":methodforcall, "status":status, "statuscode":statuscode, "message":message, "messagevalue":messagevalue])): Send request and verify the response successfully
+
+2019-05-26 23:11:36 - [TEST_CASE][PASSED] - Start Test Case : Verification: Verification accomplished successfully
+
+2019-05-26 23:11:37 - [TEST_STEP][PASSED] - return null: null
+
+2019-05-26 23:11:37 - [MESSAGE][PASSED] - Verify response successfully
+
+2019-05-26 23:11:37 - [MESSAGE][PASSED] - Send request and verify the response successfully]]></system-out>
+         <system-err><![CDATA[]]></system-err>
+      </testcase>
+      <testcase name="Test Cases/test" classname="Test Cases/test" status="PASSED">
+         <system-out><![CDATA[2019-05-26 23:11:37 - [TEST_CASE][PASSED] - Test Cases/test: Test Cases/test
+
+2019-05-26 23:11:37 - [TEST_STEP][PASSED] - if (methodforcall == "PUT"): Send request and verify the response successfully
+
+2019-05-26 23:11:37 - [TEST_STEP][PASSED] - Storeresponse2 = sendRequestAndVerify(findTestObject("GLN deregister - EOID", ["url":url, "methodforcall":methodforcall, "status":status, "statuscode":statuscode, "message":message, "messagevalue":messagevalue])): Send request and verify the response successfully
+
+2019-05-26 23:11:38 - [TEST_CASE][PASSED] - Start Test Case : Verification: Verification accomplished successfully
+
+2019-05-26 23:11:38 - [TEST_STEP][PASSED] - return null: null
+
+2019-05-26 23:11:39 - [MESSAGE][PASSED] - Verify response successfully
+
+2019-05-26 23:11:39 - [MESSAGE][PASSED] - Send request and verify the response successfully]]></system-out>
+         <system-err><![CDATA[]]></system-err>
+      </testcase>
+      <testcase name="Test Cases/test" classname="Test Cases/test" status="PASSED">
+         <system-out><![CDATA[2019-05-26 23:11:39 - [TEST_CASE][PASSED] - Test Cases/test: Test Cases/test
+
+2019-05-26 23:11:39 - [TEST_STEP][PASSED] - if (methodforcall == "PUT"): Send request and verify the response successfully
+
+2019-05-26 23:11:39 - [TEST_STEP][PASSED] - Storeresponse2 = sendRequestAndVerify(findTestObject("GLN deregister - EOID", ["url":url, "methodforcall":methodforcall, "status":status, "statuscode":statuscode, "message":message, "messagevalue":messagevalue])): Send request and verify the response successfully
+
+2019-05-26 23:11:43 - [TEST_CASE][PASSED] - Start Test Case : Verification: Verification accomplished successfully
+
+2019-05-26 23:11:43 - [TEST_STEP][PASSED] - return null: null
+
+2019-05-26 23:11:43 - [MESSAGE][PASSED] - Verify response successfully
+
+2019-05-26 23:11:43 - [MESSAGE][PASSED] - Send request and verify the response successfully]]></system-out>
+         <system-err><![CDATA[]]></system-err>
+      </testcase>
+      <testcase name="Test Cases/test" classname="Test Cases/test" status="PASSED">
+         <system-out><![CDATA[2019-05-26 23:11:43 - [TEST_CASE][PASSED] - Test Cases/test: Test Cases/test
+
+2019-05-26 23:11:43 - [TEST_STEP][PASSED] - if (methodforcall == "PUT"): Send request and verify the response successfully
+
+2019-05-26 23:11:43 - [TEST_STEP][PASSED] - Storeresponse2 = sendRequestAndVerify(findTestObject("GLN deregister - EOID", ["url":url, "methodforcall":methodforcall, "status":status, "statuscode":statuscode, "message":message, "messagevalue":messagevalue])): Send request and verify the response successfully
+
+2019-05-26 23:11:45 - [TEST_CASE][PASSED] - Start Test Case : Verification: Verification accomplished successfully
+
+2019-05-26 23:11:45 - [TEST_STEP][PASSED] - return null: null
+
+2019-05-26 23:11:45 - [MESSAGE][PASSED] - Verify response successfully
+
+2019-05-26 23:11:45 - [MESSAGE][PASSED] - Send request and verify the response successfully]]></system-out>
+         <system-err><![CDATA[]]></system-err>
+      </testcase>
+      <testcase name="Test Cases/test" classname="Test Cases/test" status="PASSED">
+         <system-out><![CDATA[2019-05-26 23:11:45 - [TEST_CASE][PASSED] - Test Cases/test: Test Cases/test
+
+2019-05-26 23:11:45 - [TEST_STEP][PASSED] - if (methodforcall == "PUT"): Send request and verify the response successfully
+
+2019-05-26 23:11:45 - [TEST_STEP][PASSED] - Storeresponse2 = sendRequestAndVerify(findTestObject("GLN deregister - EOID", ["url":url, "methodforcall":methodforcall, "status":status, "statuscode":statuscode, "message":message, "messagevalue":messagevalue])): Send request and verify the response successfully
+
+2019-05-26 23:11:47 - [TEST_CASE][PASSED] - Start Test Case : Verification: Verification accomplished successfully
+
+2019-05-26 23:11:48 - [TEST_STEP][PASSED] - return null: null
+
+2019-05-26 23:11:48 - [MESSAGE][PASSED] - Verify response successfully
+
+2019-05-26 23:11:48 - [MESSAGE][PASSED] - Send request and verify the response successfully]]></system-out>
+         <system-err><![CDATA[]]></system-err>
+      </testcase>
+      <testcase name="Test Cases/test" classname="Test Cases/test" status="PASSED">
+         <system-out><![CDATA[2019-05-26 23:11:48 - [TEST_CASE][PASSED] - Test Cases/test: Test Cases/test
+
+2019-05-26 23:11:48 - [TEST_STEP][PASSED] - if (methodforcall == "PUT"): Send request and verify the response successfully
+
+2019-05-26 23:11:48 - [TEST_STEP][PASSED] - Storeresponse2 = sendRequestAndVerify(findTestObject("GLN deregister - EOID", ["url":url, "methodforcall":methodforcall, "status":status, "statuscode":statuscode, "message":message, "messagevalue":messagevalue])): Send request and verify the response successfully
+
+2019-05-26 23:11:50 - [TEST_CASE][PASSED] - Start Test Case : Verification: Verification accomplished successfully
+
+2019-05-26 23:11:50 - [TEST_STEP][PASSED] - return null: null
+
+2019-05-26 23:11:50 - [MESSAGE][PASSED] - Verify response successfully
+
+2019-05-26 23:11:50 - [MESSAGE][PASSED] - Send request and verify the response successfully]]></system-out>
+         <system-err><![CDATA[]]></system-err>
+      </testcase>
+      <testcase name="Test Cases/test" classname="Test Cases/test" status="PASSED">
+         <system-out><![CDATA[2019-05-26 23:11:50 - [TEST_CASE][PASSED] - Test Cases/test: Test Cases/test
+
+2019-05-26 23:11:50 - [TEST_STEP][PASSED] - if (methodforcall == "PUT"): Send request and verify the response successfully
+
+2019-05-26 23:11:50 - [TEST_STEP][PASSED] - Storeresponse2 = sendRequestAndVerify(findTestObject("GLN deregister - EOID", ["url":url, "methodforcall":methodforcall, "status":status, "statuscode":statuscode, "message":message, "messagevalue":messagevalue])): Send request and verify the response successfully
+
+2019-05-26 23:11:52 - [TEST_CASE][PASSED] - Start Test Case : Verification: Verification accomplished successfully
+
+2019-05-26 23:11:52 - [TEST_STEP][PASSED] - return null: null
+
+2019-05-26 23:11:52 - [MESSAGE][PASSED] - Verify response successfully
+
+2019-05-26 23:11:52 - [MESSAGE][PASSED] - Send request and verify the response successfully]]></system-out>
+         <system-err><![CDATA[]]></system-err>
+      </testcase>
+      <system-out><![CDATA[2019-05-26 23:10:10 - [TEST_SUITE][PASSED] - FIt-test suite: Test Cases/test]]></system-out>
+      <system-err><![CDATA[]]></system-err>
+   </testsuite>
+</testsuites>

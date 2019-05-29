@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuites name="FIt-test suite" time="19" tests="1" failures="0" errors="0">
+   <testsuite name="FIt-test suite" tests="1" failures="0" errors="0" time="19" timestamp="2019-05-28 17:17:32" hostname="Lavanya_DF - DESKTOP-T5KOPIL" id="Test Suites/FIt-test suite">
+      <properties>
+         <property name="deviceName" value=""/>
+         <property name="devicePlatform" value=""/>
+         <property name="logFolder" value="C:\\Users\\Lavanya_DF\\Downloads\\GS1 FIT\\GS1 FIT\\Reports\\FIt-test suite\\20190528_171730"/>
+         <property name="logFiles" value="C:\\Users\\Lavanya_DF\\Downloads\\GS1 FIT\\GS1 FIT\\Reports\\FIt-test suite\\20190528_171730\\execution0.log"/>
+         <property name="attachments" value=""/>
+         <property name="hostName" value="Lavanya_DF - DESKTOP-T5KOPIL"/>
+         <property name="hostAddress" value="192.168.0.153"/>
+         <property name="os" value="Windows 10 64bit"/>
+         <property name="katalonVersion" value="6.1.2.2"/>
+      </properties>
+      <testcase name="Test Cases/test" classname="Test Cases/test" status="PASSED">
+         <system-out><![CDATA[2019-05-28 17:17:33 - [TEST_CASE][PASSED] - Test Cases/test: Test Cases/test
+
+2019-05-28 17:17:33 - [TEST_STEP][PASSED] - if (methodforcall == "PUT"): null
+
+2019-05-28 17:17:33 - [TEST_STEP][PASSED] - else: Verify element property value successfully
+
+2019-05-28 17:17:33 - [TEST_STEP][PASSED] - if (giaiparameter != "" && url == "gs-dv-fit.gs1.org/api/v1/machine/check"): Verify element property value successfully
+
+2019-05-28 17:17:33 - [TEST_STEP][PASSED] - storeresponse5 = sendRequestAndVerify(findTestObject("GIAI- Check", ["giai":giaiparameter, "url":url, "body":body, "methodforcall":methodforcall])): Send request and verify the response successfully
+
+2019-05-28 17:17:51 - [TEST_CASE][PASSED] - Start Test Case : Verification: Verification accomplished successfully
+
+2019-05-28 17:17:52 - [TEST_STEP][PASSED] - request = getInstance().getCurrentRequest(): null
+
+2019-05-28 17:17:52 - [TEST_STEP][PASSED] - response = getInstance().getCurrentResponse(): null
+
+2019-05-28 17:17:52 - [MESSAGE][PASSED] - Verify response successfully
+
+2019-05-28 17:17:52 - [MESSAGE][PASSED] - Send request and verify the response successfully
+
+2019-05-28 17:17:52 - [TEST_STEP][PASSED] - verifyElementPropertyValue(storeresponse5, status, statuscode): Verify element property value successfully
+
+2019-05-28 17:17:52 - [MESSAGE][PASSED] - Verify element property value successfully
+
+2019-05-28 17:17:52 - [TEST_STEP][PASSED] - verifyElementPropertyValue(storeresponse5, messageid, messageidvalue): Verify element property value successfully
+
+2019-05-28 17:17:52 - [MESSAGE][PASSED] - Verify element property value successfully]]></system-out>
+         <system-err><![CDATA[]]></system-err>
+      </testcase>
+      <system-out><![CDATA[2019-05-28 17:17:32 - [TEST_SUITE][PASSED] - FIt-test suite: Test Cases/test]]></system-out>
+      <system-err><![CDATA[]]></system-err>
+   </testsuite>
+</testsuites>

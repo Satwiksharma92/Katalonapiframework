@@ -1,0 +1,4 @@
+Suite/Test/Step Name,Browser,Description,Tag,Start time,End time,Duration,Status
+FIt-test suite,,,,2019-05-28 16:36:34,2019-05-28 16:36:35,0.935s,ERROR
+,,,,,,,
+Test Cases/test,,,,2019-05-28 16:36:34,2019-05-28 16:36:35,0.667s,ERROR

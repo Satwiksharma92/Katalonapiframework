@@ -1,0 +1,606 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuites name="FIt-test suite" time="123" tests="21" failures="0" errors="0">
+   <testsuite name="FIt-test suite" tests="21" failures="0" errors="0" time="123" timestamp="2019-05-06 16:55:34" hostname="Lavanya_DF - DESKTOP-T5KOPIL" id="Test Suites/FIt-test suite">
+      <properties>
+         <property name="deviceName" value=""/>
+         <property name="devicePlatform" value=""/>
+         <property name="logFolder" value="C:\\Users\\Lavanya_DF\\Downloads\\GS1 FIT\\GS1 FIT\\Reports\\FIt-test suite\\20190506_165531"/>
+         <property name="logFiles" value="C:\\Users\\Lavanya_DF\\Downloads\\GS1 FIT\\GS1 FIT\\Reports\\FIt-test suite\\20190506_165531\\execution0.log"/>
+         <property name="attachments" value=""/>
+         <property name="hostName" value="Lavanya_DF - DESKTOP-T5KOPIL"/>
+         <property name="hostAddress" value="192.168.0.153"/>
+         <property name="os" value="Windows 10 64bit"/>
+         <property name="katalonVersion" value="6.1.2.2"/>
+      </properties>
+      <testcase name="Test Cases/test" classname="Test Cases/test" status="PASSED">
+         <system-out><![CDATA[2019-05-06 16:55:34 - [TEST_CASE][PASSED] - Test Cases/test: Test Cases/test
+
+2019-05-06 16:55:34 - [TEST_STEP][PASSED] - Storeresponse = sendRequestAndVerify(findTestObject("GLN Check - EOID", ["gln":glnparameter, "urlforcheckeoid":url, "body":body, "methodforcall":methodforcall])): Send request and verify the response successfully
+
+2019-05-06 16:55:44 - [TEST_CASE][PASSED] - Start Test Case : Verification: Verification accomplished successfully
+
+2019-05-06 16:55:44 - [TEST_STEP][PASSED] - request = getInstance().getCurrentRequest(): null
+
+2019-05-06 16:55:44 - [TEST_STEP][PASSED] - response = getInstance().getCurrentResponse(): null
+
+2019-05-06 16:55:44 - [MESSAGE][PASSED] - Verify response successfully
+
+2019-05-06 16:55:44 - [MESSAGE][PASSED] - Send request and verify the response successfully
+
+2019-05-06 16:55:44 - [TEST_STEP][PASSED] - verifyElementPropertyValue(Storeresponse, status, statuscode): Verify element property value successfully
+
+2019-05-06 16:55:45 - [MESSAGE][PASSED] - Verify element property value successfully
+
+2019-05-06 16:55:45 - [TEST_STEP][PASSED] - verifyElementPropertyValue(Storeresponse, messageid, messageidvalue): Verify element property value successfully
+
+2019-05-06 16:55:45 - [MESSAGE][PASSED] - Verify element property value successfully
+
+2019-05-06 16:55:45 - [TEST_STEP][PASSED] - if (statuscode == 200): null
+
+2019-05-06 16:55:45 - [TEST_STEP][PASSED] - else: null]]></system-out>
+         <system-err><![CDATA[]]></system-err>
+      </testcase>
+      <testcase name="Test Cases/test" classname="Test Cases/test" status="PASSED">
+         <system-out><![CDATA[2019-05-06 16:55:45 - [TEST_CASE][PASSED] - Test Cases/test: Test Cases/test
+
+2019-05-06 16:55:45 - [TEST_STEP][PASSED] - Storeresponse = sendRequestAndVerify(findTestObject("GLN Check - EOID", ["gln":glnparameter, "urlforcheckeoid":url, "body":body, "methodforcall":methodforcall])): Send request and verify the response successfully
+
+2019-05-06 16:55:48 - [TEST_CASE][PASSED] - Start Test Case : Verification: Verification accomplished successfully
+
+2019-05-06 16:55:48 - [TEST_STEP][PASSED] - request = getInstance().getCurrentRequest(): null
+
+2019-05-06 16:55:48 - [TEST_STEP][PASSED] - response = getInstance().getCurrentResponse(): null
+
+2019-05-06 16:55:48 - [MESSAGE][PASSED] - Verify response successfully
+
+2019-05-06 16:55:48 - [MESSAGE][PASSED] - Send request and verify the response successfully
+
+2019-05-06 16:55:48 - [TEST_STEP][PASSED] - verifyElementPropertyValue(Storeresponse, status, statuscode): Verify element property value successfully
+
+2019-05-06 16:55:48 - [MESSAGE][PASSED] - Verify element property value successfully
+
+2019-05-06 16:55:48 - [TEST_STEP][PASSED] - verifyElementPropertyValue(Storeresponse, messageid, messageidvalue): Verify element property value successfully
+
+2019-05-06 16:55:48 - [MESSAGE][PASSED] - Verify element property value successfully
+
+2019-05-06 16:55:48 - [TEST_STEP][PASSED] - if (statuscode == 200): null
+
+2019-05-06 16:55:48 - [TEST_STEP][PASSED] - else: null]]></system-out>
+         <system-err><![CDATA[]]></system-err>
+      </testcase>
+      <testcase name="Test Cases/test" classname="Test Cases/test" status="PASSED">
+         <system-out><![CDATA[2019-05-06 16:55:48 - [TEST_CASE][PASSED] - Test Cases/test: Test Cases/test
+
+2019-05-06 16:55:48 - [TEST_STEP][PASSED] - Storeresponse = sendRequestAndVerify(findTestObject("GLN Check - EOID", ["gln":glnparameter, "urlforcheckeoid":url, "body":body, "methodforcall":methodforcall])): Send request and verify the response successfully
+
+2019-05-06 16:55:52 - [TEST_CASE][PASSED] - Start Test Case : Verification: Verification accomplished successfully
+
+2019-05-06 16:55:52 - [TEST_STEP][PASSED] - request = getInstance().getCurrentRequest(): null
+
+2019-05-06 16:55:52 - [TEST_STEP][PASSED] - response = getInstance().getCurrentResponse(): null
+
+2019-05-06 16:55:52 - [MESSAGE][PASSED] - Verify response successfully
+
+2019-05-06 16:55:52 - [MESSAGE][PASSED] - Send request and verify the response successfully
+
+2019-05-06 16:55:52 - [TEST_STEP][PASSED] - verifyElementPropertyValue(Storeresponse, status, statuscode): Verify element property value successfully
+
+2019-05-06 16:55:52 - [MESSAGE][PASSED] - Verify element property value successfully
+
+2019-05-06 16:55:52 - [TEST_STEP][PASSED] - verifyElementPropertyValue(Storeresponse, messageid, messageidvalue): Verify element property value successfully
+
+2019-05-06 16:55:52 - [MESSAGE][PASSED] - Verify element property value successfully
+
+2019-05-06 16:55:52 - [TEST_STEP][PASSED] - if (statuscode == 200): null
+
+2019-05-06 16:55:52 - [TEST_STEP][PASSED] - else: null]]></system-out>
+         <system-err><![CDATA[]]></system-err>
+      </testcase>
+      <testcase name="Test Cases/test" classname="Test Cases/test" status="PASSED">
+         <system-out><![CDATA[2019-05-06 16:55:52 - [TEST_CASE][PASSED] - Test Cases/test: Test Cases/test
+
+2019-05-06 16:55:52 - [TEST_STEP][PASSED] - Storeresponse = sendRequestAndVerify(findTestObject("GLN Check - EOID", ["gln":glnparameter, "urlforcheckeoid":url, "body":body, "methodforcall":methodforcall])): Send request and verify the response successfully
+
+2019-05-06 16:55:56 - [TEST_CASE][PASSED] - Start Test Case : Verification: Verification accomplished successfully
+
+2019-05-06 16:55:56 - [TEST_STEP][PASSED] - request = getInstance().getCurrentRequest(): null
+
+2019-05-06 16:55:56 - [TEST_STEP][PASSED] - response = getInstance().getCurrentResponse(): null
+
+2019-05-06 16:55:56 - [MESSAGE][PASSED] - Verify response successfully
+
+2019-05-06 16:55:56 - [MESSAGE][PASSED] - Send request and verify the response successfully
+
+2019-05-06 16:55:56 - [TEST_STEP][PASSED] - verifyElementPropertyValue(Storeresponse, status, statuscode): Verify element property value successfully
+
+2019-05-06 16:55:56 - [MESSAGE][PASSED] - Verify element property value successfully
+
+2019-05-06 16:55:56 - [TEST_STEP][PASSED] - verifyElementPropertyValue(Storeresponse, messageid, messageidvalue): Verify element property value successfully
+
+2019-05-06 16:55:56 - [MESSAGE][PASSED] - Verify element property value successfully
+
+2019-05-06 16:55:56 - [TEST_STEP][PASSED] - if (statuscode == 200): null
+
+2019-05-06 16:55:56 - [TEST_STEP][PASSED] - else: null]]></system-out>
+         <system-err><![CDATA[]]></system-err>
+      </testcase>
+      <testcase name="Test Cases/test" classname="Test Cases/test" status="PASSED">
+         <system-out><![CDATA[2019-05-06 16:55:56 - [TEST_CASE][PASSED] - Test Cases/test: Test Cases/test
+
+2019-05-06 16:55:56 - [TEST_STEP][PASSED] - Storeresponse = sendRequestAndVerify(findTestObject("GLN Check - EOID", ["gln":glnparameter, "urlforcheckeoid":url, "body":body, "methodforcall":methodforcall])): Send request and verify the response successfully
+
+2019-05-06 16:56:00 - [TEST_CASE][PASSED] - Start Test Case : Verification: Verification accomplished successfully
+
+2019-05-06 16:56:00 - [TEST_STEP][PASSED] - request = getInstance().getCurrentRequest(): null
+
+2019-05-06 16:56:00 - [TEST_STEP][PASSED] - response = getInstance().getCurrentResponse(): null
+
+2019-05-06 16:56:00 - [MESSAGE][PASSED] - Verify response successfully
+
+2019-05-06 16:56:00 - [MESSAGE][PASSED] - Send request and verify the response successfully
+
+2019-05-06 16:56:00 - [TEST_STEP][PASSED] - verifyElementPropertyValue(Storeresponse, status, statuscode): Verify element property value successfully
+
+2019-05-06 16:56:00 - [MESSAGE][PASSED] - Verify element property value successfully
+
+2019-05-06 16:56:00 - [TEST_STEP][PASSED] - verifyElementPropertyValue(Storeresponse, messageid, messageidvalue): Verify element property value successfully
+
+2019-05-06 16:56:00 - [MESSAGE][PASSED] - Verify element property value successfully
+
+2019-05-06 16:56:00 - [TEST_STEP][PASSED] - if (statuscode == 200): null
+
+2019-05-06 16:56:00 - [TEST_STEP][PASSED] - else: null]]></system-out>
+         <system-err><![CDATA[]]></system-err>
+      </testcase>
+      <testcase name="Test Cases/test" classname="Test Cases/test" status="PASSED">
+         <system-out><![CDATA[2019-05-06 16:56:00 - [TEST_CASE][PASSED] - Test Cases/test: Test Cases/test
+
+2019-05-06 16:56:00 - [TEST_STEP][PASSED] - Storeresponse = sendRequestAndVerify(findTestObject("GLN Check - EOID", ["gln":glnparameter, "urlforcheckeoid":url, "body":body, "methodforcall":methodforcall])): Send request and verify the response successfully
+
+2019-05-06 16:56:05 - [TEST_CASE][PASSED] - Start Test Case : Verification: Verification accomplished successfully
+
+2019-05-06 16:56:05 - [TEST_STEP][PASSED] - request = getInstance().getCurrentRequest(): null
+
+2019-05-06 16:56:05 - [TEST_STEP][PASSED] - response = getInstance().getCurrentResponse(): null
+
+2019-05-06 16:56:05 - [MESSAGE][PASSED] - Verify response successfully
+
+2019-05-06 16:56:05 - [MESSAGE][PASSED] - Send request and verify the response successfully
+
+2019-05-06 16:56:05 - [TEST_STEP][PASSED] - verifyElementPropertyValue(Storeresponse, status, statuscode): Verify element property value successfully
+
+2019-05-06 16:56:05 - [MESSAGE][PASSED] - Verify element property value successfully
+
+2019-05-06 16:56:05 - [TEST_STEP][PASSED] - verifyElementPropertyValue(Storeresponse, messageid, messageidvalue): Verify element property value successfully
+
+2019-05-06 16:56:05 - [MESSAGE][PASSED] - Verify element property value successfully
+
+2019-05-06 16:56:05 - [TEST_STEP][PASSED] - if (statuscode == 200): null
+
+2019-05-06 16:56:05 - [TEST_STEP][PASSED] - else: null]]></system-out>
+         <system-err><![CDATA[]]></system-err>
+      </testcase>
+      <testcase name="Test Cases/test" classname="Test Cases/test" status="PASSED">
+         <system-out><![CDATA[2019-05-06 16:56:05 - [TEST_CASE][PASSED] - Test Cases/test: Test Cases/test
+
+2019-05-06 16:56:05 - [TEST_STEP][PASSED] - Storeresponse = sendRequestAndVerify(findTestObject("GLN Check - EOID", ["gln":glnparameter, "urlforcheckeoid":url, "body":body, "methodforcall":methodforcall])): Send request and verify the response successfully
+
+2019-05-06 16:56:12 - [TEST_CASE][PASSED] - Start Test Case : Verification: Verification accomplished successfully
+
+2019-05-06 16:56:12 - [TEST_STEP][PASSED] - request = getInstance().getCurrentRequest(): null
+
+2019-05-06 16:56:12 - [TEST_STEP][PASSED] - response = getInstance().getCurrentResponse(): null
+
+2019-05-06 16:56:12 - [MESSAGE][PASSED] - Verify response successfully
+
+2019-05-06 16:56:12 - [MESSAGE][PASSED] - Send request and verify the response successfully
+
+2019-05-06 16:56:12 - [TEST_STEP][PASSED] - verifyElementPropertyValue(Storeresponse, status, statuscode): Verify element property value successfully
+
+2019-05-06 16:56:12 - [MESSAGE][PASSED] - Verify element property value successfully
+
+2019-05-06 16:56:12 - [TEST_STEP][PASSED] - verifyElementPropertyValue(Storeresponse, messageid, messageidvalue): Verify element property value successfully
+
+2019-05-06 16:56:12 - [MESSAGE][PASSED] - Verify element property value successfully
+
+2019-05-06 16:56:12 - [TEST_STEP][PASSED] - if (statuscode == 200): null
+
+2019-05-06 16:56:12 - [TEST_STEP][PASSED] - else: null]]></system-out>
+         <system-err><![CDATA[]]></system-err>
+      </testcase>
+      <testcase name="Test Cases/test" classname="Test Cases/test" status="PASSED">
+         <system-out><![CDATA[2019-05-06 16:56:12 - [TEST_CASE][PASSED] - Test Cases/test: Test Cases/test
+
+2019-05-06 16:56:12 - [TEST_STEP][PASSED] - Storeresponse = sendRequestAndVerify(findTestObject("GLN Check - EOID", ["gln":glnparameter, "urlforcheckeoid":url, "body":body, "methodforcall":methodforcall])): Send request and verify the response successfully
+
+2019-05-06 16:56:17 - [TEST_CASE][PASSED] - Start Test Case : Verification: Verification accomplished successfully
+
+2019-05-06 16:56:17 - [TEST_STEP][PASSED] - request = getInstance().getCurrentRequest(): null
+
+2019-05-06 16:56:17 - [TEST_STEP][PASSED] - response = getInstance().getCurrentResponse(): null
+
+2019-05-06 16:56:17 - [MESSAGE][PASSED] - Verify response successfully
+
+2019-05-06 16:56:17 - [MESSAGE][PASSED] - Send request and verify the response successfully
+
+2019-05-06 16:56:17 - [TEST_STEP][PASSED] - verifyElementPropertyValue(Storeresponse, status, statuscode): Verify element property value successfully
+
+2019-05-06 16:56:17 - [MESSAGE][PASSED] - Verify element property value successfully
+
+2019-05-06 16:56:17 - [TEST_STEP][PASSED] - verifyElementPropertyValue(Storeresponse, messageid, messageidvalue): Verify element property value successfully
+
+2019-05-06 16:56:17 - [MESSAGE][PASSED] - Verify element property value successfully
+
+2019-05-06 16:56:17 - [TEST_STEP][PASSED] - if (statuscode == 200): null
+
+2019-05-06 16:56:17 - [TEST_STEP][PASSED] - else: null]]></system-out>
+         <system-err><![CDATA[]]></system-err>
+      </testcase>
+      <testcase name="Test Cases/test" classname="Test Cases/test" status="PASSED">
+         <system-out><![CDATA[2019-05-06 16:56:17 - [TEST_CASE][PASSED] - Test Cases/test: Test Cases/test
+
+2019-05-06 16:56:17 - [TEST_STEP][PASSED] - Storeresponse = sendRequestAndVerify(findTestObject("GLN Check - EOID", ["gln":glnparameter, "urlforcheckeoid":url, "body":body, "methodforcall":methodforcall])): Send request and verify the response successfully
+
+2019-05-06 16:56:21 - [TEST_CASE][PASSED] - Start Test Case : Verification: Verification accomplished successfully
+
+2019-05-06 16:56:21 - [TEST_STEP][PASSED] - request = getInstance().getCurrentRequest(): null
+
+2019-05-06 16:56:21 - [TEST_STEP][PASSED] - response = getInstance().getCurrentResponse(): null
+
+2019-05-06 16:56:21 - [MESSAGE][PASSED] - Verify response successfully
+
+2019-05-06 16:56:21 - [MESSAGE][PASSED] - Send request and verify the response successfully
+
+2019-05-06 16:56:21 - [TEST_STEP][PASSED] - verifyElementPropertyValue(Storeresponse, status, statuscode): Verify element property value successfully
+
+2019-05-06 16:56:21 - [MESSAGE][PASSED] - Verify element property value successfully
+
+2019-05-06 16:56:21 - [TEST_STEP][PASSED] - verifyElementPropertyValue(Storeresponse, messageid, messageidvalue): Verify element property value successfully
+
+2019-05-06 16:56:21 - [MESSAGE][PASSED] - Verify element property value successfully
+
+2019-05-06 16:56:21 - [TEST_STEP][PASSED] - if (statuscode == 200): null
+
+2019-05-06 16:56:21 - [TEST_STEP][PASSED] - else: null]]></system-out>
+         <system-err><![CDATA[]]></system-err>
+      </testcase>
+      <testcase name="Test Cases/test" classname="Test Cases/test" status="PASSED">
+         <system-out><![CDATA[2019-05-06 16:56:21 - [TEST_CASE][PASSED] - Test Cases/test: Test Cases/test
+
+2019-05-06 16:56:21 - [TEST_STEP][PASSED] - Storeresponse = sendRequestAndVerify(findTestObject("GLN Check - EOID", ["gln":glnparameter, "urlforcheckeoid":url, "body":body, "methodforcall":methodforcall])): Send request and verify the response successfully
+
+2019-05-06 16:56:25 - [TEST_CASE][PASSED] - Start Test Case : Verification: Verification accomplished successfully
+
+2019-05-06 16:56:25 - [TEST_STEP][PASSED] - request = getInstance().getCurrentRequest(): null
+
+2019-05-06 16:56:25 - [TEST_STEP][PASSED] - response = getInstance().getCurrentResponse(): null
+
+2019-05-06 16:56:25 - [MESSAGE][PASSED] - Verify response successfully
+
+2019-05-06 16:56:25 - [MESSAGE][PASSED] - Send request and verify the response successfully
+
+2019-05-06 16:56:25 - [TEST_STEP][PASSED] - verifyElementPropertyValue(Storeresponse, status, statuscode): Verify element property value successfully
+
+2019-05-06 16:56:25 - [MESSAGE][PASSED] - Verify element property value successfully
+
+2019-05-06 16:56:25 - [TEST_STEP][PASSED] - verifyElementPropertyValue(Storeresponse, messageid, messageidvalue): Verify element property value successfully
+
+2019-05-06 16:56:25 - [MESSAGE][PASSED] - Verify element property value successfully
+
+2019-05-06 16:56:25 - [TEST_STEP][PASSED] - if (statuscode == 200): null
+
+2019-05-06 16:56:25 - [TEST_STEP][PASSED] - else: null]]></system-out>
+         <system-err><![CDATA[]]></system-err>
+      </testcase>
+      <testcase name="Test Cases/test" classname="Test Cases/test" status="PASSED">
+         <system-out><![CDATA[2019-05-06 16:56:25 - [TEST_CASE][PASSED] - Test Cases/test: Test Cases/test
+
+2019-05-06 16:56:25 - [TEST_STEP][PASSED] - Storeresponse = sendRequestAndVerify(findTestObject("GLN Check - EOID", ["gln":glnparameter, "urlforcheckeoid":url, "body":body, "methodforcall":methodforcall])): Send request and verify the response successfully
+
+2019-05-06 16:56:32 - [TEST_CASE][PASSED] - Start Test Case : Verification: Verification accomplished successfully
+
+2019-05-06 16:56:32 - [TEST_STEP][PASSED] - request = getInstance().getCurrentRequest(): null
+
+2019-05-06 16:56:32 - [TEST_STEP][PASSED] - response = getInstance().getCurrentResponse(): null
+
+2019-05-06 16:56:32 - [MESSAGE][PASSED] - Verify response successfully
+
+2019-05-06 16:56:32 - [MESSAGE][PASSED] - Send request and verify the response successfully
+
+2019-05-06 16:56:32 - [TEST_STEP][PASSED] - verifyElementPropertyValue(Storeresponse, status, statuscode): Verify element property value successfully
+
+2019-05-06 16:56:32 - [MESSAGE][PASSED] - Verify element property value successfully
+
+2019-05-06 16:56:32 - [TEST_STEP][PASSED] - verifyElementPropertyValue(Storeresponse, messageid, messageidvalue): Verify element property value successfully
+
+2019-05-06 16:56:32 - [MESSAGE][PASSED] - Verify element property value successfully
+
+2019-05-06 16:56:32 - [TEST_STEP][PASSED] - if (statuscode == 200): null
+
+2019-05-06 16:56:32 - [TEST_STEP][PASSED] - else: null]]></system-out>
+         <system-err><![CDATA[]]></system-err>
+      </testcase>
+      <testcase name="Test Cases/test" classname="Test Cases/test" status="PASSED">
+         <system-out><![CDATA[2019-05-06 16:56:32 - [TEST_CASE][PASSED] - Test Cases/test: Test Cases/test
+
+2019-05-06 16:56:32 - [TEST_STEP][PASSED] - Storeresponse = sendRequestAndVerify(findTestObject("GLN Check - EOID", ["gln":glnparameter, "urlforcheckeoid":url, "body":body, "methodforcall":methodforcall])): Send request and verify the response successfully
+
+2019-05-06 16:56:40 - [TEST_CASE][PASSED] - Start Test Case : Verification: Verification accomplished successfully
+
+2019-05-06 16:56:40 - [TEST_STEP][PASSED] - request = getInstance().getCurrentRequest(): null
+
+2019-05-06 16:56:40 - [TEST_STEP][PASSED] - response = getInstance().getCurrentResponse(): null
+
+2019-05-06 16:56:40 - [MESSAGE][PASSED] - Verify response successfully
+
+2019-05-06 16:56:40 - [MESSAGE][PASSED] - Send request and verify the response successfully
+
+2019-05-06 16:56:40 - [TEST_STEP][PASSED] - verifyElementPropertyValue(Storeresponse, status, statuscode): Verify element property value successfully
+
+2019-05-06 16:56:40 - [MESSAGE][PASSED] - Verify element property value successfully
+
+2019-05-06 16:56:40 - [TEST_STEP][PASSED] - verifyElementPropertyValue(Storeresponse, messageid, messageidvalue): Verify element property value successfully
+
+2019-05-06 16:56:40 - [MESSAGE][PASSED] - Verify element property value successfully
+
+2019-05-06 16:56:40 - [TEST_STEP][PASSED] - if (statuscode == 200): null
+
+2019-05-06 16:56:40 - [TEST_STEP][PASSED] - else: null]]></system-out>
+         <system-err><![CDATA[]]></system-err>
+      </testcase>
+      <testcase name="Test Cases/test" classname="Test Cases/test" status="PASSED">
+         <system-out><![CDATA[2019-05-06 16:56:40 - [TEST_CASE][PASSED] - Test Cases/test: Test Cases/test
+
+2019-05-06 16:56:40 - [TEST_STEP][PASSED] - Storeresponse = sendRequestAndVerify(findTestObject("GLN Check - EOID", ["gln":glnparameter, "urlforcheckeoid":url, "body":body, "methodforcall":methodforcall])): Send request and verify the response successfully
+
+2019-05-06 16:56:47 - [TEST_CASE][PASSED] - Start Test Case : Verification: Verification accomplished successfully
+
+2019-05-06 16:56:47 - [TEST_STEP][PASSED] - request = getInstance().getCurrentRequest(): null
+
+2019-05-06 16:56:48 - [TEST_STEP][PASSED] - response = getInstance().getCurrentResponse(): null
+
+2019-05-06 16:56:48 - [MESSAGE][PASSED] - Verify response successfully
+
+2019-05-06 16:56:48 - [MESSAGE][PASSED] - Send request and verify the response successfully
+
+2019-05-06 16:56:48 - [TEST_STEP][PASSED] - verifyElementPropertyValue(Storeresponse, status, statuscode): Verify element property value successfully
+
+2019-05-06 16:56:48 - [MESSAGE][PASSED] - Verify element property value successfully
+
+2019-05-06 16:56:48 - [TEST_STEP][PASSED] - verifyElementPropertyValue(Storeresponse, messageid, messageidvalue): Verify element property value successfully
+
+2019-05-06 16:56:48 - [MESSAGE][PASSED] - Verify element property value successfully
+
+2019-05-06 16:56:48 - [TEST_STEP][PASSED] - if (statuscode == 200): null
+
+2019-05-06 16:56:48 - [TEST_STEP][PASSED] - else: null]]></system-out>
+         <system-err><![CDATA[]]></system-err>
+      </testcase>
+      <testcase name="Test Cases/test" classname="Test Cases/test" status="PASSED">
+         <system-out><![CDATA[2019-05-06 16:56:48 - [TEST_CASE][PASSED] - Test Cases/test: Test Cases/test
+
+2019-05-06 16:56:48 - [TEST_STEP][PASSED] - Storeresponse = sendRequestAndVerify(findTestObject("GLN Check - EOID", ["gln":glnparameter, "urlforcheckeoid":url, "body":body, "methodforcall":methodforcall])): Send request and verify the response successfully
+
+2019-05-06 16:56:54 - [TEST_CASE][PASSED] - Start Test Case : Verification: Verification accomplished successfully
+
+2019-05-06 16:56:54 - [TEST_STEP][PASSED] - request = getInstance().getCurrentRequest(): null
+
+2019-05-06 16:56:54 - [TEST_STEP][PASSED] - response = getInstance().getCurrentResponse(): null
+
+2019-05-06 16:56:54 - [MESSAGE][PASSED] - Verify response successfully
+
+2019-05-06 16:56:54 - [MESSAGE][PASSED] - Send request and verify the response successfully
+
+2019-05-06 16:56:54 - [TEST_STEP][PASSED] - verifyElementPropertyValue(Storeresponse, status, statuscode): Verify element property value successfully
+
+2019-05-06 16:56:54 - [MESSAGE][PASSED] - Verify element property value successfully
+
+2019-05-06 16:56:54 - [TEST_STEP][PASSED] - verifyElementPropertyValue(Storeresponse, messageid, messageidvalue): Verify element property value successfully
+
+2019-05-06 16:56:54 - [MESSAGE][PASSED] - Verify element property value successfully
+
+2019-05-06 16:56:54 - [TEST_STEP][PASSED] - if (statuscode == 200): null
+
+2019-05-06 16:56:54 - [TEST_STEP][PASSED] - else: null]]></system-out>
+         <system-err><![CDATA[]]></system-err>
+      </testcase>
+      <testcase name="Test Cases/test" classname="Test Cases/test" status="PASSED">
+         <system-out><![CDATA[2019-05-06 16:56:54 - [TEST_CASE][PASSED] - Test Cases/test: Test Cases/test
+
+2019-05-06 16:56:54 - [TEST_STEP][PASSED] - Storeresponse = sendRequestAndVerify(findTestObject("GLN Check - EOID", ["gln":glnparameter, "urlforcheckeoid":url, "body":body, "methodforcall":methodforcall])): Send request and verify the response successfully
+
+2019-05-06 16:57:01 - [TEST_CASE][PASSED] - Start Test Case : Verification: Verification accomplished successfully
+
+2019-05-06 16:57:01 - [TEST_STEP][PASSED] - request = getInstance().getCurrentRequest(): null
+
+2019-05-06 16:57:02 - [TEST_STEP][PASSED] - response = getInstance().getCurrentResponse(): null
+
+2019-05-06 16:57:02 - [MESSAGE][PASSED] - Verify response successfully
+
+2019-05-06 16:57:02 - [MESSAGE][PASSED] - Send request and verify the response successfully
+
+2019-05-06 16:57:02 - [TEST_STEP][PASSED] - verifyElementPropertyValue(Storeresponse, status, statuscode): Verify element property value successfully
+
+2019-05-06 16:57:02 - [MESSAGE][PASSED] - Verify element property value successfully
+
+2019-05-06 16:57:02 - [TEST_STEP][PASSED] - verifyElementPropertyValue(Storeresponse, messageid, messageidvalue): Verify element property value successfully
+
+2019-05-06 16:57:02 - [MESSAGE][PASSED] - Verify element property value successfully
+
+2019-05-06 16:57:02 - [TEST_STEP][PASSED] - if (statuscode == 200): null
+
+2019-05-06 16:57:02 - [TEST_STEP][PASSED] - else: null]]></system-out>
+         <system-err><![CDATA[]]></system-err>
+      </testcase>
+      <testcase name="Test Cases/test" classname="Test Cases/test" status="PASSED">
+         <system-out><![CDATA[2019-05-06 16:57:02 - [TEST_CASE][PASSED] - Test Cases/test: Test Cases/test
+
+2019-05-06 16:57:02 - [TEST_STEP][PASSED] - Storeresponse = sendRequestAndVerify(findTestObject("GLN Check - EOID", ["gln":glnparameter, "urlforcheckeoid":url, "body":body, "methodforcall":methodforcall])): Send request and verify the response successfully
+
+2019-05-06 16:57:09 - [TEST_CASE][PASSED] - Start Test Case : Verification: Verification accomplished successfully
+
+2019-05-06 16:57:09 - [TEST_STEP][PASSED] - request = getInstance().getCurrentRequest(): null
+
+2019-05-06 16:57:09 - [TEST_STEP][PASSED] - response = getInstance().getCurrentResponse(): null
+
+2019-05-06 16:57:09 - [MESSAGE][PASSED] - Verify response successfully
+
+2019-05-06 16:57:09 - [MESSAGE][PASSED] - Send request and verify the response successfully
+
+2019-05-06 16:57:09 - [TEST_STEP][PASSED] - verifyElementPropertyValue(Storeresponse, status, statuscode): Verify element property value successfully
+
+2019-05-06 16:57:09 - [MESSAGE][PASSED] - Verify element property value successfully
+
+2019-05-06 16:57:09 - [TEST_STEP][PASSED] - verifyElementPropertyValue(Storeresponse, messageid, messageidvalue): Verify element property value successfully
+
+2019-05-06 16:57:09 - [MESSAGE][PASSED] - Verify element property value successfully
+
+2019-05-06 16:57:09 - [TEST_STEP][PASSED] - if (statuscode == 200): null
+
+2019-05-06 16:57:09 - [TEST_STEP][PASSED] - else: null]]></system-out>
+         <system-err><![CDATA[]]></system-err>
+      </testcase>
+      <testcase name="Test Cases/test" classname="Test Cases/test" status="PASSED">
+         <system-out><![CDATA[2019-05-06 16:57:09 - [TEST_CASE][PASSED] - Test Cases/test: Test Cases/test
+
+2019-05-06 16:57:09 - [TEST_STEP][PASSED] - Storeresponse = sendRequestAndVerify(findTestObject("GLN Check - EOID", ["gln":glnparameter, "urlforcheckeoid":url, "body":body, "methodforcall":methodforcall])): Send request and verify the response successfully
+
+2019-05-06 16:57:16 - [TEST_CASE][PASSED] - Start Test Case : Verification: Verification accomplished successfully
+
+2019-05-06 16:57:16 - [TEST_STEP][PASSED] - request = getInstance().getCurrentRequest(): null
+
+2019-05-06 16:57:16 - [TEST_STEP][PASSED] - response = getInstance().getCurrentResponse(): null
+
+2019-05-06 16:57:16 - [MESSAGE][PASSED] - Verify response successfully
+
+2019-05-06 16:57:16 - [MESSAGE][PASSED] - Send request and verify the response successfully
+
+2019-05-06 16:57:16 - [TEST_STEP][PASSED] - verifyElementPropertyValue(Storeresponse, status, statuscode): Verify element property value successfully
+
+2019-05-06 16:57:16 - [MESSAGE][PASSED] - Verify element property value successfully
+
+2019-05-06 16:57:16 - [TEST_STEP][PASSED] - verifyElementPropertyValue(Storeresponse, messageid, messageidvalue): Verify element property value successfully
+
+2019-05-06 16:57:16 - [MESSAGE][PASSED] - Verify element property value successfully
+
+2019-05-06 16:57:16 - [TEST_STEP][PASSED] - if (statuscode == 200): null
+
+2019-05-06 16:57:16 - [TEST_STEP][PASSED] - else: null]]></system-out>
+         <system-err><![CDATA[]]></system-err>
+      </testcase>
+      <testcase name="Test Cases/test" classname="Test Cases/test" status="PASSED">
+         <system-out><![CDATA[2019-05-06 16:57:16 - [TEST_CASE][PASSED] - Test Cases/test: Test Cases/test
+
+2019-05-06 16:57:16 - [TEST_STEP][PASSED] - Storeresponse = sendRequestAndVerify(findTestObject("GLN Check - EOID", ["gln":glnparameter, "urlforcheckeoid":url, "body":body, "methodforcall":methodforcall])): Send request and verify the response successfully
+
+2019-05-06 16:57:20 - [TEST_CASE][PASSED] - Start Test Case : Verification: Verification accomplished successfully
+
+2019-05-06 16:57:20 - [TEST_STEP][PASSED] - request = getInstance().getCurrentRequest(): null
+
+2019-05-06 16:57:21 - [TEST_STEP][PASSED] - response = getInstance().getCurrentResponse(): null
+
+2019-05-06 16:57:21 - [MESSAGE][PASSED] - Verify response successfully
+
+2019-05-06 16:57:21 - [MESSAGE][PASSED] - Send request and verify the response successfully
+
+2019-05-06 16:57:21 - [TEST_STEP][PASSED] - verifyElementPropertyValue(Storeresponse, status, statuscode): Verify element property value successfully
+
+2019-05-06 16:57:21 - [MESSAGE][PASSED] - Verify element property value successfully
+
+2019-05-06 16:57:21 - [TEST_STEP][PASSED] - verifyElementPropertyValue(Storeresponse, messageid, messageidvalue): Verify element property value successfully
+
+2019-05-06 16:57:21 - [MESSAGE][PASSED] - Verify element property value successfully
+
+2019-05-06 16:57:21 - [TEST_STEP][PASSED] - if (statuscode == 200): null
+
+2019-05-06 16:57:21 - [TEST_STEP][PASSED] - else: null]]></system-out>
+         <system-err><![CDATA[]]></system-err>
+      </testcase>
+      <testcase name="Test Cases/test" classname="Test Cases/test" status="PASSED">
+         <system-out><![CDATA[2019-05-06 16:57:21 - [TEST_CASE][PASSED] - Test Cases/test: Test Cases/test
+
+2019-05-06 16:57:21 - [TEST_STEP][PASSED] - Storeresponse = sendRequestAndVerify(findTestObject("GLN Check - EOID", ["gln":glnparameter, "urlforcheckeoid":url, "body":body, "methodforcall":methodforcall])): Send request and verify the response successfully
+
+2019-05-06 16:57:25 - [TEST_CASE][PASSED] - Start Test Case : Verification: Verification accomplished successfully
+
+2019-05-06 16:57:25 - [TEST_STEP][PASSED] - request = getInstance().getCurrentRequest(): null
+
+2019-05-06 16:57:25 - [TEST_STEP][PASSED] - response = getInstance().getCurrentResponse(): null
+
+2019-05-06 16:57:25 - [MESSAGE][PASSED] - Verify response successfully
+
+2019-05-06 16:57:25 - [MESSAGE][PASSED] - Send request and verify the response successfully
+
+2019-05-06 16:57:25 - [TEST_STEP][PASSED] - verifyElementPropertyValue(Storeresponse, status, statuscode): Verify element property value successfully
+
+2019-05-06 16:57:25 - [MESSAGE][PASSED] - Verify element property value successfully
+
+2019-05-06 16:57:25 - [TEST_STEP][PASSED] - verifyElementPropertyValue(Storeresponse, messageid, messageidvalue): Verify element property value successfully
+
+2019-05-06 16:57:25 - [MESSAGE][PASSED] - Verify element property value successfully
+
+2019-05-06 16:57:25 - [TEST_STEP][PASSED] - if (statuscode == 200): null
+
+2019-05-06 16:57:25 - [TEST_STEP][PASSED] - else: null]]></system-out>
+         <system-err><![CDATA[]]></system-err>
+      </testcase>
+      <testcase name="Test Cases/test" classname="Test Cases/test" status="PASSED">
+         <system-out><![CDATA[2019-05-06 16:57:25 - [TEST_CASE][PASSED] - Test Cases/test: Test Cases/test
+
+2019-05-06 16:57:25 - [TEST_STEP][PASSED] - Storeresponse = sendRequestAndVerify(findTestObject("GLN Check - EOID", ["gln":glnparameter, "urlforcheckeoid":url, "body":body, "methodforcall":methodforcall])): Send request and verify the response successfully
+
+2019-05-06 16:57:29 - [TEST_CASE][PASSED] - Start Test Case : Verification: Verification accomplished successfully
+
+2019-05-06 16:57:29 - [TEST_STEP][PASSED] - request = getInstance().getCurrentRequest(): null
+
+2019-05-06 16:57:29 - [TEST_STEP][PASSED] - response = getInstance().getCurrentResponse(): null
+
+2019-05-06 16:57:29 - [MESSAGE][PASSED] - Verify response successfully
+
+2019-05-06 16:57:29 - [MESSAGE][PASSED] - Send request and verify the response successfully
+
+2019-05-06 16:57:29 - [TEST_STEP][PASSED] - verifyElementPropertyValue(Storeresponse, status, statuscode): Verify element property value successfully
+
+2019-05-06 16:57:29 - [MESSAGE][PASSED] - Verify element property value successfully
+
+2019-05-06 16:57:29 - [TEST_STEP][PASSED] - verifyElementPropertyValue(Storeresponse, messageid, messageidvalue): Verify element property value successfully
+
+2019-05-06 16:57:29 - [MESSAGE][PASSED] - Verify element property value successfully
+
+2019-05-06 16:57:29 - [TEST_STEP][PASSED] - if (statuscode == 200): null
+
+2019-05-06 16:57:29 - [TEST_STEP][PASSED] - else: null]]></system-out>
+         <system-err><![CDATA[]]></system-err>
+      </testcase>
+      <testcase name="Test Cases/test" classname="Test Cases/test" status="PASSED">
+         <system-out><![CDATA[2019-05-06 16:57:29 - [TEST_CASE][PASSED] - Test Cases/test: Test Cases/test
+
+2019-05-06 16:57:29 - [TEST_STEP][PASSED] - Storeresponse = sendRequestAndVerify(findTestObject("GLN Check - EOID", ["gln":glnparameter, "urlforcheckeoid":url, "body":body, "methodforcall":methodforcall])): Send request and verify the response successfully
+
+2019-05-06 16:57:37 - [TEST_CASE][PASSED] - Start Test Case : Verification: Verification accomplished successfully
+
+2019-05-06 16:57:37 - [TEST_STEP][PASSED] - request = getInstance().getCurrentRequest(): null
+
+2019-05-06 16:57:37 - [TEST_STEP][PASSED] - response = getInstance().getCurrentResponse(): null
+
+2019-05-06 16:57:37 - [MESSAGE][PASSED] - Verify response successfully
+
+2019-05-06 16:57:37 - [MESSAGE][PASSED] - Send request and verify the response successfully
+
+2019-05-06 16:57:37 - [TEST_STEP][PASSED] - verifyElementPropertyValue(Storeresponse, status, statuscode): Verify element property value successfully
+
+2019-05-06 16:57:37 - [MESSAGE][PASSED] - Verify element property value successfully
+
+2019-05-06 16:57:37 - [TEST_STEP][PASSED] - verifyElementPropertyValue(Storeresponse, messageid, messageidvalue): Verify element property value successfully
+
+2019-05-06 16:57:37 - [MESSAGE][PASSED] - Verify element property value successfully
+
+2019-05-06 16:57:37 - [TEST_STEP][PASSED] - if (statuscode == 200): null
+
+2019-05-06 16:57:37 - [TEST_STEP][PASSED] - else: null]]></system-out>
+         <system-err><![CDATA[]]></system-err>
+      </testcase>
+      <system-out><![CDATA[2019-05-06 16:55:34 - [TEST_SUITE][PASSED] - FIt-test suite: Test Cases/test]]></system-out>
+      <system-err><![CDATA[]]></system-err>
+   </testsuite>
+</testsuites>

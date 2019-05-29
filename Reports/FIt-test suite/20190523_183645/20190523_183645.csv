@@ -1,0 +1,17 @@
+Suite/Test/Step Name,Browser,Description,Tag,Start time,End time,Duration,Status
+FIt-test suite,,,,2019-05-23 18:36:47,2019-05-23 18:37:02,14.097s,FAILED
+,,,,,,,
+Test Cases/test,,,,2019-05-23 18:36:48,2019-05-23 18:36:54,6.294s,FAILED
+"if (methodforcall == ""PUT"")",,,,2019-05-23 18:36:48,2019-05-23 18:36:53,5.158s,PASSED
+"if (glnparameter == """" && methodforcall == ""POST"")",,,,2019-05-23 18:36:53,2019-05-23 18:36:53,0.001s,PASSED
+else,,,,2019-05-23 18:36:53,2019-05-23 18:36:54,0.828s,FAILED
+,,,,,,,
+Test Cases/test,,,,2019-05-23 18:36:54,2019-05-23 18:36:58,4.020s,FAILED
+"if (methodforcall == ""PUT"")",,,,2019-05-23 18:36:54,2019-05-23 18:36:57,3.038s,PASSED
+"if (glnparameter == """" && methodforcall == ""POST"")",,,,2019-05-23 18:36:57,2019-05-23 18:36:57,0.001s,PASSED
+else,,,,2019-05-23 18:36:57,2019-05-23 18:36:58,0.959s,FAILED
+,,,,,,,
+Test Cases/test,,,,2019-05-23 18:36:58,2019-05-23 18:37:02,3.572s,FAILED
+"if (methodforcall == ""PUT"")",,,,2019-05-23 18:36:58,2019-05-23 18:37:01,2.798s,PASSED
+"if (glnparameter == """" && methodforcall == ""POST"")",,,,2019-05-23 18:37:01,2019-05-23 18:37:01,0.000s,PASSED
+else,,,,2019-05-23 18:37:01,2019-05-23 18:37:02,0.749s,FAILED
